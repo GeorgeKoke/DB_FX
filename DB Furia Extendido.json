@@ -1,7 +1,8 @@
 {
   "DBVER": {
-    "0.0.1": {
-      "Update": "2025-01-20T03:00:00.000Z"
+    "Metadata": {
+      "Version": "0.0.1",
+      "Update": "2025-01-21T03:00:00.000Z"
     }
   },
   "EDITION": {
@@ -122,6 +123,15 @@
       "Coste": 4,
       "Raza": "Eterno",
       "Arte": "https://drive.google.com/thumbnail?id=1JOc2T87L5xF0Rh-fInY-x2p-kI9ijlIH&sz=w1000"
+    },
+    "EXC-006": {
+      "Nombre": "Titania",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1F1RD05M18pCMaVKQ--BljYhfu4wmoRy9&sz=w1000"
     }
   },
   "TRO": {},
