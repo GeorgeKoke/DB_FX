@@ -1,0 +1,293 @@
+{
+  "DBVER": {
+    "0.0.1": {
+      "Update": "2025-01-20T03:00:00.000Z"
+    }
+  },
+  "EDITION": {
+    "ROM": {
+      "Nombre": "Roma",
+      "Logo": "https://drive.google.com/thumbnail?id=1bjiOu66F1hj5aXAAoYxtVGnXQSULszeo&sz=w1000"
+    },
+    "EXC": {
+      "Nombre": "Excalibur",
+      "Logo": "https://drive.google.com/thumbnail?id=1bjvKvjmv3tcfGRIwcGnx7TQTJCQqZHuL&sz=w1000"
+    },
+    "TRO": {
+      "Nombre": "Troya",
+      "Logo": "https://drive.google.com/thumbnail?id=1bo-leNpT9u5CL0gd-OFcvQBlh-IErl7J&sz=w1000"
+    },
+    "GUE": {
+      "Nombre": "Guerreros del Sol",
+      "Logo": "https://drive.google.com/thumbnail?id=1baO0pCfU90qvWQWygKvdzx2aa6eG47UY&sz=w1000"
+    },
+    "GUA": {
+      "Nombre": "Guardiandes de Daana",
+      "Logo": "https://drive.google.com/thumbnail?id=1beKRFmc5yMp-1VBIg3Hm-Sw5z-SIV0LF&sz=w1000"
+    },
+    "KIN": {
+      "Nombre": "Kingdom Quest",
+      "Logo": "https://drive.google.com/thumbnail?id=1biCUDbVgnj1wdehgZzDo_ioGtWT_rQ7o&sz=w1000"
+    }
+  },
+  "ROM": {
+    "ROM-001": {
+      "Nombre": "Julio César",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1MOsV8r2ZOQjLNZsKHRYWqB5wm0FJSRm8&sz=w1000"
+    },
+    "ROM-002": {
+      "Nombre": "César Augusto",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1WVR0xX_tmwNYafAlumZhnz60q_M9Wj3_&sz=w1000"
+    },
+    "ROM-003": {
+      "Nombre": "Aníbal",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 5,
+      "Coste": 5,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZDMALwbWEp5aRMogmQkkrUo0wUPkK7vs&sz=w1000"
+    },
+    "ROM-004": {
+      "Nombre": "Spartacus",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1JwAO4wf9w33ign3mIsuPgmFLcpk66AZm&sz=w1000"
+    },
+    "ROM-005": {
+      "Nombre": "Júpiter",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1bCAoEf_Llq1NoVLS2ATYNg7LaevkXg9p&sz=w1000"
+    }
+  },
+  "EXC": {
+    "EXC-001": {
+      "Nombre": "Rey Arturo",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=11xyRdD3yTyppLofA-HYHktN2pFo7O-QD&sz=w1000"
+    },
+    "EXC-002": {
+      "Nombre": "Sir Lancelot",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=19w2ux62UOXd1CwROaK0N_TvH3-UK9VRq&sz=w1000"
+    },
+    "EXC-003": {
+      "Nombre": "Hengist el Sajón",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1EbdyJFt6dXpGO84kKSUbV9ihmSNKc8F5&sz=w1000"
+    },
+    "EXC-004": {
+      "Nombre": "Cribewr el Gigante",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1-aO3thN5r5k3d5zQAIfebYj2xoRPVO-n&sz=w1000"
+    },
+    "EXC-005": {
+      "Nombre": "Arawn",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1JOc2T87L5xF0Rh-fInY-x2p-kI9ijlIH&sz=w1000"
+    }
+  },
+  "TRO": {},
+  "GUE": {},
+  "GUA": {},
+  "KIN": {
+    "KIN-01": {
+      "Nombre": "Cerby",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1R2NyFWhs5iiAxUaKP0_G0xjnYlswRelq&sz=w1000"
+    },
+    "KIN-02": {
+      "Nombre": "Ifrit",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1R6qMahUWFkSzOAvKfVGBDhlyxOONfLOb&sz=w1000"
+    },
+    "KIN-03": {
+      "Nombre": "Arthur",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RBKOTFn-MaVH07lBKwUPNgazPG0H16Tf&sz=w1000"
+    },
+    "KIN-04": {
+      "Nombre": "Astaroth",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RDLuM1mrlC8gO24jCCMBS7GmeIV2ibNe&sz=w1000"
+    },
+    "KIN-05": {
+      "Nombre": "Leviathan",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 6,
+      "Coste": 5,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RLdm9LvbmETpU9tXy2v7zbm4R5KjOXi9&sz=w1000"
+    },
+    "KIN-06": {
+      "Nombre": "Gales",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RPI6c9uIxJOuRsQepvr_9gBlktpS6SpH&sz=w1000"
+    },
+    "KIN-07": {
+      "Nombre": "Isis",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1R__MYr-F6owjabk1_fwowY_rG0a55jsJ&sz=w1000"
+    },
+    "KIN-08": {
+      "Nombre": "Kizin",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Rd0YOsb9gqJn0aKPr1-wYywBmP75x-p1&sz=w1000"
+    },
+    "KIN-09": {
+      "Nombre": "Fergus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RenqaHCvINqtu4dhswfWCM5IUHWJh6q9&sz=w1000"
+    },
+    "KIN-10": {
+      "Nombre": "Hanzo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RsEKxfH9N_9B_DxitZ4xY5HP69exvsQd&sz=w1000"
+    },
+    "KIN-11": {
+      "Nombre": "Morrigan",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1RvKXouuFDHaBwpdWAgZGmc1sqyoLa3BT&sz=w1000"
+    },
+    "KIN-12": {
+      "Nombre": "Le Fay",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1RxSlRjw33cBlWEcxdCsgPGIxKdNlfvrI&sz=w1000"
+    },
+    "KIN-13": {
+      "Nombre": "Encontrar Botín",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1RxksukhUV3tnD87GV38Sc36_arzLRntY&sz=w1000"
+    },
+    "KIN-14": {
+      "Nombre": "Armadura Épica",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1S50l-eLDewJ3Zm7dGFwwBmT7WDvRugC7&sz=w1000"
+    },
+    "KIN-15": {
+      "Nombre": "Altar Siniestro",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1SAFwARvhJaOWnUL4Ox8Hh5bdtgV4JXa5&sz=w1000"
+    },
+    "KIN-16": {
+      "Nombre": "Poción de Curación",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1QxBFc6XtWxaGG2LH_HmwGF7J7LO3dv8e&sz=w1000"
+    },
+    "KIN-17": {
+      "Nombre": "Corona Arcana",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1Qzds9_ewql9_KJ3jvrHNSXAeEl4TuNTV&sz=w1000"
+    },
+    "KIN-18": {
+      "Nombre": "Anillo de Presición",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1R-jMCqfz0H-0AO57YhTak3hXy67gQQ39&sz=w1000"
+    },
+    "KIN-19": {
+      "Nombre": "Collar de Invisibilidad",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1SJU45RNBk10qD8t-SFzMEb9xJLMWqLff&sz=w1000"
+    },
+    "KIN-20": {
+      "Nombre": "Entrar al Calabozo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1SHrPBKHoMNf_IFazj3D2lc9yxBRKPBLb&sz=w1000"
+    }
+  }
+}
