@@ -76,6 +76,15 @@
       "Coste": 4,
       "Raza": "Eterno",
       "Arte": "https://drive.google.com/thumbnail?id=1bCAoEf_Llq1NoVLS2ATYNg7LaevkXg9p&sz=w1000"
+    },
+    "ROM-006": {
+      "Nombre": "Marte",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1XgcuXgsNZUBvvDUJcS6mq4ImGzlc2JH5&sz=w1000"
     }
   },
   "EXC": {
