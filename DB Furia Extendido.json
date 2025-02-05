@@ -1,8 +1,8 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.0.2",
-      "Update": "2025-01-21T03:00:00.000Z"
+      "Version": "0.0.3",
+      "Update": "2025-02-05T03:00:00.000Z"
     }
   },
   "EDITION": {
@@ -143,9 +143,174 @@
       "Arte": "https://drive.google.com/thumbnail?id=1F1RD05M18pCMaVKQ--BljYhfu4wmoRy9&sz=w1000"
     }
   },
-  "TRO": {},
-  "GUE": {},
-  "GUA": {},
+  "TRO": {
+    "TRO-001": {
+      "Nombre": "Aquiles Invencible",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1rth6UM6H_Q0Eq4BTamfH2qVvdqCSqih2&sz=w1000"
+    },
+    "TRO-002": {
+      "Nombre": "Odiseo",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1s0mMOhDxDEoIcDnRx5WTw5BEZkng_4S-&sz=w1000"
+    },
+    "TRO-003": {
+      "Nombre": "Herácles",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1s0ugl44DOWfDMRbrNLiULtlLztsDKM9M&sz=w1000"
+    },
+    "TRO-004": {
+      "Nombre": "Teseo de Atenas",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1sHODSyEk6l9T4LpbzGmM_AnK1_SSwsJw&sz=w1000"
+    },
+    "TRO-005": {
+      "Nombre": "Zeus de Olimpia",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 5,
+      "Coste": 5,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1sPeugf4yGKd6t5eWSHHnMfe4c7s7hgTs&sz=w1000"
+    },
+    "TRO-006": {
+      "Nombre": "Atenea la Sabia",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1soJdsvJF3Duq5LW0XOTPkycKAEUZJtEC&sz=w1000"
+    }
+  },
+  "GUE": {
+    "GUE-001": {
+      "Nombre": "Kwányip",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SP1aNjKc0jgNcj2e5KWd10qLLFbF7gBc&sz=w1000"
+    },
+    "GUE-002": {
+      "Nombre": "Iqi Balam",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SRQgpoUeJlqFqF-mRDQAIX_mjzB76KKY&sz=w1000"
+    },
+    "GUE-003": {
+      "Nombre": "Moctezuma",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SXVmVu9HqfMKY-Pa2xCzVY9w1z7AOjO7&sz=w1000"
+    },
+    "GUE-004": {
+      "Nombre": "Manco Cápac",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SetnZBY1doXGPeDagQkm9PILX2EasFMh&sz=w1000"
+    },
+    "GUE-005": {
+      "Nombre": "Inti Supremo",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Srw_ZU_EPqjyn1fo-ORAwnm6DmYTninf&sz=w1000"
+    },
+    "GUE-006": {
+      "Nombre": "Huitzilopochtli",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1SuTGF2qQTbdvpt2z0PnyBbGDcOIBnGXo&sz=w1000"
+    }
+  },
+  "GUA": {
+    "GUA-001": {
+      "Nombre": "Bestia de Tara",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1D57q3VpUBweK0wHGuSW_KZPpqCR1am_d&sz=w1000"
+    },
+    "GUA-002": {
+      "Nombre": "Each-Uisge",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1D5_ltCE3W9Vzoz7yU4YjpkF1NoiKfo3h&sz=w1000"
+    },
+    "GUA-003": {
+      "Nombre": "Finn Mac Cool",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1DvMmEg5knfh0QCAiNCR5u48G3eX9LLcO&sz=w1000"
+    },
+    "GUA-004": {
+      "Nombre": "Reina Medb",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1E08R13mZn9OPl5boSO1AXKzckZCXZK1z&sz=w1000"
+    },
+    "GUA-005": {
+      "Nombre": "Cromm Cruach",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 5,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1ES06FIaL9NUXXKCGqDbwPfTpx7iJAtq1&sz=w1000"
+    },
+    "GUA-006": {
+      "Nombre": "Lig Na Paiste",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1EStAGdvnLelaQEC1yhoYyfXUGKGx6osE&sz=w1000"
+    }
+  },
   "KIN": {
     "KIN-01": {
       "Nombre": "Cerby",
