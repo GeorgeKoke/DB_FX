@@ -1,8 +1,8 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.0.3",
-      "Update": "2025-02-05T03:00:00.000Z"
+      "Version": "0.0.4",
+      "Update": "2025-02-06T03:00:00.000Z"
     }
   },
   "EDITION": {
@@ -85,6 +85,2401 @@
       "Coste": 4,
       "Raza": "Eterno",
       "Arte": "https://drive.google.com/thumbnail?id=1XgcuXgsNZUBvvDUJcS6mq4ImGzlc2JH5&sz=w1000"
+    },
+    "ROM-007": {
+      "Nombre": "Plutón",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1ae3GtZKkq5WebGUObr2RUVPsH6dES-vs&sz=w1000"
+    },
+    "ROM-008": {
+      "Nombre": "Invidia",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1_k8cTdR59wHdkpp_YVoE3Pp-hesLzGOU&sz=w1000"
+    },
+    "ROM-009": {
+      "Nombre": "Sybaris",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 5,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1S5wY8w8-q-hiFLqI86kvyY8rUZ5fdAVJ&sz=w1000"
+    },
+    "ROM-010": {
+      "Nombre": "Ofion",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RgsMl6sLkbyjKH4vjRhPuJv9LQ0TjqQC&sz=w1000"
+    },
+    "ROM-011": {
+      "Nombre": "Cetus",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1_gS3fOc8K9oMqSLqVOuUKVjXJM77fap0&sz=w1000"
+    },
+    "ROM-012": {
+      "Nombre": "Luperca",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 5,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Zybb_4DQcNq7VdSK78Cl_ZxxkuA6hLia&sz=w1000"
+    },
+    "ROM-013": {
+      "Nombre": "Victoria de Hércules",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Qge33fhOu44X0Hjak9pgt0wkYrpaJjEC&sz=w1000"
+    },
+    "ROM-014": {
+      "Nombre": "Rómulo y Remo",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1aDkUErq0GJ7eMfI8888Vr3Xcoh_eu0RV&sz=w1000"
+    },
+    "ROM-015": {
+      "Nombre": "Cruzar el Rubicón",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Talisman",
+      "Coste": 5,
+      "Arte": "https://drive.google.com/thumbnail?id=1bRbn43SRZz3XlSWoT3L3oXVMKZGszpC3&sz=w1000"
+    },
+    "ROM-016": {
+      "Nombre": "Arturo Pendragón",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1VRZebYvSdrZQPqAz1hTOFBqm8nVkVFqk&sz=w1000"
+    },
+    "ROM-017": {
+      "Nombre": "Thor Odinson",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1YMyhC26JswlPdmjaiP9jYFXG1Wdpu8Wb&sz=w1000"
+    },
+    "ROM-018": {
+      "Nombre": "Gran Daana",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1YDQFcH4s4e-9CtODOQ9SBu9Q0YFyEs8u&sz=w1000"
+    },
+    "ROM-019": {
+      "Nombre": "Loky",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1KEy0ESeXILdwzETHOHhxayEdZeAyhzbt&sz=w1000"
+    },
+    "ROM-020": {
+      "Nombre": "Gran Dragón Rojo",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1OR0L62OJPDChqdoWuiAA7dSvj91NgdAX&sz=w1000"
+    },
+    "ROM-021": {
+      "Nombre": "Madre Araña",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1aK-MB6x0GyRIlSzVpn900bMWB41n7Nbt&sz=w1000"
+    },
+    "ROM-022": {
+      "Nombre": "Amenaza a los Reinos",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1NgmRzCZGCl1MgyviEMr9qTQnhxdQYevq&sz=w1000"
+    },
+    "ROM-023": {
+      "Nombre": "Resistencia",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1KyhPPO9V5EhAbO0lKn9DEoLwmfZKbaMD&sz=w1000"
+    },
+    "ROM-024": {
+      "Nombre": "Ataque de Scarbos",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1bX_HM033pEvdgaug3fp8B3Nf9pkgsY1E&sz=w1000"
+    },
+    "ROM-025": {
+      "Nombre": "Ira Ígnea",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1YazTVoxlBGym4P7VXeRw2QelfG8li2sJ&sz=w1000"
+    },
+    "ROM-026": {
+      "Nombre": "Ataque Berserker",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1SsxAmGR4Q1wkvLVfSM6uT6Doyp2GXeew&sz=w1000"
+    },
+    "ROM-027": {
+      "Nombre": "Alianza Imposible",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1KLVPcDBpxvjP2QjD3cBUTlKrHpBif5zb&sz=w1000"
+    },
+    "ROM-028": {
+      "Nombre": "Enjambre Siniestro",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1NaDW5x3BBl2suuBHrnqWe8Wgo1m4k7Uk&sz=w1000"
+    },
+    "ROM-029": {
+      "Nombre": "Doble Trueno",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1O0HWYqCCt7o8JzTBgfHOYcVsafpvCOek&sz=w1000"
+    },
+    "ROM-030": {
+      "Nombre": "Abrir Portal",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1LaWVCSbqShIOXcoLeYEJu3TDWTAtJIfN&sz=w1000"
+    },
+    "ROM-031": {
+      "Nombre": "Caminar la Telaraña",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1Y-uNr1xaNqt_ZWkZe10iTQqP4D0EFiAd&sz=w1000"
+    },
+    "ROM-032": {
+      "Nombre": "Fuerza de Lugh",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Pexb8LVhM03SeYy7Ei0T1H2OCtxQcbB2&sz=w1000"
+    },
+    "ROM-033": {
+      "Nombre": "Duelo Dragón",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Reoa-EOgrGRDjXMSlyiJcJW2NX1o1c-p&sz=w1000"
+    },
+    "ROM-034": {
+      "Nombre": "No Más Sombras",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1b0SLY4GOOwkbIpkNbRj2cv8NJ9cri8me&sz=w1000"
+    },
+    "ROM-035": {
+      "Nombre": "Una Nueva Era",
+      "Frecuencia": "MegaReal",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1_Jw4f3ij3Q2anyzKAYEH2Zog06SljCut&sz=w1000"
+    },
+    "ROM-036": {
+      "Nombre": "Marco Antonio",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1NvVseHXXEHjId1nbEfSu5MI8jWLPUY0c&sz=w1000"
+    },
+    "ROM-037": {
+      "Nombre": "Marco Aurelio",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZjBXjytjkkMIgJVgSNgUpp-QfRWcYXL6&sz=w1000"
+    },
+    "ROM-038": {
+      "Nombre": "Escipión el Africano",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1R6T4aOoy-LfpLx5JGukXdpV_SxwwQXBa&sz=w1000"
+    },
+    "ROM-039": {
+      "Nombre": "Germánicus",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Up3sgP6ESgR8JlZ7Vj4Svbqd8BuK0QvL&sz=w1000"
+    },
+    "ROM-040": {
+      "Nombre": "Vercingétorix",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1QEDLyvL3qhJ6L9RfyOISRPRxW2wFjEZ2&sz=w1000"
+    },
+    "ROM-041": {
+      "Nombre": "Boudica",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1S8Hf3j9gvWoRUGmrT17sEiknf-wFBXGI&sz=w1000"
+    },
+    "ROM-042": {
+      "Nombre": "Arminio",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1NBk8FakRPYgq6IXDHZr5S_2MZCaALiOr&sz=w1000"
+    },
+    "ROM-043": {
+      "Nombre": "Zenobia",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1btx1qb7GzY7-ki6364fhrty5--xc5x1B&sz=w1000"
+    },
+    "ROM-044": {
+      "Nombre": "Mitra",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1b0ziVLUzMEtnL6_v32cjc1JaD5TkkEc6&sz=w1000"
+    },
+    "ROM-045": {
+      "Nombre": "Neptuno",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Xi5c66mYgVeNUre10Iqr9kk-lZPfQz-g&sz=w1000"
+    },
+    "ROM-046": {
+      "Nombre": "Vulcano",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1WjS6QzH8VsGQjjrPIqesicOm0i1lDQ8k&sz=w1000"
+    },
+    "ROM-047": {
+      "Nombre": "Venus",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1M4T_b3jpPXQB0Y6Aj8kc20E__w72uGkD&sz=w1000"
+    },
+    "ROM-048": {
+      "Nombre": "Orcus",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1b1R-JO7GWqDKs9UnAnlRtfxHMw5v993A&sz=w1000"
+    },
+    "ROM-049": {
+      "Nombre": "Mors",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1PpTvFXfB4u9JW1_pe1MnYb1uSehZdO1p&sz=w1000"
+    },
+    "ROM-050": {
+      "Nombre": "Laverna",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1LWovEs4vckGgrhuGh437RsBrp6do9JCr&sz=w1000"
+    },
+    "ROM-051": {
+      "Nombre": "Larvae",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1RWUHcDZK-5nkXoz2LBlBvuU0En7mZxLB&sz=w1000"
+    },
+    "ROM-052": {
+      "Nombre": "Draco de Bagrada",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1MNPtD71HwgYJ-kKQ1RqTqLzWPptAVimS&sz=w1000"
+    },
+    "ROM-053": {
+      "Nombre": "Arimanius",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1VsKSSFzBNQS-khF5TtA9RG9Sv9s02GkQ&sz=w1000"
+    },
+    "ROM-054": {
+      "Nombre": "Draco Etíope",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1PnCWMw7Zc1n-K_Y1Z2Z9U8nJDciTjzNf&sz=w1000"
+    },
+    "ROM-055": {
+      "Nombre": "Draco Indicus",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZCY2iRra_CsMXCCTtUqvEsYDBsKXBQks&sz=w1000"
+    },
+    "ROM-056": {
+      "Nombre": "Caladrius",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1YsfkOXwWEiFCABqzLX7JNZlRui6ZlX8H&sz=w1000"
+    },
+    "ROM-057": {
+      "Nombre": "Leucrota",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1ROuftKIXQHjLt1PyqtUeShcrGHaEVlZl&sz=w1000"
+    },
+    "ROM-058": {
+      "Nombre": "Gran Tritón",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZbRClF231sHsAmIJIjVS5lIstrkxUn9i&sz=w1000"
+    },
+    "ROM-059": {
+      "Nombre": "Scolopendra",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1KFaaxR93cu2N60xeJ4gFLnElxCU9QOnd&sz=w1000"
+    },
+    "ROM-060": {
+      "Nombre": "Cleopatra VII",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1TFWF5BAt5gofzl1c5eSZgzt4YGhxLbpr&sz=w1000"
+    },
+    "ROM-061": {
+      "Nombre": "Saturno",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1Xx8KuT9ONVQX-1MRD-4KUR7kC2e5yNSp&sz=w1000"
+    },
+    "ROM-062": {
+      "Nombre": "Baco",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1MI3gHghIKO8OSRenEzuTaiPOdO3VHnan&sz=w1000"
+    },
+    "ROM-063": {
+      "Nombre": "Fauno",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1LVo2dSuEd3zI1CRj9C-h4Nh0QICC51G9&sz=w1000"
+    },
+    "ROM-064": {
+      "Nombre": "Humillar",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZvxT0qJHRCqutqFAq76zKZQS4tmrnKBd&sz=w1000"
+    },
+    "ROM-065": {
+      "Nombre": "Protogenoi",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1NioyNzg_kdpHuHf69qAoW0C_02NEsQZx&sz=w1000"
+    },
+    "ROM-066": {
+      "Nombre": "Idus de Marzo",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1SG_sFwhInjcWamEhYSgwugQ1zM6euPPQ&sz=w1000"
+    },
+    "ROM-067": {
+      "Nombre": "Llamado de Venus",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1M001Ksgh4VaiBxPDlpXm8EWPo6C6MKo7&sz=w1000"
+    },
+    "ROM-068": {
+      "Nombre": "Venatio",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1SsuoeOuIhy5f0HWRDtwS8lRlG4N9p2_r&sz=w1000"
+    },
+    "ROM-069": {
+      "Nombre": "Formación Tortuga",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1_qs17TTSzGD1p02WtlkzfWCyghmM43uR&sz=w1000"
+    },
+    "ROM-070": {
+      "Nombre": "Gladius Pompeya",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1QnpifB66uoYaN0dSi6qdYznCCZWAXQGU&sz=w1000"
+    },
+    "ROM-071": {
+      "Nombre": "Tridenti Marem",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1WwELP_6_BLL9g0-EMh4mL_IVwZo7noB-&sz=w1000"
+    },
+    "ROM-072": {
+      "Nombre": "Aries",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1aUJPQrzRy6afHXQGEn45pBd6xUUHR8nQ&sz=w1000"
+    },
+    "ROM-073": {
+      "Nombre": "Coliseo",
+      "Frecuencia": "Real",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZAPRkqOvKFQNKl8Ccw4DrSw5TPVgvJ0v&sz=w1000"
+    },
+    "ROM-074": {
+      "Nombre": "Foro Romano",
+      "Frecuencia": "Real",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1MCtYqiP66tnLXF1aybj1_plujMf3lyrr&sz=w1000"
+    },
+    "ROM-075": {
+      "Nombre": "Panteón de Agripa",
+      "Frecuencia": "Real",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZxBBEuCWYYhtFfZ7CxTJwaGefxAdwfWx&sz=w1000"
+    },
+    "ROM-076": {
+      "Nombre": "Aureliano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1NbToOzBoPhlUt-9hzLgEsR48lVSHlDmT&sz=w1000"
+    },
+    "ROM-076F": {
+      "Nombre": "Aureliano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1PzZP6JmJ3uZ24Hi7NC_hHWo5Dw9H6Pod&sz=w1000"
+    },
+    "ROM-077": {
+      "Nombre": "Trajano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1OF7KOkYYiiALqPlG7Z4PoprXaKHSyp5l&sz=w1000"
+    },
+    "ROM-077F": {
+      "Nombre": "Trajano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1KZuyLK-FaZ9rSrQ-DoTSBe2Gz-mkaCJt&sz=w1000"
+    },
+    "ROM-078": {
+      "Nombre": "Nerón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Kl9ytv0kw9Nsk6ZUZh4oWQV-gSskyV4y&sz=w1000"
+    },
+    "ROM-078F": {
+      "Nombre": "Nerón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1KnHMBhWCJB2FoVrLYGa151GYPZv_Z5g7&sz=w1000"
+    },
+    "ROM-079": {
+      "Nombre": "Flamma",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Kn5MrdAlBaBMhGtOYQEVy3MDPmvv345T&sz=w1000"
+    },
+    "ROM-079F": {
+      "Nombre": "Flamma",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1aOxBxmNP2uhEQJQ2Fs6Cc-W4rOsbHuRm&sz=w1000"
+    },
+    "ROM-080": {
+      "Nombre": "Viriato",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Yl5MQTZDcD5XXwcHCy5PenWFmVeHAJt9&sz=w1000"
+    },
+    "ROM-080F": {
+      "Nombre": "Viriato",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Xol-55g2ezodc4ceQQbfHc2Qxo2ASOke&sz=w1000"
+    },
+    "ROM-081": {
+      "Nombre": "Carpóforo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Zo90ABKTEztrkaNHuri8nKuDd4oOHAdK&sz=w1000"
+    },
+    "ROM-081F": {
+      "Nombre": "Carpóforo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1MCyrCrInEzzfHVlzEpg6Myd15oKBBjFz&sz=w1000"
+    },
+    "ROM-082": {
+      "Nombre": "Jano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1XREK1qNoO9w9vNGrGrzNURTXDG3r79is&sz=w1000"
+    },
+    "ROM-082F": {
+      "Nombre": "Jano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1T3Bg-miTKbmjWC3lWIR6uVAaSNUBtQ41&sz=w1000"
+    },
+    "ROM-083": {
+      "Nombre": "Juno Regina",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1_kVGqVWawrT85LorjIrpVMnYu30joUmf&sz=w1000"
+    },
+    "ROM-083F": {
+      "Nombre": "Juno Regina",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1_tnvxt2IIeFTma_VplsI1urvy_Wah8yQ&sz=w1000"
+    },
+    "ROM-084": {
+      "Nombre": "Mercurio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1M2bYhHreqDdARXD-4uOJfc7qr6zeIZsE&sz=w1000"
+    },
+    "ROM-084F": {
+      "Nombre": "Mercurio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1cGR-BJCIX6K5FWc03-_PZMm9Tm1mtvE4&sz=w1000"
+    },
+    "ROM-085": {
+      "Nombre": "Eurynomos",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1YgaQX6p3wR7yZxSHZu6xQOXWM0A1pOBr&sz=w1000"
+    },
+    "ROM-085F": {
+      "Nombre": "Eurynomos",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1WbfgB64VvP95PLH0VHhewfffbA8FknN0&sz=w1000"
+    },
+    "ROM-086": {
+      "Nombre": "Lémures",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1PTh-b8hoJFbvPxiArG-Az51-2OeGhtH3&sz=w1000"
+    },
+    "ROM-086F": {
+      "Nombre": "Lémures",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1RGknng_oJnmEJGxTy-Luu2XrxNkcS2q_&sz=w1000"
+    },
+    "ROM-087": {
+      "Nombre": "Fatae",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1_uK_ZOejn5J63P9p312B5a5I1BLdk9C6&sz=w1000"
+    },
+    "ROM-087F": {
+      "Nombre": "Fatae",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1Siir_wCBxWw8qG4wx0hH0u_5fSDvnh6h&sz=w1000"
+    },
+    "ROM-088": {
+      "Nombre": "Draco Thespiacus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RQO5uXsed6fSeeR-V4xB0RGVpPdFBpHo&sz=w1000"
+    },
+    "ROM-088F": {
+      "Nombre": "Draco Thespiacus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1QgEkNH59ZofuYenaOkPXvuIQjiKfp5df&sz=w1000"
+    },
+    "ROM-089": {
+      "Nombre": "Draco Frigio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1WhvU800bwtwJrk9Cq67JGTS4WgEbYd5C&sz=w1000"
+    },
+    "ROM-089F": {
+      "Nombre": "Draco Frigio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1WiszU6eyIivkQjf6nH-uNStIJH_bvqWm&sz=w1000"
+    },
+    "ROM-090": {
+      "Nombre": "Draco de Rodas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1KrUOc0hLBhyX_i7hh8WopT9r6lXgt2yM&sz=w1000"
+    },
+    "ROM-090F": {
+      "Nombre": "Draco de Rodas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1KxahWx7Q_zvnq2bAoskP2OAL8hNSvN6z&sz=w1000"
+    },
+    "ROM-091": {
+      "Nombre": "Pegaso Etíope",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ph7fRM2n9iE6K0ghgGUHNN-E2hZUS8ss&sz=w1000"
+    },
+    "ROM-091F": {
+      "Nombre": "Pegaso Etíope",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1NlOWZTK48R7ZMOtWj-JyLyr2-8I-F0FG&sz=w1000"
+    },
+    "ROM-092": {
+      "Nombre": "Catoblepas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ybs-fMZy0reGWX7K1RrdHZyHA0sIJ5Wz&sz=w1000"
+    },
+    "ROM-092F": {
+      "Nombre": "Catoblepas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1LyOLduy72q11Dagkw4lryVIZS6Xt1XW0&sz=w1000"
+    },
+    "ROM-093": {
+      "Nombre": "Aves de Marte",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1bk1pP3TO55U_w5oFjLHGwWCyVvftZkNA&sz=w1000"
+    },
+    "ROM-093F": {
+      "Nombre": "Aves de Marte",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Xr8ek7brtZZGbzblE07044y2RuPTDera&sz=w1000"
+    },
+    "ROM-094": {
+      "Nombre": "Agripina la Menor",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SkplQQzeMNcV3yDU__NYOYn_PUsiWPWA&sz=w1000"
+    },
+    "ROM-094F": {
+      "Nombre": "Agripina la Menor",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1MwZtLl4jedCnY-okuMCVkj4OyQQPYnBV&sz=w1000"
+    },
+    "ROM-095": {
+      "Nombre": "Bruto",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1QO8jKGcPNpGPI1xjD9apyFS2kIHf6oN-&sz=w1000"
+    },
+    "ROM-095F": {
+      "Nombre": "Bruto",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RdSvHpq_1sjgDAb6PuOg_uB39_Pipa6i&sz=w1000"
+    },
+    "ROM-096": {
+      "Nombre": "Flamen",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1KypMbhZ7lEBPXuURJIicVXDgdnoeTSVA&sz=w1000"
+    },
+    "ROM-096F": {
+      "Nombre": "Flamen",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Pk2yEBaLGVcHFvjleXdfM5O8u1JTCKSr&sz=w1000"
+    },
+    "ROM-097": {
+      "Nombre": "Erupción del Vesubio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1SLE2REw32N7Vvm9p06jn4QzaUtagotxu&sz=w1000"
+    },
+    "ROM-097F": {
+      "Nombre": "Erupción del Vesubio",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1_TnltU-wHvJAabnEMFfHlyLV3ZKSRvbC&sz=w1000"
+    },
+    "ROM-098": {
+      "Nombre": "Dei Inferi",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1OJiwev-R7bhuS3EweuicuijpOV1JGIYM&sz=w1000"
+    },
+    "ROM-098F": {
+      "Nombre": "Dei Inferi",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1KJIWS_f1m-ibRPjWEVQvBXV-LjcyetbL&sz=w1000"
+    },
+    "ROM-099": {
+      "Nombre": "Incitatus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1QZRSTCX8SWq7SYMz7k-f1V5amEq9fmUf&sz=w1000"
+    },
+    "ROM-099F": {
+      "Nombre": "Incitatus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Q_tR0NMU1HR_iBp9cXsZ97x-8P1FcIWn&sz=w1000"
+    },
+    "ROM-100": {
+      "Nombre": "Veni, Vidi, Vici",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Mk07cKzkVa0JvB0yafMYOLnruS7t0Uin&sz=w1000"
+    },
+    "ROM-100F": {
+      "Nombre": "Veni, Vidi, Vici",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Vf2I488UjgaA7Ut_qzKUpSDCOhKXFar5&sz=w1000"
+    },
+    "ROM-101": {
+      "Nombre": "Carga de Elefantes",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1M7O6176fiDw1RVaxK-vDAe1m12822EYT&sz=w1000"
+    },
+    "ROM-101F": {
+      "Nombre": "Carga de Elefantes",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1Str0enRy6j3Rub9JvYWpLRsYcPK2ABze&sz=w1000"
+    },
+    "ROM-102": {
+      "Nombre": "Ofrenda Siniestra",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1_h-9DxTMuh7cbrEyA_SZe73Zr6OZTplJ&sz=w1000"
+    },
+    "ROM-102F": {
+      "Nombre": "Ofrenda Siniestra",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1V5XOF4IbDqI8NZaKtu9m5v2Hf1FM5PnG&sz=w1000"
+    },
+    "ROM-103": {
+      "Nombre": "Scutum",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1R2Li2zKs7ZKTH6N6j54RxcKGxC6Dtd_L&sz=w1000"
+    },
+    "ROM-103F": {
+      "Nombre": "Scutum",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1bohs_y3Yl8XGkXF3CPrr47Qkxn0Q90sB&sz=w1000"
+    },
+    "ROM-104": {
+      "Nombre": "Pilum",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1SMA2WUzxcFsLlOZbJgG2raib_lHcsujU&sz=w1000"
+    },
+    "ROM-104F": {
+      "Nombre": "Pilum",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Uqo8aG2ePmJ7Vi5D61fcHDnaz3501q2i&sz=w1000"
+    },
+    "ROM-105": {
+      "Nombre": "Falcata ibera",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1MrxqN7YdSv0KkH9IESaZVTgpSKaLO_Yg&sz=w1000"
+    },
+    "ROM-105F": {
+      "Nombre": "Falcata ibera",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZtLDxtT5QB-wlbn7AseRCnS_2H_NnWGQ&sz=w1000"
+    },
+    "ROM-106": {
+      "Nombre": "Onagro",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1ap1YlOlZ1lpiZsFScEK6iwZXzSMuMH2E&sz=w1000"
+    },
+    "ROM-106F": {
+      "Nombre": "Onagro",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1XT2sB_fjAzhuuej8t7Bv_9H_x3prbZJT&sz=w1000"
+    },
+    "ROM-107": {
+      "Nombre": "Columna de Trajano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1MB9OYrmXWpnrfpzYwiZ39xkAR8sTuVfD&sz=w1000"
+    },
+    "ROM-107F": {
+      "Nombre": "Columna de Trajano",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1XcnqaFdctllDCtXHzO1poMVU_neruVf_&sz=w1000"
+    },
+    "ROM-108": {
+      "Nombre": "Pórtico de Octavia",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZDB_RDYMSEOE1KZ0fqxMMnfErk0dZpa3&sz=w1000"
+    },
+    "ROM-108F": {
+      "Nombre": "Pórtico de Octavia",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1Oufzip0sc2ERyEnNgrENh2OR2FoFK3Sd&sz=w1000"
+    },
+    "ROM-109": {
+      "Nombre": "Hércules Victorioso",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1Wp4XoCFu6E9gLyd0Df0IkX69VYOK8MrY&sz=w1000"
+    },
+    "ROM-109F": {
+      "Nombre": "Hércules Victorioso",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1XqdQpOU6h2ft9qHBSfqy2zmN7fVWdmee&sz=w1000"
+    },
+    "ROM-110": {
+      "Nombre": "Circus Maximus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1MIFoeel7klZTTZjl_nYmiev2akMTW2E0&sz=w1000"
+    },
+    "ROM-110F": {
+      "Nombre": "Circus Maximus",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Totem",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1Rjh9ShzTxMcyCWbptoOSFAb6IDgQyhn1&sz=w1000"
+    },
+    "ROM-111": {
+      "Nombre": "Calígula",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1LEnSZTwy06SLN4dZoKMdxuOloplyPAqV&sz=w1000"
+    },
+    "ROM-111F": {
+      "Nombre": "Calígula",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1M4hCRmJz32DI51mN6Yx06IX9jJ44wOSk&sz=w1000"
+    },
+    "ROM-112": {
+      "Nombre": "Caracalla",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1TBGWjGF0koz3y3YlMDXaGVd8nNXIwNdr&sz=w1000"
+    },
+    "ROM-112F": {
+      "Nombre": "Caracalla",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Sxtdu52a1kMu6yeGsXJGgxO0puAC_zLn&sz=w1000"
+    },
+    "ROM-113": {
+      "Nombre": "Cómodo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1bAAyrxXe9FlQIkNP8VgeKKu-EznxssRe&sz=w1000"
+    },
+    "ROM-113F": {
+      "Nombre": "Cómodo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1_r3-FKHj1ueSV9gLEm7VZaNRLoZzFC5M&sz=w1000"
+    },
+    "ROM-114": {
+      "Nombre": "Harii",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1L-k0VqQ8eDC1QzVuToju1atDZ5rcva6f&sz=w1000"
+    },
+    "ROM-114F": {
+      "Nombre": "Harii",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1aiHEEV1T40yP6VbzuZcOlto7YUVUYvBj&sz=w1000"
+    },
+    "ROM-115": {
+      "Nombre": "Decébalo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1VMUe1MneVt_vLj60zZIB7927nq3Jxt8k&sz=w1000"
+    },
+    "ROM-115F": {
+      "Nombre": "Decébalo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1LMKjnch4t3sqAPlCj8sbbv95hAWiVtA_&sz=w1000"
+    },
+    "ROM-116": {
+      "Nombre": "Ambiorix",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Zd9UIaJLeOdlv_fBDFFDRCq0fHXBW9p2&sz=w1000"
+    },
+    "ROM-116F": {
+      "Nombre": "Ambiorix",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1PQsrH06hL4rJCaP6W3F6I1XoNQjRYaDp&sz=w1000"
+    },
+    "ROM-117": {
+      "Nombre": "Diana",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZwSx4KnPBVcne0wLwQr7WLVlk56R45OP&sz=w1000"
+    },
+    "ROM-117F": {
+      "Nombre": "Diana",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1YEmMWDnJJ0pAptNZ_8yBw-tos8clrbLF&sz=w1000"
+    },
+    "ROM-118": {
+      "Nombre": "Victoria",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1aUr16vV2nKIXW0iWugiEXAt1IC39hnLW&sz=w1000"
+    },
+    "ROM-118F": {
+      "Nombre": "Victoria",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Qffa7rA060WgzWO_9dCJVrNGqNMVDobN&sz=w1000"
+    },
+    "ROM-119": {
+      "Nombre": "Vesta",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1MomMbFfnZZ8ric-UrYOcLmauOcpMK1VH&sz=w1000"
+    },
+    "ROM-119F": {
+      "Nombre": "Vesta",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Odu3A-o3PjK_KlQ7kuqpbLlrciC18bHM&sz=w1000"
+    },
+    "ROM-120": {
+      "Nombre": "Los Palici",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1OuN7GR3nuuGf2aDZRX-SbRO7cMkJmBpy&sz=w1000"
+    },
+    "ROM-120F": {
+      "Nombre": "Los Palici",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1TMoSSFubcRQ3k3rTRuywnCq7i0Uv6oz_&sz=w1000"
+    },
+    "ROM-121": {
+      "Nombre": "Nenia Dea",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 0,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1RwMX_xRASOTegYCpcfPs7v3eGVhOYsbK&sz=w1000"
+    },
+    "ROM-121F": {
+      "Nombre": "Nenia Dea",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 0,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1YV-h5aK0L4HbP-8Y5ieo6CexKHbEkqBO&sz=w1000"
+    },
+    "ROM-122": {
+      "Nombre": "Brucolaco",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1LZg6H0vNoy6t9wttc8HEvWs60Rk6Zqoe&sz=w1000"
+    },
+    "ROM-122F": {
+      "Nombre": "Brucolaco",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1McOPf1yEXn7fu_RcFbsdf_3_-86GC9TW&sz=w1000"
+    },
+    "ROM-123": {
+      "Nombre": "Draco Ofiogenicus",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1XbBDWNmnPD_zPDuSY6pg-f9xc1ZOoAAE&sz=w1000"
+    },
+    "ROM-123F": {
+      "Nombre": "Draco Ofiogenicus",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ww4jOt7VthDBa9CRbHkbJpJuW_GB8dBs&sz=w1000"
+    },
+    "ROM-124": {
+      "Nombre": "Draco Pitanius",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1V8Vhzqxx7idqDO2w870iheAT89kIzUT3&sz=w1000"
+    },
+    "ROM-124F": {
+      "Nombre": "Draco Pitanius",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1PCv1F-f2g4d_CelUHyIrGTjcG8W-u_9i&sz=w1000"
+    },
+    "ROM-125": {
+      "Nombre": "Draco Maeonius",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1PK5WfNTFe9vcW6E4fCh53H0A-1ijIuuw&sz=w1000"
+    },
+    "ROM-125F": {
+      "Nombre": "Draco Maeonius",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1SDtrGKjg82GvxTzV2TOjVrfBgs2HQ5I5&sz=w1000"
+    },
+    "ROM-126": {
+      "Nombre": "Yale",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1N5aKL_-1c42O0_5Tq_-OI_pLHueumduB&sz=w1000"
+    },
+    "ROM-126F": {
+      "Nombre": "Yale",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1MrowB8q7c36r1O_QaHNzC0V9p9PHSnmp&sz=w1000"
+    },
+    "ROM-127": {
+      "Nombre": "Grifo Escita",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1QCX6I814fk8KFmVL3U68sg38_J9bhIBx&sz=w1000"
+    },
+    "ROM-127F": {
+      "Nombre": "Grifo Escita",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1YqidlXwcPzaFoHe8HTm6b8Azyh5SldR6&sz=w1000"
+    },
+    "ROM-128": {
+      "Nombre": "Doble Andadora",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1b8IukX8dHgFyqMz4pCMvZ76v6W7P1J47&sz=w1000"
+    },
+    "ROM-128F": {
+      "Nombre": "Doble Andadora",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1_E4XjPDXtPORbsMnxbHBMkioobK3udLO&sz=w1000"
+    },
+    "ROM-129": {
+      "Nombre": "Pretoriano",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1_eOSvapy58-J6f2aHl1S4pQx04AXi7oN&sz=w1000"
+    },
+    "ROM-129F": {
+      "Nombre": "Pretoriano",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1L5PdX4riAgq97DgfcWQ_UJH2uD8dd2jp&sz=w1000"
+    },
+    "ROM-130": {
+      "Nombre": "Ariovistus",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1XUxvFbgXVj2Xwifx_8eio-FTTjYMqruj&sz=w1000"
+    },
+    "ROM-130F": {
+      "Nombre": "Ariovistus",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1SSQb7Lf96xyF4nxWFEE6Q6PR0IPQ3HLE&sz=w1000"
+    },
+    "ROM-131": {
+      "Nombre": "Luna",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1PtbO9BJ0ua7kAnK549MyWfoeWBrHvp07&sz=w1000"
+    },
+    "ROM-131F": {
+      "Nombre": "Luna",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1WAJF8puGhEsfC9x8SW3nV0jJkMhAgSEk&sz=w1000"
+    },
+    "ROM-132": {
+      "Nombre": "Conquistador de Galia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1Xq3XJUE9-VLKpmmzqe3XTvYLI2yU7xqe&sz=w1000"
+    },
+    "ROM-132F": {
+      "Nombre": "Conquistador de Galia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1KhaZOd-YTetaFZsmleVSTjGEeMOETjUw&sz=w1000"
+    },
+    "ROM-133": {
+      "Nombre": "Enemigo de Roma",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1LF7nr4SFTwBNvHmSb-pv00pfBzG7LnfY&sz=w1000"
+    },
+    "ROM-133F": {
+      "Nombre": "Enemigo de Roma",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1cIMvTlMtCLgMFssUnQBWsUAzB9-5_hLT&sz=w1000"
+    },
+    "ROM-134": {
+      "Nombre": "Manes",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZiO33oPP3eLyrqFyGlQWZree8VGmuTU_&sz=w1000"
+    },
+    "ROM-134F": {
+      "Nombre": "Manes",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1R4A3zMUQFhzQ0lK35YMQMy52jhjelOMf&sz=w1000"
+    },
+    "ROM-135": {
+      "Nombre": "Bacanal",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 5,
+      "Arte": "https://drive.google.com/thumbnail?id=1bkieRj5uoqYjFZEkiXsLNh_Hbbt1Tpfu&sz=w1000"
+    },
+    "ROM-135F": {
+      "Nombre": "Bacanal",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 5,
+      "Arte": "https://drive.google.com/thumbnail?id=1XQSmNypWXi089HRqPTITmJkaGuLUl3Cw&sz=w1000"
+    },
+    "ROM-136": {
+      "Nombre": "Masacre de Teutoburgo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 6,
+      "Arte": "https://drive.google.com/thumbnail?id=1Wi20Q63W4K5H7HdDV3WA3rayYhPG4oH-&sz=w1000"
+    },
+    "ROM-136F": {
+      "Nombre": "Masacre de Teutoburgo",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 6,
+      "Arte": "https://drive.google.com/thumbnail?id=1Obr2qBt9Poqq5OMPdV6kfFDWe2Jbk1PH&sz=w1000"
+    },
+    "ROM-137": {
+      "Nombre": "Devotio ibérica",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1NFj_rUb9GHkqboXxXMhH0iPoPwsqiZ6u&sz=w1000"
+    },
+    "ROM-137F": {
+      "Nombre": "Devotio ibérica",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1YsHNnVAYYoADyrD6p26BPXtlIi_6Wu5W&sz=w1000"
+    },
+    "ROM-138": {
+      "Nombre": "Manuballista",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1SU1-YV7TVOPaVPJGrg1Vn5DQ9zFMn130&sz=w1000"
+    },
+    "ROM-138F": {
+      "Nombre": "Manuballista",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1aL2UBbQ_Z3IQUXLdiUqnKa_fNs2F4WLW&sz=w1000"
+    },
+    "ROM-139": {
+      "Nombre": "Casco Etrusco-corintio",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1KKdXAaWHNgL7WRLASgxAkn8_zUkvlG3Z&sz=w1000"
+    },
+    "ROM-139F": {
+      "Nombre": "Casco Etrusco-corintio",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1_ygR6Y4syetxAmKeRYo3Wbwt5v2N8Ikg&sz=w1000"
+    },
+    "ROM-140": {
+      "Nombre": "Plumbata",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1NObwtGuyEGowaHzaTlaLQJUaFVR1f3mP&sz=w1000"
+    },
+    "ROM-140F": {
+      "Nombre": "Plumbata",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1M01UJdGQ54NlsyHdVR4M_r7g8xXsqFey&sz=w1000"
+    },
+    "ROM-141": {
+      "Nombre": "Galae",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1cIKwYTV3Z4xYGoakxirQ5fSBtjMIDX3V&sz=w1000"
+    },
+    "ROM-141F": {
+      "Nombre": "Galae",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Oy6Rw6paDY8oRe685grDWUr27WO5Hw3i&sz=w1000"
+    },
+    "ROM-142": {
+      "Nombre": "Thermae",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1US3bBm_2rZ8dQZ32-ESZ9irkCnu4gTxk&sz=w1000"
+    },
+    "ROM-142F": {
+      "Nombre": "Thermae",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1QWaifd1s3aeA09TO-7QfNKxb_eGHNr2u&sz=w1000"
+    },
+    "ROM-143": {
+      "Nombre": "Santuario de Epona",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1MMoD172c7V5GntkS8WWpzjw1rVaM_fcZ&sz=w1000"
+    },
+    "ROM-143F": {
+      "Nombre": "Santuario de Epona",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1O4Gk63jRc51WmypMQSp-KJQM5lcKagcJ&sz=w1000"
+    },
+    "ROM-144": {
+      "Nombre": "Templo de Vesta",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1VwfRJaJezmsgEnG8fsh_93FK6HlJQlBV&sz=w1000"
+    },
+    "ROM-144F": {
+      "Nombre": "Templo de Vesta",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1UxZZw82xDL74RwcXHzCDmWR4EZUj03tl&sz=w1000"
+    },
+    "ROM-145": {
+      "Nombre": "Pirámide Cestia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1MLgRgY3DWZrGcYKT6J_wjDoEQAX8ulVh&sz=w1000"
+    },
+    "ROM-145F": {
+      "Nombre": "Pirámide Cestia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Totem",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1OUFpyj15MYFryC8HGECOIDshXuRoOxzH&sz=w1000"
+    },
+    "ROM-146": {
+      "Nombre": "Cornucopia",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1OGYW3IFdEaHMcMgy2J0rPRaBEWIpyaaC&sz=w1000"
+    },
+    "ROM-146F": {
+      "Nombre": "Cornucopia",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1YrWPkyYbn8CC2Q5jJBAqzUE8eXx5XArD&sz=w1000"
+    },
+    "ROM-147": {
+      "Nombre": "Ficus Ruminalis",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1XNpMRyH59ZxqmmXp0NKp68lGIXIriCIi&sz=w1000"
+    },
+    "ROM-147F": {
+      "Nombre": "Ficus Ruminalis",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1NJP0SO_7YlNLa2QhM1SMVb-ngrRCbEe7&sz=w1000"
+    },
+    "ROM-148": {
+      "Nombre": "Corona de Laurel",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1VE7SzQEtlvgjeAjsYtllXiSiGonJ3ZoN&sz=w1000"
+    },
+    "ROM-148F": {
+      "Nombre": "Corona de Laurel",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1b7K8k41Ol4-DHLbXHqVpld4ysKFSCG8p&sz=w1000"
+    },
+    "ROM-149": {
+      "Nombre": "Águila Romana",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1MZRVHDpt1Bxcvjg-azMgmIoUzCIohX7g&sz=w1000"
+    },
+    "ROM-149F": {
+      "Nombre": "Águila Romana",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1Wam0mf5OvIkvnluEGJHE6ZeKAf-LUWJ8&sz=w1000"
+    },
+    "ROM-150": {
+      "Nombre": "Fuego Sagrado",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1RWzGsWyg3xX2QvzcCdzPkL5Pac7_EOE3&sz=w1000"
+    },
+    "ROM-150F": {
+      "Nombre": "Fuego Sagrado",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1NfDdz68uFWLB-b3AxFSR_24zLTY5keBU&sz=w1000"
+    },
+    "ROM-151": {
+      "Nombre": "Victoria de Hércules",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1SKJK0C6M_LrFK6AobtQY1AUIS2JnLuhz&sz=w1000"
+    },
+    "ROM-152": {
+      "Nombre": "Rómulo y Remo",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1ac7Hb4RLPppnOjqwT90xLuqFCrOw6tzh&sz=w1000"
+    },
+    "ROM-153": {
+      "Nombre": "Cruzar el Rubicón",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talisman",
+      "Coste": 5,
+      "Arte": "https://drive.google.com/thumbnail?id=1K_ubfml1oUtfrssWI4QUk_vgSpEu07yw&sz=w1000"
+    },
+    "ROM-154": {
+      "Nombre": "Ira Ígnea",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1P2sC0q0_IMHCSewWqjth0lbOUMYt3q88&sz=w1000"
+    },
+    "ROM-155": {
+      "Nombre": "Abrir Portal",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1MiZDEbKmsF8sXW6z6a-yHzsKSxs0e2Qh&sz=w1000"
+    },
+    "ROM-156": {
+      "Nombre": "Julio César",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1WTEEgnx-7O-OH8KSYjfeKiRo8XKemIJj&sz=w1000"
+    },
+    "ROM-157": {
+      "Nombre": "Spartacus",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1S2-v_Co_Ldh5R_O07JvsvUywL_LJZk1r&sz=w1000"
+    },
+    "ROM-158": {
+      "Nombre": "Marte",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZU1EM3URbyE2v-0-JJgwzUQ9eo2dsZDT&sz=w1000"
+    },
+    "ROM-159": {
+      "Nombre": "Plutón",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1c4xtzcZ3Ms_te0qCKC8LCM8KHANaYsx7&sz=w1000"
+    },
+    "ROM-160": {
+      "Nombre": "Ofión",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1Sg_yCVORTAVaOFTC7NcUGAD3MREfOS2-&sz=w1000"
+    },
+    "ROM-161": {
+      "Nombre": "Luperca",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 5,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Xg8UQXONSWdE-kVSOE8aRyXz2HyLWCd2&sz=w1000"
+    },
+    "ROM-162": {
+      "Nombre": "Cleopatra VII",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1SYNmaG5nvpvGRAVZ1YmkinsQtCoPfgHn&sz=w1000"
+    },
+    "ROM-163": {
+      "Nombre": "Oro Roma",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Oro",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ummnfi326hhnwMpsvmKSRUejdO7LRXrV&sz=w1000"
+    },
+    "ROM-164": {
+      "Nombre": "Escipión el Africano",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1RuSnc8siUL5QUZwS3dar3GdrnqKYie-g&sz=w1000"
+    },
+    "ROM-165": {
+      "Nombre": "Zenobia",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Z6bX-iadN27f9iLVMAccUyQMWUUHhDQu&sz=w1000"
+    },
+    "ROM-166": {
+      "Nombre": "Venus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1XuEAFMmkQMzAyQcnOosYDdKp6gXqlUtc&sz=w1000"
+    },
+    "ROM-167": {
+      "Nombre": "Gran Tritón",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1WeRjMSmdWCAroyV16eahdUvdJ4AnicMy&sz=w1000"
+    },
+    "ROM-168": {
+      "Nombre": "Laverna",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1WI5sIR6QwhPD5K4R63q4Dbw8Y__7zE2F&sz=w1000"
+    },
+    "ROM-169": {
+      "Nombre": "Draco Etíope",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RqtzgPEDNadMmuRV0zKOYlUK86FT9GK7&sz=w1000"
+    },
+    "ROM-170": {
+      "Nombre": "Alianza Imposible",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1Rs7ytyzJDODmDN-DoiO1VDwFTakQkT7C&sz=w1000"
+    },
+    "ROM-171": {
+      "Nombre": "Carga de Elefantes",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1YnUjEJXA_S7RyRUuQWvuaMZoxmtaE0pV&sz=w1000"
+    },
+    "ROM-172": {
+      "Nombre": "Venatio",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Mnld_dsVETTK-BTNrTviNc8-eIvnAThH&sz=w1000"
+    },
+    "ROM-173": {
+      "Nombre": "Pretoriano",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1OnHm1uPVRgAoC5psorBODnTnAOX9n-Tw&sz=w1000"
+    },
+    "ROM-174": {
+      "Nombre": "Gladius Pompeya",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1Om-MFSImMsjlEs-9rNJc3YUR0LU2H3a1&sz=w1000"
+    },
+    "ROM-175": {
+      "Nombre": "Bruto",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1VzFnxNPfckaYF3cZ8Ak_x5aWaURlyzgE&sz=w1000"
+    },
+    "ROM-176": {
+      "Nombre": "Coliseo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1US02CPw3V1_5Jv-h_RtBky_uEG3t1H2i&sz=w1000"
+    },
+    "ROM-177": {
+      "Nombre": "Galae",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1KcWSUQZEWYqJrF2OhiET1vItqzvK_Xyb&sz=w1000"
+    },
+    "ROM-178": {
+      "Nombre": "Llamado de Venus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1c5axplAMLK7kSS4B8zerqAkmXjSvvGFv&sz=w1000"
+    },
+    "ROM-179": {
+      "Nombre": "Una Nueva Era",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1L-C7bfpf0VcONCyLNOQml2RAGcFs4Bhg&sz=w1000"
+    },
+    "ROM-180": {
+      "Nombre": "Saturno",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1_5nSmZAJdTNKx-KtnTb5-JEQGdUUHuZ8&sz=w1000"
+    },
+    "ROM-181": {
+      "Nombre": "Tridenti Marem",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1Mfh_vdInDs-Uqew1QlzqfRg2awXT7ETJ&sz=w1000"
+    },
+    "ROM-182": {
+      "Nombre": "Marco Antonio",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1MiX6oDI42fO1LKf0iy7PuafwokPf3FPV&sz=w1000"
+    },
+    "ROM-183": {
+      "Nombre": "Vercingétorix",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1S_bCHOdGS4sb1TyTb2C8OSFuxoue6NN6&sz=w1000"
+    },
+    "ROM-184": {
+      "Nombre": "Neptuno",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1aD5U77TK5tMftEeFl-ASpx3Iv5vr-LiB&sz=w1000"
+    },
+    "ROM-185": {
+      "Nombre": "Scolopendra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Zubi9OgRXh_ADgUGSU-ht6_mUUODag6f&sz=w1000"
+    },
+    "ROM-186": {
+      "Nombre": "Mors",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1ShlJwwc93l1Qz3nLOQj2d37JGzt70mDt&sz=w1000"
+    },
+    "ROM-187": {
+      "Nombre": "Draco Indicus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1cJCnVhtpsgQwP3hPXysfj8jtlNX81AlL&sz=w1000"
+    },
+    "ROM-188": {
+      "Nombre": "Arturo Pendragón",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1K2vmWb0Ua6Adx1mJ4gEl_B6GblGLdj3O&sz=w1000"
+    },
+    "ROM-189": {
+      "Nombre": "Thor Odinson",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1VvKC_eVHd8ztpDJ7mQgNs8L3pGOpQKEQ&sz=w1000"
+    },
+    "ROM-190": {
+      "Nombre": "Gran Daana",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1L75bQp2lbPWpK585NMEp-fqPVlvpsEOk&sz=w1000"
+    },
+    "ROM-191": {
+      "Nombre": "Loky",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZfxqZgBOF3_FL8chA5gSEwPCYEGONT5c&sz=w1000"
+    },
+    "ROM-192": {
+      "Nombre": "Gran Dragón Rojo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1RfU_aDriBYvR44lw2Cwfh71XShSSr9B_&sz=w1000"
+    },
+    "ROM-193": {
+      "Nombre": "Madre Araña",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Rq-7BIfqE40U26-2i7HzkUUG8n5nVTYs&sz=w1000"
+    },
+    "ROM-194": {
+      "Nombre": "Marco Aurelio",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1LiWRtKkj3JBESoWSVM_Be5HF9-_MC0Xv&sz=w1000"
+    },
+    "ROM-195": {
+      "Nombre": "Arminio",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1POOXhp8k_k7DiCza9dCWGI1B-0DxXEJX&sz=w1000"
+    },
+    "ROM-196": {
+      "Nombre": "Mitra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1QybnRXcq6X8S2LsKljSBuuNKJECJE8np&sz=w1000"
+    },
+    "ROM-197": {
+      "Nombre": "Larvae",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ln5V-T-LDg4LfPfimD5fEVQgqkU2kznT&sz=w1000"
+    },
+    "ROM-198": {
+      "Nombre": "Draco de Bagrada",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1_Qzkms1jbvZ02sP8MygE2iEm4hz3NB6q&sz=w1000"
+    },
+    "ROM-199": {
+      "Nombre": "Caladrius",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Y9z8quoiKElF9uG7BKwZebxdQYCSAuO5&sz=w1000"
+    },
+    "ROM-200": {
+      "Nombre": "Cleopatra VII",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1TD7nRnJJHYieHPaCghyWCa7eJBekZKb_&sz=w1000"
+    },
+    "ROM-201": {
+      "Nombre": "Foro Romano",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1b6Y7-gpZM7-POXqbrIgeCWXzDPxecPko&sz=w1000"
+    },
+    "ROM-202": {
+      "Nombre": "Falcata ibera",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1ayqCdTFJTuy5RPqBHTe4JyvuJKYTwPie&sz=w1000"
+    },
+    "ROM-203": {
+      "Nombre": "Circus Maximus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1NIgy5A6Z001v0Vhh7zWWgx65Np6MGKlh&sz=w1000"
+    },
+    "ROM-204": {},
+    "ROM-205": {
+      "Nombre": "Pompeyo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1OeZNDoSaBNUO1QWFIWR2fmaz5d0FurE0&sz=w1000"
+    },
+    "ROM-206": {
+      "Nombre": "Sicarii",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1_8I5N-Wp25Zp3qWMBsnAkS4RQJl4aSjy&sz=w1000"
+    },
+    "ROM-207": {
+      "Nombre": "Bellona",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1RgAsD-BqlTzcvcjgJ4BrEUvVJdOsHukn&sz=w1000"
+    },
+    "ROM-208": {
+      "Nombre": "Cacus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZIpJsJ4UteRSsNiLUm85ggz6FCCoyOna&sz=w1000"
+    },
+    "ROM-209": {
+      "Nombre": "Gran Dracaena",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1VFtLMAyDI1JC9rEUqBwVQf2pljD8oe1G&sz=w1000"
+    },
+    "ROM-210": {
+      "Nombre": "Lampago",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1LHiHXWJcdezZbCAyK8WvZm5kjFBiSXb8&sz=w1000"
+    },
+    "ROM-211": {
+      "Nombre": "Armagedón",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1Yv-Nhdzoq6avKB9VGvYvasg83t4oiNPj&sz=w1000"
+    },
+    "ROM-212": {
+      "Nombre": "Frenesí de Guerra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1WhIfn1Gykx36bwW4jcs6wCb8NfUN_zgv&sz=w1000"
+    },
+    "ROM-213": {
+      "Nombre": "Sica",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1VzEJk0yeeGbpTAQLJ_iki6obTyxqWR8b&sz=w1000"
+    },
+    "ROM-214": {
+      "Nombre": "Masada",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1LoDlRYN8Cz4gmnWrIoOzZnOX6d-9D5N_&sz=w1000"
+    },
+    "ROM-215": {
+      "Nombre": "Enmerkar",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1aPCMmRiGh9IZmjxDvWLLv-AgrK_I8tgO&sz=w1000"
+    },
+    "ROM-216": {
+      "Nombre": "Bergelmir",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1WcuzvP9csDPbNWTFl7sYZ_4iQ_96nbQx&sz=w1000"
+    },
+    "ROM-217": {
+      "Nombre": "Humbaba",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1T-a5xRjU7E1_tjrKRIVfdU44FImmZcN-&sz=w1000"
+    },
+    "ROM-218": {
+      "Nombre": "Ventisca",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragon",
+      "Arte": "https://drive.google.com/thumbnail?id=1Q_YG7uUDq1iIWNoCc1uARlwmVsfhsFWy&sz=w1000"
+    },
+    "ROM-219": {
+      "Nombre": "Eastre",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1LVtbeyIMSLJWvTblKxZlwgoLjM6utg2A&sz=w1000"
+    },
+    "ROM-220": {
+      "Nombre": "Guardia Real",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1TNqYl6Sd_noxhIt-DXBf9I3WHPVpxUSr&sz=w1000"
+    },
+    "ROM-221": {
+      "Nombre": "Naglfar",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 4,
+      "Arte": "https://drive.google.com/thumbnail?id=1ZcHcBOyIE0KK5QI_-mufqqc0RW5-4GC9&sz=w1000"
+    },
+    "ROM-222": {
+      "Nombre": "Planta de la Juventud",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 2,
+      "Arte": "https://drive.google.com/thumbnail?id=1LRy7OiUG3E94QExSEZDaAwyEM4Kl78_z&sz=w1000"
+    },
+    "ROM-223": {
+      "Nombre": "Vanaheim",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Totem",
+      "Coste": 7,
+      "Arte": "https://drive.google.com/thumbnail?id=1azDKHehiTRUt_rtMBwOepJN5ye0L2jCf&sz=w1000"
+    },
+    "ROM-224": {
+      "Nombre": "Llamar a la Manada",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1V-iFiXfrwY3B-htELFbhKTKdWZ9i6U8p&sz=w1000"
+    },
+    "ROM-225": {
+      "Nombre": "Maximus",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Arte": "https://drive.google.com/thumbnail?id=1OoaL2Ej5iaWr4t4Dy4G5bzbYn7Uesl6O&sz=w1000"
+    },
+    "ROM-226": {
+      "Nombre": "Devastador",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 7,
+      "Coste": 5,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1ZIKCb70nAS4KdYISA1VBODuLD-kbDsoB&sz=w1000"
+    },
+    "ROM-227": {
+      "Nombre": "Guillatún",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talisman",
+      "Coste": 1,
+      "Arte": "https://drive.google.com/thumbnail?id=1c4nVioT-kaq914l5KMzoLH9mklmY_JtK&sz=w1000"
     }
   },
   "EXC": {
