@@ -2292,7 +2292,9 @@
       "Coste": 4,
       "Arte": "https://drive.google.com/thumbnail?id=1NIgy5A6Z001v0Vhh7zWWgx65Np6MGKlh&sz=w1000"
     },
-    "ROM-204": {},
+    "ROM-204": {
+      "Arte": "https://drive.google.com/thumbnail?id=1MOa5hTq3EJ6vAzhk1H4p127cSyYSg5gx&sz=w1000"
+    },
     "ROM-205": {
       "Nombre": "Pompeyo",
       "Frecuencia": "Promo",
