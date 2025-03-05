@@ -1,8 +1,8 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.0.4",
-      "Update": "2025-02-06T03:00:00.000Z"
+      "Version": "0.0.5",
+      "Update": "2025-03-05T03:00:00.000Z"
     }
   },
   "EDITION": {
@@ -144,21 +144,27 @@
       "Nombre": "Victoria de Hércules",
       "Frecuencia": "UltraReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Qge33fhOu44X0Hjak9pgt0wkYrpaJjEC&sz=w1000"
     },
     "ROM-014": {
       "Nombre": "Rómulo y Remo",
       "Frecuencia": "UltraReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1aDkUErq0GJ7eMfI8888Vr3Xcoh_eu0RV&sz=w1000"
     },
     "ROM-015": {
       "Nombre": "Cruzar el Rubicón",
       "Frecuencia": "UltraReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 5,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1bRbn43SRZz3XlSWoT3L3oXVMKZGszpC3&sz=w1000"
     },
     "ROM-016": {
@@ -219,98 +225,126 @@
       "Nombre": "Amenaza a los Reinos",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NgmRzCZGCl1MgyviEMr9qTQnhxdQYevq&sz=w1000"
     },
     "ROM-023": {
       "Nombre": "Resistencia",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KyhPPO9V5EhAbO0lKn9DEoLwmfZKbaMD&sz=w1000"
     },
     "ROM-024": {
       "Nombre": "Ataque de Scarbos",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1bX_HM033pEvdgaug3fp8B3Nf9pkgsY1E&sz=w1000"
     },
     "ROM-025": {
       "Nombre": "Ira Ígnea",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1YazTVoxlBGym4P7VXeRw2QelfG8li2sJ&sz=w1000"
     },
     "ROM-026": {
       "Nombre": "Ataque Berserker",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SsxAmGR4Q1wkvLVfSM6uT6Doyp2GXeew&sz=w1000"
     },
     "ROM-027": {
       "Nombre": "Alianza Imposible",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KLVPcDBpxvjP2QjD3cBUTlKrHpBif5zb&sz=w1000"
     },
     "ROM-028": {
       "Nombre": "Enjambre Siniestro",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NaDW5x3BBl2suuBHrnqWe8Wgo1m4k7Uk&sz=w1000"
     },
     "ROM-029": {
       "Nombre": "Doble Trueno",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1O0HWYqCCt7o8JzTBgfHOYcVsafpvCOek&sz=w1000"
     },
     "ROM-030": {
       "Nombre": "Abrir Portal",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1LaWVCSbqShIOXcoLeYEJu3TDWTAtJIfN&sz=w1000"
     },
     "ROM-031": {
       "Nombre": "Caminar la Telaraña",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Y-uNr1xaNqt_ZWkZe10iTQqP4D0EFiAd&sz=w1000"
     },
     "ROM-032": {
       "Nombre": "Fuerza de Lugh",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Pexb8LVhM03SeYy7Ei0T1H2OCtxQcbB2&sz=w1000"
     },
     "ROM-033": {
       "Nombre": "Duelo Dragón",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Reoa-EOgrGRDjXMSlyiJcJW2NX1o1c-p&sz=w1000"
     },
     "ROM-034": {
       "Nombre": "No Más Sombras",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1b0SLY4GOOwkbIpkNbRj2cv8NJ9cri8me&sz=w1000"
     },
     "ROM-035": {
       "Nombre": "Una Nueva Era",
       "Frecuencia": "MegaReal",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_Jw4f3ij3Q2anyzKAYEH2Zog06SljCut&sz=w1000"
     },
     "ROM-036": {
@@ -535,6 +569,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1TFWF5BAt5gofzl1c5eSZgzt4YGhxLbpr&sz=w1000"
     },
     "ROM-061": {
@@ -543,6 +578,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Xx8KuT9ONVQX-1MRD-4KUR7kC2e5yNSp&sz=w1000"
     },
     "ROM-062": {
@@ -567,84 +603,108 @@
       "Nombre": "Humillar",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZvxT0qJHRCqutqFAq76zKZQS4tmrnKBd&sz=w1000"
     },
     "ROM-065": {
       "Nombre": "Protogenoi",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NioyNzg_kdpHuHf69qAoW0C_02NEsQZx&sz=w1000"
     },
     "ROM-066": {
       "Nombre": "Idus de Marzo",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SG_sFwhInjcWamEhYSgwugQ1zM6euPPQ&sz=w1000"
     },
     "ROM-067": {
       "Nombre": "Llamado de Venus",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1M001Ksgh4VaiBxPDlpXm8EWPo6C6MKo7&sz=w1000"
     },
     "ROM-068": {
       "Nombre": "Venatio",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SsuoeOuIhy5f0HWRDtwS8lRlG4N9p2_r&sz=w1000"
     },
     "ROM-069": {
       "Nombre": "Formación Tortuga",
       "Frecuencia": "Real",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_qs17TTSzGD1p02WtlkzfWCyghmM43uR&sz=w1000"
     },
     "ROM-070": {
       "Nombre": "Gladius Pompeya",
       "Frecuencia": "Real",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1QnpifB66uoYaN0dSi6qdYznCCZWAXQGU&sz=w1000"
     },
     "ROM-071": {
       "Nombre": "Tridenti Marem",
       "Frecuencia": "Real",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1WwELP_6_BLL9g0-EMh4mL_IVwZo7noB-&sz=w1000"
     },
     "ROM-072": {
       "Nombre": "Aries",
       "Frecuencia": "Real",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1aUJPQrzRy6afHXQGEn45pBd6xUUHR8nQ&sz=w1000"
     },
     "ROM-073": {
       "Nombre": "Coliseo",
       "Frecuencia": "Real",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZAPRkqOvKFQNKl8Ccw4DrSw5TPVgvJ0v&sz=w1000"
     },
     "ROM-074": {
       "Nombre": "Foro Romano",
       "Frecuencia": "Real",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MCtYqiP66tnLXF1aybj1_plujMf3lyrr&sz=w1000"
     },
     "ROM-075": {
       "Nombre": "Panteón de Agripa",
       "Frecuencia": "Real",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZxBBEuCWYYhtFfZ7CxTJwaGefxAdwfWx&sz=w1000"
     },
     "ROM-076": {
@@ -1029,196 +1089,252 @@
       "Nombre": "Erupción del Vesubio",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SLE2REw32N7Vvm9p06jn4QzaUtagotxu&sz=w1000"
     },
     "ROM-097F": {
       "Nombre": "Erupción del Vesubio",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_TnltU-wHvJAabnEMFfHlyLV3ZKSRvbC&sz=w1000"
     },
     "ROM-098": {
       "Nombre": "Dei Inferi",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1OJiwev-R7bhuS3EweuicuijpOV1JGIYM&sz=w1000"
     },
     "ROM-098F": {
       "Nombre": "Dei Inferi",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KJIWS_f1m-ibRPjWEVQvBXV-LjcyetbL&sz=w1000"
     },
     "ROM-099": {
       "Nombre": "Incitatus",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1QZRSTCX8SWq7SYMz7k-f1V5amEq9fmUf&sz=w1000"
     },
     "ROM-099F": {
       "Nombre": "Incitatus",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Q_tR0NMU1HR_iBp9cXsZ97x-8P1FcIWn&sz=w1000"
     },
     "ROM-100": {
       "Nombre": "Veni, Vidi, Vici",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Mk07cKzkVa0JvB0yafMYOLnruS7t0Uin&sz=w1000"
     },
     "ROM-100F": {
       "Nombre": "Veni, Vidi, Vici",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Vf2I488UjgaA7Ut_qzKUpSDCOhKXFar5&sz=w1000"
     },
     "ROM-101": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1M7O6176fiDw1RVaxK-vDAe1m12822EYT&sz=w1000"
     },
     "ROM-101F": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Str0enRy6j3Rub9JvYWpLRsYcPK2ABze&sz=w1000"
     },
     "ROM-102": {
       "Nombre": "Ofrenda Siniestra",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_h-9DxTMuh7cbrEyA_SZe73Zr6OZTplJ&sz=w1000"
     },
     "ROM-102F": {
       "Nombre": "Ofrenda Siniestra",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1V5XOF4IbDqI8NZaKtu9m5v2Hf1FM5PnG&sz=w1000"
     },
     "ROM-103": {
       "Nombre": "Scutum",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1R2Li2zKs7ZKTH6N6j54RxcKGxC6Dtd_L&sz=w1000"
     },
     "ROM-103F": {
       "Nombre": "Scutum",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1bohs_y3Yl8XGkXF3CPrr47Qkxn0Q90sB&sz=w1000"
     },
     "ROM-104": {
       "Nombre": "Pilum",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SMA2WUzxcFsLlOZbJgG2raib_lHcsujU&sz=w1000"
     },
     "ROM-104F": {
       "Nombre": "Pilum",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Uqo8aG2ePmJ7Vi5D61fcHDnaz3501q2i&sz=w1000"
     },
     "ROM-105": {
       "Nombre": "Falcata ibera",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MrxqN7YdSv0KkH9IESaZVTgpSKaLO_Yg&sz=w1000"
     },
     "ROM-105F": {
       "Nombre": "Falcata ibera",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZtLDxtT5QB-wlbn7AseRCnS_2H_NnWGQ&sz=w1000"
     },
     "ROM-106": {
       "Nombre": "Onagro",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ap1YlOlZ1lpiZsFScEK6iwZXzSMuMH2E&sz=w1000"
     },
     "ROM-106F": {
       "Nombre": "Onagro",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1XT2sB_fjAzhuuej8t7Bv_9H_x3prbZJT&sz=w1000"
     },
     "ROM-107": {
       "Nombre": "Columna de Trajano",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MB9OYrmXWpnrfpzYwiZ39xkAR8sTuVfD&sz=w1000"
     },
     "ROM-107F": {
       "Nombre": "Columna de Trajano",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1XcnqaFdctllDCtXHzO1poMVU_neruVf_&sz=w1000"
     },
     "ROM-108": {
       "Nombre": "Pórtico de Octavia",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZDB_RDYMSEOE1KZ0fqxMMnfErk0dZpa3&sz=w1000"
     },
     "ROM-108F": {
       "Nombre": "Pórtico de Octavia",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Oufzip0sc2ERyEnNgrENh2OR2FoFK3Sd&sz=w1000"
     },
     "ROM-109": {
       "Nombre": "Hércules Victorioso",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Wp4XoCFu6E9gLyd0Df0IkX69VYOK8MrY&sz=w1000"
     },
     "ROM-109F": {
       "Nombre": "Hércules Victorioso",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1XqdQpOU6h2ft9qHBSfqy2zmN7fVWdmee&sz=w1000"
     },
     "ROM-110": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MIFoeel7klZTTZjl_nYmiev2akMTW2E0&sz=w1000"
     },
     "ROM-110F": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Cortezano",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Rjh9ShzTxMcyCWbptoOSFAb6IDgQyhn1&sz=w1000"
     },
     "ROM-111": {
@@ -1603,291 +1719,387 @@
       "Nombre": "Conquistador de Galia",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Xq3XJUE9-VLKpmmzqe3XTvYLI2yU7xqe&sz=w1000"
     },
     "ROM-132F": {
       "Nombre": "Conquistador de Galia",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KhaZOd-YTetaFZsmleVSTjGEeMOETjUw&sz=w1000"
     },
     "ROM-133": {
       "Nombre": "Enemigo de Roma",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1LF7nr4SFTwBNvHmSb-pv00pfBzG7LnfY&sz=w1000"
     },
     "ROM-133F": {
       "Nombre": "Enemigo de Roma",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1cIMvTlMtCLgMFssUnQBWsUAzB9-5_hLT&sz=w1000"
     },
     "ROM-134": {
       "Nombre": "Manes",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZiO33oPP3eLyrqFyGlQWZree8VGmuTU_&sz=w1000"
     },
     "ROM-134F": {
       "Nombre": "Manes",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1R4A3zMUQFhzQ0lK35YMQMy52jhjelOMf&sz=w1000"
     },
     "ROM-135": {
       "Nombre": "Bacanal",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 5,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1bkieRj5uoqYjFZEkiXsLNh_Hbbt1Tpfu&sz=w1000"
     },
     "ROM-135F": {
       "Nombre": "Bacanal",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 5,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1XQSmNypWXi089HRqPTITmJkaGuLUl3Cw&sz=w1000"
     },
     "ROM-136": {
       "Nombre": "Masacre de Teutoburgo",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 6,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Wi20Q63W4K5H7HdDV3WA3rayYhPG4oH-&sz=w1000"
     },
     "ROM-136F": {
       "Nombre": "Masacre de Teutoburgo",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 6,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Obr2qBt9Poqq5OMPdV6kfFDWe2Jbk1PH&sz=w1000"
     },
     "ROM-137": {
       "Nombre": "Devotio ibérica",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NFj_rUb9GHkqboXxXMhH0iPoPwsqiZ6u&sz=w1000"
     },
     "ROM-137F": {
       "Nombre": "Devotio ibérica",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1YsHNnVAYYoADyrD6p26BPXtlIi_6Wu5W&sz=w1000"
     },
     "ROM-138": {
       "Nombre": "Manuballista",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SU1-YV7TVOPaVPJGrg1Vn5DQ9zFMn130&sz=w1000"
     },
     "ROM-138F": {
       "Nombre": "Manuballista",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1aL2UBbQ_Z3IQUXLdiUqnKa_fNs2F4WLW&sz=w1000"
     },
     "ROM-139": {
       "Nombre": "Casco Etrusco-corintio",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KKdXAaWHNgL7WRLASgxAkn8_zUkvlG3Z&sz=w1000"
     },
     "ROM-139F": {
       "Nombre": "Casco Etrusco-corintio",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_ygR6Y4syetxAmKeRYo3Wbwt5v2N8Ikg&sz=w1000"
     },
     "ROM-140": {
       "Nombre": "Plumbata",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NObwtGuyEGowaHzaTlaLQJUaFVR1f3mP&sz=w1000"
     },
     "ROM-140F": {
       "Nombre": "Plumbata",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1M01UJdGQ54NlsyHdVR4M_r7g8xXsqFey&sz=w1000"
     },
     "ROM-141": {
       "Nombre": "Galae",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1cIKwYTV3Z4xYGoakxirQ5fSBtjMIDX3V&sz=w1000"
     },
     "ROM-141F": {
       "Nombre": "Galae",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Oy6Rw6paDY8oRe685grDWUr27WO5Hw3i&sz=w1000"
     },
     "ROM-142": {
       "Nombre": "Thermae",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1US3bBm_2rZ8dQZ32-ESZ9irkCnu4gTxk&sz=w1000"
     },
     "ROM-142F": {
       "Nombre": "Thermae",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1QWaifd1s3aeA09TO-7QfNKxb_eGHNr2u&sz=w1000"
     },
     "ROM-143": {
       "Nombre": "Santuario de Epona",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MMoD172c7V5GntkS8WWpzjw1rVaM_fcZ&sz=w1000"
     },
     "ROM-143F": {
       "Nombre": "Santuario de Epona",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1O4Gk63jRc51WmypMQSp-KJQM5lcKagcJ&sz=w1000"
     },
     "ROM-144": {
       "Nombre": "Templo de Vesta",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1VwfRJaJezmsgEnG8fsh_93FK6HlJQlBV&sz=w1000"
     },
     "ROM-144F": {
       "Nombre": "Templo de Vesta",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1UxZZw82xDL74RwcXHzCDmWR4EZUj03tl&sz=w1000"
     },
     "ROM-145": {
       "Nombre": "Pirámide Cestia",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MLgRgY3DWZrGcYKT6J_wjDoEQAX8ulVh&sz=w1000"
     },
     "ROM-145F": {
       "Nombre": "Pirámide Cestia",
       "Frecuencia": "Vasallo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1OUFpyj15MYFryC8HGECOIDshXuRoOxzH&sz=w1000"
     },
     "ROM-146": {
       "Nombre": "Cornucopia",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1OGYW3IFdEaHMcMgy2J0rPRaBEWIpyaaC&sz=w1000"
     },
     "ROM-146F": {
       "Nombre": "Cornucopia",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1YrWPkyYbn8CC2Q5jJBAqzUE8eXx5XArD&sz=w1000"
     },
     "ROM-147": {
       "Nombre": "Ficus Ruminalis",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1XNpMRyH59ZxqmmXp0NKp68lGIXIriCIi&sz=w1000"
     },
     "ROM-147F": {
       "Nombre": "Ficus Ruminalis",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NJP0SO_7YlNLa2QhM1SMVb-ngrRCbEe7&sz=w1000"
     },
     "ROM-148": {
       "Nombre": "Corona de Laurel",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1VE7SzQEtlvgjeAjsYtllXiSiGonJ3ZoN&sz=w1000"
     },
     "ROM-148F": {
       "Nombre": "Corona de Laurel",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1b7K8k41Ol4-DHLbXHqVpld4ysKFSCG8p&sz=w1000"
     },
     "ROM-149": {
       "Nombre": "Águila Romana",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MZRVHDpt1Bxcvjg-azMgmIoUzCIohX7g&sz=w1000"
     },
     "ROM-149F": {
       "Nombre": "Águila Romana",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Wam0mf5OvIkvnluEGJHE6ZeKAf-LUWJ8&sz=w1000"
     },
     "ROM-150": {
       "Nombre": "Fuego Sagrado",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1RWzGsWyg3xX2QvzcCdzPkL5Pac7_EOE3&sz=w1000"
     },
     "ROM-150F": {
       "Nombre": "Fuego Sagrado",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NfDdz68uFWLB-b3AxFSR_24zLTY5keBU&sz=w1000"
     },
     "ROM-151": {
       "Nombre": "Victoria de Hércules",
       "Frecuencia": "Secreta",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SKJK0C6M_LrFK6AobtQY1AUIS2JnLuhz&sz=w1000"
     },
     "ROM-152": {
       "Nombre": "Rómulo y Remo",
       "Frecuencia": "Secreta",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ac7Hb4RLPppnOjqwT90xLuqFCrOw6tzh&sz=w1000"
     },
     "ROM-153": {
       "Nombre": "Cruzar el Rubicón",
       "Frecuencia": "Secreta",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 5,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1K_ubfml1oUtfrssWI4QUk_vgSpEu07yw&sz=w1000"
     },
     "ROM-154": {
       "Nombre": "Ira Ígnea",
       "Frecuencia": "Secreta",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1P2sC0q0_IMHCSewWqjth0lbOUMYt3q88&sz=w1000"
     },
     "ROM-155": {
       "Nombre": "Abrir Portal",
       "Frecuencia": "Secreta",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MiZDEbKmsF8sXW6z6a-yHzsKSxs0e2Qh&sz=w1000"
     },
     "ROM-156": {
@@ -1950,12 +2162,16 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SYNmaG5nvpvGRAVZ1YmkinsQtCoPfgHn&sz=w1000"
     },
     "ROM-163": {
       "Nombre": "Oro Roma",
       "Frecuencia": "Promo",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Ummnfi326hhnwMpsvmKSRUejdO7LRXrV&sz=w1000"
     },
     "ROM-164": {
@@ -2016,21 +2232,27 @@
       "Nombre": "Alianza Imposible",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Rs7ytyzJDODmDN-DoiO1VDwFTakQkT7C&sz=w1000"
     },
     "ROM-171": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1YnUjEJXA_S7RyRUuQWvuaMZoxmtaE0pV&sz=w1000"
     },
     "ROM-172": {
       "Nombre": "Venatio",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Mnld_dsVETTK-BTNrTviNc8-eIvnAThH&sz=w1000"
     },
     "ROM-173": {
@@ -2046,7 +2268,9 @@
       "Nombre": "Gladius Pompeya",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Om-MFSImMsjlEs-9rNJc3YUR0LU2H3a1&sz=w1000"
     },
     "ROM-175": {
@@ -2062,28 +2286,36 @@
       "Nombre": "Coliseo",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1US02CPw3V1_5Jv-h_RtBky_uEG3t1H2i&sz=w1000"
     },
     "ROM-177": {
       "Nombre": "Galae",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1KcWSUQZEWYqJrF2OhiET1vItqzvK_Xyb&sz=w1000"
     },
     "ROM-178": {
       "Nombre": "Llamado de Venus",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1c5axplAMLK7kSS4B8zerqAkmXjSvvGFv&sz=w1000"
     },
     "ROM-179": {
       "Nombre": "Una Nueva Era",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1L-C7bfpf0VcONCyLNOQml2RAGcFs4Bhg&sz=w1000"
     },
     "ROM-180": {
@@ -2092,13 +2324,16 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1_5nSmZAJdTNKx-KtnTb5-JEQGdUUHuZ8&sz=w1000"
     },
     "ROM-181": {
       "Nombre": "Tridenti Marem",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Mfh_vdInDs-Uqew1QlzqfRg2awXT7ETJ&sz=w1000"
     },
     "ROM-182": {
@@ -2269,30 +2504,43 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1TD7nRnJJHYieHPaCghyWCa7eJBekZKb_&sz=w1000"
     },
     "ROM-201": {
       "Nombre": "Foro Romano",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1b6Y7-gpZM7-POXqbrIgeCWXzDPxecPko&sz=w1000"
     },
     "ROM-202": {
       "Nombre": "Falcata ibera",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ayqCdTFJTuy5RPqBHTe4JyvuJKYTwPie&sz=w1000"
     },
     "ROM-203": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1NIgy5A6Z001v0Vhh7zWWgx65Np6MGKlh&sz=w1000"
     },
     "ROM-204": {
+      "Nombre": null,
+      "Frecuencia": null,
+      "TipoCarta": null,
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1MOa5hTq3EJ6vAzhk1H4p127cSyYSg5gx&sz=w1000"
     },
     "ROM-205": {
@@ -2353,28 +2601,36 @@
       "Nombre": "Armagedón",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Yv-Nhdzoq6avKB9VGvYvasg83t4oiNPj&sz=w1000"
     },
     "ROM-212": {
       "Nombre": "Frenesí de Guerra",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1WhIfn1Gykx36bwW4jcs6wCb8NfUN_zgv&sz=w1000"
     },
     "ROM-213": {
       "Nombre": "Sica",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1VzEJk0yeeGbpTAQLJ_iki6obTyxqWR8b&sz=w1000"
     },
     "ROM-214": {
       "Nombre": "Masada",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1LoDlRYN8Cz4gmnWrIoOzZnOX6d-9D5N_&sz=w1000"
     },
     "ROM-215": {
@@ -2435,28 +2691,36 @@
       "Nombre": "Naglfar",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 4,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1ZcHcBOyIE0KK5QI_-mufqqc0RW5-4GC9&sz=w1000"
     },
     "ROM-222": {
       "Nombre": "Planta de la Juventud",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1LRy7OiUG3E94QExSEZDaAwyEM4Kl78_z&sz=w1000"
     },
     "ROM-223": {
       "Nombre": "Vanaheim",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 7,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1azDKHehiTRUt_rtMBwOepJN5ye0L2jCf&sz=w1000"
     },
     "ROM-224": {
       "Nombre": "Llamar a la Manada",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1V-iFiXfrwY3B-htELFbhKTKdWZ9i6U8p&sz=w1000"
     },
     "ROM-225": {
@@ -2465,6 +2729,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1OoaL2Ej5iaWr4t4Dy4G5bzbYn7Uesl6O&sz=w1000"
     },
     "ROM-226": {
@@ -2480,7 +2745,9 @@
       "Nombre": "Guillatún",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1c4nVioT-kaq914l5KMzoLH9mklmY_JtK&sz=w1000"
     }
   },
@@ -2821,53 +3088,72 @@
       "Nombre": "Encontrar Botín",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1RxksukhUV3tnD87GV38Sc36_arzLRntY&sz=w1000"
     },
     "KIN-14": {
       "Nombre": "Armadura Épica",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1S50l-eLDewJ3Zm7dGFwwBmT7WDvRugC7&sz=w1000"
     },
     "KIN-15": {
       "Nombre": "Altar Siniestro",
       "Frecuencia": "Promo",
       "TipoCarta": "Totem",
+      "Fuerza": null,
       "Coste": 3,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SAFwARvhJaOWnUL4Ox8Hh5bdtgV4JXa5&sz=w1000"
     },
     "KIN-16": {
       "Nombre": "Poción de Curación",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1QxBFc6XtWxaGG2LH_HmwGF7J7LO3dv8e&sz=w1000"
     },
     "KIN-17": {
       "Nombre": "Corona Arcana",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1Qzds9_ewql9_KJ3jvrHNSXAeEl4TuNTV&sz=w1000"
     },
     "KIN-18": {
       "Nombre": "Anillo de Presición",
       "Frecuencia": "Oro",
       "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1R-jMCqfz0H-0AO57YhTak3hXy67gQQ39&sz=w1000"
     },
     "KIN-19": {
       "Nombre": "Collar de Invisibilidad",
       "Frecuencia": "Promo",
       "TipoCarta": "Arma",
+      "Fuerza": null,
       "Coste": 1,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SJU45RNBk10qD8t-SFzMEb9xJLMWqLff&sz=w1000"
     },
     "KIN-20": {
       "Nombre": "Entrar al Calabozo",
       "Frecuencia": "Promo",
       "TipoCarta": "Talisman",
+      "Fuerza": null,
       "Coste": 2,
+      "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1SHrPBKHoMNf_IFazj3D2lc9yxBRKPBLb&sz=w1000"
     }
   }
