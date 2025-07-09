@@ -2,7 +2,7 @@
   "DBVER": {
     "Metadata": {
       "Version": "0.0.5",
-      "Update": "2025-03-05T03:00:00.000Z"
+      "Update": "2025-07-09T04:00:00.000Z"
     }
   },
   "EDITION": {
@@ -39,7 +39,7 @@
       "Fuerza": 3,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/thumbnail?id=1MOsV8r2ZOQjLNZsKHRYWqB5wm0FJSRm8&sz=w1000"
+      "Arte": "https://file.garden/aFGZURvyInW-3wxa/MyL/FX/01-%20ROMA/ROM%20001.png"
     },
     "ROM-002": {
       "Nombre": "César Augusto",
