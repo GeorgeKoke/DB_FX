@@ -1,8 +1,8 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.0.6",
-      "Update": "2025-07-16T04:00:00.000Z"
+      "Version": "0.0.7",
+      "Update": "2025-07-22T04:00:00.000Z"
     }
   },
   "EDITION": {
@@ -3246,6 +3246,2184 @@
       "Coste": 3,
       "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1GoB7sbcPyKlPO5R0lE7ofklVrJT8nvXM&sz=w1000"
+    },
+    "EXC-056": {
+      "Nombre": "Bestia Aulladora",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1FcXm2zu650_fFxsldrZzidzZsnnKMlLV&sz=w1000"
+    },
+    "EXC-057": {
+      "Nombre": "Trécouche",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=16PPo6d6FjLX5w9FqMarIJMioBbFJCBj7&sz=w1000"
+    },
+    "EXC-058": {
+      "Nombre": "Barghest",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1EYhCGvTviGtII2JKi8v8jKGFVw7oRZ23&sz=w1000"
+    },
+    "EXC-059": {
+      "Nombre": "Cavall",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=11_FiLl5d3bWYiFL8sH3JPWm-cdXSDN-G&sz=w1000"
+    },
+    "EXC-060": {
+      "Nombre": "Taliesin",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1B4WrCcSJnk1Ucn-YA5ltY-6AXuoJmC8H&sz=w1000"
+    },
+    "EXC-061": {
+      "Nombre": "Nimue",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1D2aJUOTjcRorEaEqzuICeLuxXOocDs04&sz=w1000"
+    },
+    "EXC-062": {
+      "Nombre": "Menw",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13VoyI55tnMQVJq0v-EafeV_q6bTlM-yE&sz=w1000"
+    },
+    "EXC-063": {
+      "Nombre": "Archimago de la Llama",
+      "Frecuencia": "Real",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=10gdYlrjFA_3hxETRuMAieXfWNUSHbSrF&sz=w1000"
+    },
+    "EXC-064": {
+      "Nombre": "Hongos Violeta",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1FASO1cr_XNOqm4os53cevpOHqLGxEO9x&sz=w1000"
+    },
+    "EXC-065": {
+      "Nombre": "Centinela de Agua",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14NrUkKpowwvD5DTXPTypElz1YhVaSZKf&sz=w1000"
+    },
+    "EXC-066": {
+      "Nombre": "Tormenta de Fuego",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=16fdvyF45aHjJJPAVBYfOiuKxnx8If7LF&sz=w1000"
+    },
+    "EXC-067": {
+      "Nombre": "Aura Bendita",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=11lMrcxGmzbZ-splJ0dp00ss4ebt3ZtgU&sz=w1000"
+    },
+    "EXC-068": {
+      "Nombre": "Traición de Lancelot",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=19qpWqknfSatulClBxmf4eP1nAPXOY4Sx&sz=w1000"
+    },
+    "EXC-069": {
+      "Nombre": "Descanso del Rey",
+      "Frecuencia": "Real",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1IsXx0B5jbMcijbFHl0pEXocQysxjsyxM&sz=w1000"
+    },
+    "EXC-070": {
+      "Nombre": "Espada Excalibur",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=19BPX6BZW-R8yOHYZezMU006lQYgl6X35&sz=w1000"
+    },
+    "EXC-071": {
+      "Nombre": "Clarent",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DrvFqiqKabtc_5tiv2mCuCc_QWJol0ON&sz=w1000"
+    },
+    "EXC-072": {
+      "Nombre": "Rhongomiant",
+      "Frecuencia": "Real",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1HmB7ExfV0eKls-s2lcwkP2ksDFNRgmx_&sz=w1000"
+    },
+    "EXC-073": {
+      "Nombre": "Camelot",
+      "Frecuencia": "Real",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1GupUl8nJS-VPUwgk414A4T8mc6hJtIpM&sz=w1000"
+    },
+    "EXC-074": {
+      "Nombre": "Sarras",
+      "Frecuencia": "Real",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=12K-BLYBQP49EtMAl-fADKw7wNbWejKcq&sz=w1000"
+    },
+    "EXC-075": {
+      "Nombre": "Corte de la Furia",
+      "Frecuencia": "Real",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Guq3u3Vn09H4LokaGNUCMN9LfmtsVtVZ&sz=w1000"
+    },
+    "EXC-076": {
+      "Nombre": "Tristán de Lyones",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=14hu1Sn3MKy3xXQl0xlVeh0RFxArOdEqa&sz=w1000"
+    },
+    "EXC-076F": {
+      "Nombre": "Tristán de Lyones",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=15_rsx4jrMmt1nVBqWAImcvhGkkIJg2Yw&sz=w1000"
+    },
+    "EXC-077": {
+      "Nombre": "Sir Bedivere",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=13YNoektqn3MqznMvJhu_510h3ydZw9Lw&sz=w1000"
+    },
+    "EXC-077F": {
+      "Nombre": "Sir Bedivere",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=11WFHh04hwOEGDf4QliNtjRVYb1t8pTH_&sz=w1000"
+    },
+    "EXC-078": {
+      "Nombre": "Rey Pescador",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=12BHofFnbw3UnVowUfJsxq7OMeHY3axNQ&sz=w1000"
+    },
+    "EXC-078F": {
+      "Nombre": "Rey Pescador",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=10MzI37NOnh48PA934AgVU2SWzHcy7FpA&sz=w1000"
+    },
+    "EXC-079": {
+      "Nombre": "Hob Goblin",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=12D3uEDySyLoPB1duzFIYfMu2dkbJhnct&sz=w1000"
+    },
+    "EXC-079F": {
+      "Nombre": "Hob Goblin",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1GBdsD1j8P7xZvO6KyMyuhaO4Gq3Z44kR&sz=w1000"
+    },
+    "EXC-080": {
+      "Nombre": "Cerdic el Sajón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1G9gXALQrTwzOeCfSlGdVhxFpy_nDpqq9&sz=w1000"
+    },
+    "EXC-080F": {
+      "Nombre": "Cerdic el Sajón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1FeEqg_vPuvRQ2unc5685fYrVNLRCE8yG&sz=w1000"
+    },
+    "EXC-081": {
+      "Nombre": "Bugbear",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1FFPlYG6EqYAg6iXs-q30FT4dhnpByTOd&sz=w1000"
+    },
+    "EXC-081F": {
+      "Nombre": "Bugbear",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=13VIed0mScQWcctbd7AzuLHt8pdZ4D2T1&sz=w1000"
+    },
+    "EXC-082": {
+      "Nombre": "Ellyllon",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1DwkZ0-Diyi5jw6fSMhr2t6399qxhPKhq&sz=w1000"
+    },
+    "EXC-082F": {
+      "Nombre": "Ellyllon",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1BLSjpWFcTFhxMJj4lJRsCKxVe4G-3MfE&sz=w1000"
+    },
+    "EXC-083": {
+      "Nombre": "Ghillie Dhu",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1ImAoPQW7R8VwoyKpehuI4bXTJnkkM2m2&sz=w1000"
+    },
+    "EXC-083F": {
+      "Nombre": "Ghillie Dhu",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1IWAC0hCLc6cd19bGvaNeeRtdCf2YiJo-&sz=w1000"
+    },
+    "EXC-084": {
+      "Nombre": "Pixie",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=11g3-qU1ulzGRbbeYVBvikKJ-KQOHlgCH&sz=w1000"
+    },
+    "EXC-084F": {
+      "Nombre": "Pixie",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1JWPEqdmkgnjyUUqBNt2tpPCYKALnkSNh&sz=w1000"
+    },
+    "EXC-085": {
+      "Nombre": "Org el Hechicero",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1F8JdqYtN4U-BknZxwWmAeZSJr4kmJVVN&sz=w1000"
+    },
+    "EXC-085F": {
+      "Nombre": "Org el Hechicero",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1F0Fp2UVSouRqAbO-LeWBb-GtTLlZu8oA&sz=w1000"
+    },
+    "EXC-086": {
+      "Nombre": "Dearg Due",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=157nMFLW9abqGM9OReacgG6zd-OLQal3v&sz=w1000"
+    },
+    "EXC-086F": {
+      "Nombre": "Dearg Due",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=162rVI9Ln4vX8pa332PiTVw-fq6RDUayk&sz=w1000"
+    },
+    "EXC-087": {
+      "Nombre": "Cu Sith",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ithyx89QuRPiQ_gioMbixapsDEWYar91&sz=w1000"
+    },
+    "EXC-087F": {
+      "Nombre": "Cu Sith",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=18vPYXzxKKotvhefmbAG95McKW2KYDI9K&sz=w1000"
+    },
+    "EXC-088": {
+      "Nombre": "Dhu Guisch",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=16XmP7YgCZU097-d1IGW_hDmmcy_JApWL&sz=w1000"
+    },
+    "EXC-088F": {
+      "Nombre": "Dhu Guisch",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=16o8GeKfjkt0W583GSVrwVhS_F7YQ6tGO&sz=w1000"
+    },
+    "EXC-089": {
+      "Nombre": "Cockatriz",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1CSiXqBX4rfDkmMDRoxsQNifuPeo-Nyot&sz=w1000"
+    },
+    "EXC-089F": {
+      "Nombre": "Cockatriz",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1COQP7XjcfVhYBWKbh4c8JWGm7_Q0Rrr-&sz=w1000"
+    },
+    "EXC-090": {
+      "Nombre": "Kernouac",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1-jTxCM6mVYjfFMMBO2RlcQ4ES0u3jBkZ&sz=w1000"
+    },
+    "EXC-090F": {
+      "Nombre": "Kernouac",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=107z4Ppl13D0SaQjNX1gXNKTBaacTfLot&sz=w1000"
+    },
+    "EXC-091": {
+      "Nombre": "Duphon",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=17FcuXXPyMZkbyRTIp6iG_yVZMv691PUl&sz=w1000"
+    },
+    "EXC-091F": {
+      "Nombre": "Duphon",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=14UWxjKwqwkrmhHZrlS_I6z9jKXAwzglq&sz=w1000"
+    },
+    "EXC-092": {
+      "Nombre": "Bestia de Barrisdale",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1F5NkUPvWCbTi-wAM8jAA1hTF5IjEdKOK&sz=w1000"
+    },
+    "EXC-092F": {
+      "Nombre": "Bestia de Barrisdale",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=11jxMFwmx0wE4g6eaGEjt6lMDx2wvWW9x&sz=w1000"
+    },
+    "EXC-093": {
+      "Nombre": "Serpopardo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1JvPjZlB6g8gEIM5Y8OhFa9TkqSl8MV4S&sz=w1000"
+    },
+    "EXC-093F": {
+      "Nombre": "Serpopardo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1CvbDp-RGSDEqtPlnzOBMtcYyAaWlVA1b&sz=w1000"
+    },
+    "EXC-094": {
+      "Nombre": "Galehaut",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=18rpuBnbjF5qKxMave8F3u2JQub_YeIlk&sz=w1000"
+    },
+    "EXC-094F": {
+      "Nombre": "Galehaut",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=12bW7iHNoOjvyRbr5MSCLo1yv_v5LMsxX&sz=w1000"
+    },
+    "EXC-095": {
+      "Nombre": "Idris el Gigante",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=15mels7jAzlZuTt0PxcI8jljkZqGzg17j&sz=w1000"
+    },
+    "EXC-095F": {
+      "Nombre": "Idris el Gigante",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=15yF-Wk-qZEFKP70l-r6zssdclpu0vi0S&sz=w1000"
+    },
+    "EXC-096": {
+      "Nombre": "Maestro de la Llama",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=10B8wpX1S7uAraI5qlmFTi-9j_pBgxRpM&sz=w1000"
+    },
+    "EXC-096F": {
+      "Nombre": "Maestro de la Llama",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=16mHaxWUCa_Jr1wQbtkoyOFWacWbHWAg7&sz=w1000"
+    },
+    "EXC-097": {
+      "Nombre": "Canción de Taliesin",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1CmpaZ04IADsMobnRWmL7S54VEClG0ekI&sz=w1000"
+    },
+    "EXC-097F": {
+      "Nombre": "Canción de Taliesin",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1IAUFeJejF8WCYMPZQR49rdHnylpjOpQ9&sz=w1000"
+    },
+    "EXC-098": {
+      "Nombre": "Llamarada",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13X-2zqbXl2HEif3lLitDioEHO0wLF39u&sz=w1000"
+    },
+    "EXC-098F": {
+      "Nombre": "Llamarada",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1-N_K7SfGsZsMvZOSoBES6v2dGShYCUdO&sz=w1000"
+    },
+    "EXC-099": {
+      "Nombre": "Destruir Escudo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=17VahIyBPmaufWLPwAyWx3-mDP-v6tVX5&sz=w1000"
+    },
+    "EXC-099F": {
+      "Nombre": "Destruir Escudo",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=17abhiAALx39Xyr2nEzMfYdSY2vvUMdHv&sz=w1000"
+    },
+    "EXC-100": {
+      "Nombre": "Nave de Salomón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=12qgELZ7Uz7nEYj4KxirALdqhLGDN0rGB&sz=w1000"
+    },
+    "EXC-100F": {
+      "Nombre": "Nave de Salomón",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DXoRAh5sLfPMwNxuE5lrGUQWvzutuMOp&sz=w1000"
+    },
+    "EXC-101": {
+      "Nombre": "Nueve Hadas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=134GAVW0ZtPw45LM9xcEpmjALYF59Buo3&sz=w1000"
+    },
+    "EXC-101F": {
+      "Nombre": "Nueve Hadas",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1BKgVNNrZzaPHtA40oGYdqCZbQF_BAA9H&sz=w1000"
+    },
+    "EXC-102": {
+      "Nombre": "Misil Mágico",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1HsFLAe6ieGoy_00SHhxxdyjzPgir7lHV&sz=w1000"
+    },
+    "EXC-102F": {
+      "Nombre": "Misil Mágico",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1BeNpp0euZ9y5uEj3rkLlaEf-2W1p3J5k&sz=w1000"
+    },
+    "EXC-103": {
+      "Nombre": "Carnwennan",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=16zVLp-ufQzcBGMQ7I3OF4odv85dIIv3n&sz=w1000"
+    },
+    "EXC-103F": {
+      "Nombre": "Carnwennan",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Ju2mN7Ef6fyEtkL673947uE3yI2sdRM9&sz=w1000"
+    },
+    "EXC-104": {
+      "Nombre": "Gran Seax",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Aoy-gBN6wQlR9nl9GsvpVV0v94KMUide&sz=w1000"
+    },
+    "EXC-104F": {
+      "Nombre": "Gran Seax",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1AntW4GolcMT9btyFF2_tF6aS0oBuBSj2&sz=w1000"
+    },
+    "EXC-105": {
+      "Nombre": "Arco Galés",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=12gyF0AEyjpLnXhs3bBfk_ZcFhxoOteq4&sz=w1000"
+    },
+    "EXC-105F": {
+      "Nombre": "Arco Galés",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1H3ER6CN-gRIKLzvqSMfFAXPZ76BiB83Q&sz=w1000"
+    },
+    "EXC-106": {
+      "Nombre": "Pridwen",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1HRekxaBPsLWHu0eVKOUW-AaHSeNVA0VP&sz=w1000"
+    },
+    "EXC-106F": {
+      "Nombre": "Pridwen",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DukTpkiEWxJUKEg0t8Ye30e99sbuFjaK&sz=w1000"
+    },
+    "EXC-107": {
+      "Nombre": "Guardia Gozosa",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=119RuBUgWTAL1Ex4x9le7P4jGrMf88n1e&sz=w1000"
+    },
+    "EXC-107F": {
+      "Nombre": "Guardia Gozosa",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1E50y_y8Uc7L9iK5lQOwlb0jccn0ZkIbi&sz=w1000"
+    },
+    "EXC-108": {
+      "Nombre": "Dinas Emrys",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1EJGwosIepUIVe-_KJkJAqb3H5insYKdr&sz=w1000"
+    },
+    "EXC-108F": {
+      "Nombre": "Dinas Emrys",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=15KezNdiVzhXokWkPLkOrtJQbqB5Y3Nrw&sz=w1000"
+    },
+    "EXC-109": {
+      "Nombre": "Caballo Blanco",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1C2-wkZHn9YnMuo9NVxnsi6vaBv7a4Akn&sz=w1000"
+    },
+    "EXC-109F": {
+      "Nombre": "Caballo Blanco",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DED9scbHIGNgVjo71ojoWwV9DR1Y_f61&sz=w1000"
+    },
+    "EXC-110": {
+      "Nombre": "Corbenic",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13HimbNJtdU6QbPiFadlzZh9s8_pQNYBQ&sz=w1000"
+    },
+    "EXC-110F": {
+      "Nombre": "Corbenic",
+      "Frecuencia": "Cortezano",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=16Mo0BbPnZvv8-BCJVOS5REvWZHIFbH9B&sz=w1000"
+    },
+    "EXC-111": {
+      "Nombre": "Tom Thumb",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=11MAqs12iNpcz73ko10ap2mBP2PH7f5iq&sz=w1000"
+    },
+    "EXC-111F": {
+      "Nombre": "Tom Thumb",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=136HSZ_bFHpbykmnM8jtv7sgz6qBtY8vv&sz=w1000"
+    },
+    "EXC-112": {
+      "Nombre": "Sir Kay el Senescal",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1BKEzrgwh2ZFEkhqEUvN7EGBA7fepLzra&sz=w1000"
+    },
+    "EXC-112F": {
+      "Nombre": "Sir Kay el Senescal",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1BI9RWWWpRBtywfczxt2e51dEr-iz5pAP&sz=w1000"
+    },
+    "EXC-113": {
+      "Nombre": "Sir Gareth",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1JKMNTt3xihMw2sCbWN_DRktatrWErgqH&sz=w1000"
+    },
+    "EXC-113F": {
+      "Nombre": "Sir Gareth",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1ItfSKMLVwfU1vk3dLeKs9r_juA8CgrG2&sz=w1000"
+    },
+    "EXC-114": {
+      "Nombre": "Goblin de la Guardia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1-t2SBCRMFgG99xV_BKYVnvNK7VXSIDal&sz=w1000"
+    },
+    "EXC-114F": {
+      "Nombre": "Goblin de la Guardia",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1IYAIAMlLnsH5hvNPZHPC7RzrORRuL8ac&sz=w1000"
+    },
+    "EXC-115": {
+      "Nombre": "Goblin Marcado",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=19lFCTDBf2NoKToFKh8Ps0UlAAjlHYpt2&sz=w1000"
+    },
+    "EXC-115F": {
+      "Nombre": "Goblin Marcado",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=10vjVsIDnGq8-Zdx3p6m3_BcXvBsLHWte&sz=w1000"
+    },
+    "EXC-116": {
+      "Nombre": "Cazador Picto",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1FWb0_qL_MWxsxDqvaTtTWsLE9YbGgm5r&sz=w1000"
+    },
+    "EXC-116F": {
+      "Nombre": "Cazador Picto",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=16eHnxXVzP6eq6MY9Tq_-dsuBSf_R8OBf&sz=w1000"
+    },
+    "EXC-117": {
+      "Nombre": "Arragouset",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1H0yNZyv2jlD1MNFcKop4suF5peocYF-u&sz=w1000"
+    },
+    "EXC-117F": {
+      "Nombre": "Arragouset",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1E95U4vfmyIzLxktI5vkd4XdJCVwVHHOy&sz=w1000"
+    },
+    "EXC-118": {
+      "Nombre": "Boggart",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1HdMYVj7xThQRGsbGKtJSIoUkrvdAq3Bu&sz=w1000"
+    },
+    "EXC-118F": {
+      "Nombre": "Boggart",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=17T9bSMCDNcvna_g5YK_wXNB4IaR1BCb9&sz=w1000"
+    },
+    "EXC-119": {
+      "Nombre": "Bugul Noz",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=12ecxFzPq9baGsw0s1CVjoo991s752MsW&sz=w1000"
+    },
+    "EXC-119F": {
+      "Nombre": "Bugul Noz",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=13osYtaLQ_JxFmiwq_uotf1O-TtWELJw1&sz=w1000"
+    },
+    "EXC-120": {
+      "Nombre": "Kelpie",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=15P-sYBZGRCrgFHgLZ09Ohd3XlP1WNFB2&sz=w1000"
+    },
+    "EXC-120F": {
+      "Nombre": "Kelpie",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1AUt0dSa884YkvLr2B8SE1o-FjTUUU4Ld&sz=w1000"
+    },
+    "EXC-121": {
+      "Nombre": "Demonio de las Cadenas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=18R8cNaJfs7GiCBjIX0XJY6DiPKmw0i7H&sz=w1000"
+    },
+    "EXC-121F": {
+      "Nombre": "Demonio de las Cadenas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1EAtyxSEwZaSqhimGlvpQb6CB6aU-O-7y&sz=w1000"
+    },
+    "EXC-122": {
+      "Nombre": "Vrock el Cazador",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=12Hy_55slPeOwvFvQqvc96rEMEs_15TeF&sz=w1000"
+    },
+    "EXC-122F": {
+      "Nombre": "Vrock el Cazador",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=12-NRp3kBpdDkI6cmmoqVS11Hyqg6R_ib&sz=w1000"
+    },
+    "EXC-123": {
+      "Nombre": "Morgawr",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1DvWidOFdxZaYmav19xktq2tCZ1f_-TLQ&sz=w1000"
+    },
+    "EXC-123F": {
+      "Nombre": "Morgawr",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1C3hud2xAhzcyXy9dYzugqJD4N2-sQ2xj&sz=w1000"
+    },
+    "EXC-124": {
+      "Nombre": "Dragón de Bronce",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1BsRByQvEi1972NdxfLyZxeGaECN_gSD1&sz=w1000"
+    },
+    "EXC-124F": {
+      "Nombre": "Dragón de Bronce",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=15Av9ae1YwrIZadiIpYRZCBZlkkYqHrg4&sz=w1000"
+    },
+    "EXC-125": {
+      "Nombre": "Dragón Cometa",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=15CEf-F_7h6lTy3U7QEcLjl3dcL3hBoR-&sz=w1000"
+    },
+    "EXC-125F": {
+      "Nombre": "Dragón Cometa",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=15zv-mdw3LUOADGKLM57w5h5NREP2382L&sz=w1000"
+    },
+    "EXC-126": {
+      "Nombre": "Twrch Trwyth",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=12RXarj7kp7Rr8G9wqZqwcggAA5N2S7a6&sz=w1000"
+    },
+    "EXC-126F": {
+      "Nombre": "Twrch Trwyth",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=12gJL4Uh3v0-qms2f4MBfFf9ZAm9BpljH&sz=w1000"
+    },
+    "EXC-127": {
+      "Nombre": "Gorlagon",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=15d3WuNPOSswdNz4G7o6WeusDiow7bKEr&sz=w1000"
+    },
+    "EXC-127F": {
+      "Nombre": "Gorlagon",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1FiYt1RQQUNACzXUrGLiRlLMDJNWSP-1O&sz=w1000"
+    },
+    "EXC-128": {
+      "Nombre": "Afanc",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1JLb80NpkVfbHikUHN-Te-X-vUApRYzmd&sz=w1000"
+    },
+    "EXC-128F": {
+      "Nombre": "Afanc",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1GBB1bKApA5JhVjn1MP7ZKYG0YYQ-3XiC&sz=w1000"
+    },
+    "EXC-129": {
+      "Nombre": "Sir Héctor",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1I856l6ViMJGjVEtexDy2FpLqLdH12X_X&sz=w1000"
+    },
+    "EXC-129F": {
+      "Nombre": "Sir Héctor",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=100CNcVdjjlxmTs2FVNJluQrC4uC29LjG&sz=w1000"
+    },
+    "EXC-130": {
+      "Nombre": "Gwendolen",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Dyw2L4lAgKUAtBDraxcFwBoGREAQK9aG&sz=w1000"
+    },
+    "EXC-130F": {
+      "Nombre": "Gwendolen",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=19rRR63YJjykgVQ0kvlb7QX4fyKiVwi4h&sz=w1000"
+    },
+    "EXC-131": {
+      "Nombre": "Aprendiz de la Llama",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14-IDUikdo_1aaDDcOi-wn_d1Pew-aprt&sz=w1000"
+    },
+    "EXC-131F": {
+      "Nombre": "Aprendiz de la Llama",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Doon-WxQV7vyQ2CR8aXI8vFijFG-Cwnt&sz=w1000"
+    },
+    "EXC-132": {
+      "Nombre": "Deponer Armas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1FaSPKUSucTj5vq4keGc8MOrqw-_ZI8qB&sz=w1000"
+    },
+    "EXC-132F": {
+      "Nombre": "Deponer Armas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=11S7kxShXbl8JOXtRwZHKzfKlcE_e6Rx0&sz=w1000"
+    },
+    "EXC-133": {
+      "Nombre": "Sobrepasar el Muro",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=113LEEkGQB6l0HdmhtwgpuMIeaYpvGkyq&sz=w1000"
+    },
+    "EXC-133F": {
+      "Nombre": "Sobrepasar el Muro",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1JewkP8IvCXD9ZM7yDvDWKhBCvggP3GI3&sz=w1000"
+    },
+    "EXC-134": {
+      "Nombre": "Golpe Elemental",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1FBV6sEZhwlO5fcA7NhX3FsaJsbS58jay&sz=w1000"
+    },
+    "EXC-134F": {
+      "Nombre": "Golpe Elemental",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14896HJAcnmE8lRamc7pXfooE6l-TrDui&sz=w1000"
+    },
+    "EXC-135": {
+      "Nombre": "Arañas de Fuego",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1JCJ4WZjOMaeOHbWJR5J-_kpkpzHrDie-&sz=w1000"
+    },
+    "EXC-135F": {
+      "Nombre": "Arañas de Fuego",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1F4fck9W8CnGJ-zt4DVtIfKgFmqYPQIY8&sz=w1000"
+    },
+    "EXC-136": {
+      "Nombre": "Convocar Familiar",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1CTavLVmdFbg-Nl5ph6TDXdlLr_xHFOHg&sz=w1000"
+    },
+    "EXC-136F": {
+      "Nombre": "Convocar Familiar",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13hqbUnM-0JbZNgiywyauWW16g-yTtnxW&sz=w1000"
+    },
+    "EXC-137": {
+      "Nombre": "Sonar las Campanas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13vLFnT6jFwFl_OYJq8oWU42IchRhG4dm&sz=w1000"
+    },
+    "EXC-137F": {
+      "Nombre": "Sonar las Campanas",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Fc0mc32oDubLNftRArCKskZuzdjd5swK&sz=w1000"
+    },
+    "EXC-138": {
+      "Nombre": "Morningstar",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1BDp-mbQP7h2LtOo9P9y4an2mA1-eInaV&sz=w1000"
+    },
+    "EXC-138F": {
+      "Nombre": "Morningstar",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1G_yizhwDR2K4PzMef5yNY3QgeuMjNcK8&sz=w1000"
+    },
+    "EXC-139": {
+      "Nombre": "Espada Anillada",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1-5_fe_Me3jqDtsGA7m-kHOouRO8EZiur&sz=w1000"
+    },
+    "EXC-139F": {
+      "Nombre": "Espada Anillada",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1IhX-q6JZDpe2WXfD3HzKxaUlQx2_8c9O&sz=w1000"
+    },
+    "EXC-140": {
+      "Nombre": "Bludgeon",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14ZIljRHwhFLreyxb4A7fdd1BASAdwphg&sz=w1000"
+    },
+    "EXC-140F": {
+      "Nombre": "Bludgeon",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=139LYJyiBfniv_NYPC_CXPIL3BDzMOifg&sz=w1000"
+    },
+    "EXC-141": {
+      "Nombre": "Flail",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1J_L4iqeTJx5TNo8qQD9ftyiCKdEpfabE&sz=w1000"
+    },
+    "EXC-141F": {
+      "Nombre": "Flail",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=15IyVnebi2aqe_8tnlNXQ-JQt3btP8S52&sz=w1000"
+    },
+    "EXC-142": {
+      "Nombre": "Celliwig",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1AjJmTDng4ubgo-PAuyFEX_Cc_PG9OXBc&sz=w1000"
+    },
+    "EXC-142F": {
+      "Nombre": "Celliwig",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=15QNcefM1EQcusnkONSsPN0jZFkw_RPkF&sz=w1000"
+    },
+    "EXC-143": {
+      "Nombre": "Tótem Goblin",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13PBjouxqAOdwMOUwSsQr7O9TQt6ba7ut&sz=w1000"
+    },
+    "EXC-143F": {
+      "Nombre": "Tótem Goblin",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14sa1St_E0sBI4HUbaGTL-gNjZ1LUB8lK&sz=w1000"
+    },
+    "EXC-144": {
+      "Nombre": "Tintagel",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DUfIYKCIz8z0d8e0ygPSQ8My-15mhTB9&sz=w1000"
+    },
+    "EXC-144F": {
+      "Nombre": "Tintagel",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=18DjHMll0Zjik-9eh-AMcitbNwb9wPKml&sz=w1000"
+    },
+    "EXC-145": {
+      "Nombre": "Tótem de Nodens",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13PdnRVZMIebEYFGKDKV8nPeSfp5hnyfx&sz=w1000"
+    },
+    "EXC-145F": {
+      "Nombre": "Tótem de Nodens",
+      "Frecuencia": "Vasallo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13Yv-CmSZd77Df4c3FOkZs7hZRbFSTvRo&sz=w1000"
+    },
+    "EXC-146": {
+      "Nombre": "Baúl Ambulante",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=16eyn2mlvI6WSDlfgS-VukxcANjTYfA0T&sz=w1000"
+    },
+    "EXC-146F": {
+      "Nombre": "Baúl Ambulante",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1G9I81xarSbAPwo47o6i95F9l9qQh_Ev9&sz=w1000"
+    },
+    "EXC-147": {
+      "Nombre": "Cuerno de Bran Galed",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1E75rnfGBgt7PObUSXeNcbfhsf3aOaFQv&sz=w1000"
+    },
+    "EXC-147F": {
+      "Nombre": "Cuerno de Bran Galed",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=13tSd5WMr0td6roEM3VSjhEp6gAzDWbFq&sz=w1000"
+    },
+    "EXC-148": {
+      "Nombre": "La Mesa Redonda",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=19QWyhh_uzDr0OU-WyOpIKBJkih6YBEYN&sz=w1000"
+    },
+    "EXC-148F": {
+      "Nombre": "La Mesa Redonda",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1JRZoUjMOjTccUdVwPQMoYTjUf8RB2dhq&sz=w1000"
+    },
+    "EXC-149": {
+      "Nombre": "Azor",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=120p769qonwwZVQhl817pO2dRUaCYsgor&sz=w1000"
+    },
+    "EXC-149F": {
+      "Nombre": "Azor",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1A4Okf6FT5CrIJZCaX06XcuukI0m85wZI&sz=w1000"
+    },
+    "EXC-150": {
+      "Nombre": "Mabinogion",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=184i7J-henrev5baRCt500EwSLtLeVGqK&sz=w1000"
+    },
+    "EXC-150F": {
+      "Nombre": "Mabinogion",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14FgP_4C14ELoH8p8tvOH0B8-NQnXfcR0&sz=w1000"
+    },
+    "EXC-151": {
+      "Nombre": "¡Desleal!",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1AwgxEF57RYMb8SCz6Bz1qrMSWz8drlX-&sz=w1000"
+    },
+    "EXC-152": {
+      "Nombre": "Incinerar",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Hg8tsOymgGPlq7JYAhAQZGhnxqYaYozG&sz=w1000"
+    },
+    "EXC-153": {
+      "Nombre": "Sanar al Rey",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=11Uvl2EyHduEIeLPokHI83H53xMFA2OpF&sz=w1000"
+    },
+    "EXC-154": {
+      "Nombre": "Encerrar al Mago",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=14khatHWgpcX0S8-VLDdREfihTsZhWl3J&sz=w1000"
+    },
+    "EXC-155": {
+      "Nombre": "Funeral para un Amigo",
+      "Frecuencia": "Secreta",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=12kyduzUwxUrHGL1i0WSK07eOt7SuzChz&sz=w1000"
+    },
+    "EXC-156": {
+      "Nombre": "Rey Arturo",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1DcnVuBliEzHRQKWplxBB3ZrgmSbDoZIr&sz=w1000"
+    },
+    "EXC-157": {
+      "Nombre": "Hengist el Sajón",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=18HdtOG4pEfe46YCTqWSIyBx5gL7qZ0_L&sz=w1000"
+    },
+    "EXC-158": {
+      "Nombre": "Arawn",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1EGkrg-7LWw-fAFUpueppbEIWoqjqbWUX&sz=w1000"
+    },
+    "EXC-159": {
+      "Nombre": "Morgana",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1IaJsBHwXQSGGmOxRqF--cVvL14tuujOe&sz=w1000"
+    },
+    "EXC-160": {
+      "Nombre": "Y Ddraig Goch",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=191vBDBwknQuFrBcWycUYOL8VYlbMz8pJ&sz=w1000"
+    },
+    "EXC-161": {
+      "Nombre": "Grifo Sacro",
+      "Frecuencia": "Legendaria",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ds4gXZEI2u78tsHR-9nquqp279G0VYH0&sz=w1000"
+    },
+    "EXC-162": {
+      "Nombre": "Merlín Ambrosius",
+      "Frecuencia": "UltraReal",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1999p-7ZRVsOiSBWnBm9xQSjGqKr3U45N&sz=w1000"
+    },
+    "EXC-163": {
+      "Nombre": "Oro Edición",
+      "Frecuencia": "Oro",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1AAkv-FsT00rd_H8WEbaffdk4_WiwWa-t&sz=w1000"
+    },
+    "EXC-164": {
+      "Nombre": "Galahad de Corbenic",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=18UX6vnB3PM7tQVFwkF4m2f5UG_hWDaE7&sz=w1000"
+    },
+    "EXC-165": {
+      "Nombre": "Bridei el Picto",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1GdBf-6XlQiGgq9H5mbmzc-8qrxkB8A5Z&sz=w1000"
+    },
+    "EXC-166": {
+      "Nombre": "Dama del Lago",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1CrCDJFP8AbTND_lD2k9-fAX7PuUWsE3h&sz=w1000"
+    },
+    "EXC-167": {
+      "Nombre": "Dullahan",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1CkNbTBDnKfjogx2dQESLsCRMhzfYID7w&sz=w1000"
+    },
+    "EXC-168": {
+      "Nombre": "Dragón de Plata",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 4,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1DXXS1aBAlNX4klwgg8fLYzBwG9OcmqYn&sz=w1000"
+    },
+    "EXC-169": {
+      "Nombre": "Barghest",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=18gpseT2QATJAa7-BIIRgwgYDdaz9kagj&sz=w1000"
+    },
+    "EXC-170": {
+      "Nombre": "Flecha de Ácido",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=18htTaqySDNegX7PhRiFe6ArHizPMDyMV&sz=w1000"
+    },
+    "EXC-171": {
+      "Nombre": "Descanso del Rey",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1FiIt_yOPloVGJujSpe7d9n1MjlOqTykq&sz=w1000"
+    },
+    "EXC-172": {
+      "Nombre": "Ofrenda Siniestra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=131Py29ySYBh9H6-RE-HNaas7yqG6kV_I&sz=w1000"
+    },
+    "EXC-173": {
+      "Nombre": "Tormenta de Fuego",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=15Rs-NAIr50YJHrsIBiEjD4X8Enaq1OlC&sz=w1000"
+    },
+    "EXC-174": {
+      "Nombre": "Gladius",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1cOFaz2Y1oUiSjvSsCREYd7cOaekAZRGT&sz=w1000"
+    },
+    "EXC-175": {
+      "Nombre": "Nimue",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1Ddyjxc5Pa6yseARxTeDpRAv94eDwdiZO&sz=w1000"
+    },
+    "EXC-176": {
+      "Nombre": "Haquika",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1AdUN5L38cE5hxEWjq3hVS7q4pV_rZ9ry&sz=w1000"
+    },
+    "EXC-178": {
+      "Nombre": "Ebisu",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1cPUS6npZJCaAh3gXbICUh0ij9qLrLfoc&sz=w1000"
+    },
+    "EXC-179": {
+      "Nombre": "Camelot",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1-apK5GFkbegXrUwNfHDYcrE15Gs-JIA9&sz=w1000"
+    },
+    "EXC-180": {
+      "Nombre": "Ánima Negra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1423OTzQjoxA-A7wyjUPvMnMmWeiGtELp&sz=w1000"
+    },
+    "EXC-181": {
+      "Nombre": "Sarras",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Tótem",
+      "Fuerza": null,
+      "Coste": 3,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=135yYrNOMDDTjMDBU3QkSp23l2MDfccoQ&sz=w1000"
+    },
+    "EXC-182": {
+      "Nombre": "Sir Gawain",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=133QBewSQnrq2XDAkovItZESQp5sE45yQ&sz=w1000"
+    },
+    "EXC-183": {
+      "Nombre": "Muirisc",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=193pat9iw1vEjNGZZVhgncQI8NBliGJ9E&sz=w1000"
+    },
+    "EXC-184": {
+      "Nombre": "Rhiannon",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1GF_j7419Ja-jf-giS3xFBVTkoyuJM8g9&sz=w1000"
+    },
+    "EXC-185": {
+      "Nombre": "Morgause",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1FDjkRmKJEMqfW6kvu7RWA2dPLvCvO3AN&sz=w1000"
+    },
+    "EXC-186": {
+      "Nombre": "Stoor Worm",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=197WkvIrnH8z7YqztEOy7D2isiuif6E_j&sz=w1000"
+    },
+    "EXC-187": {
+      "Nombre": "Cavall",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1Jk1AhBSoeh9DM2LQF-PVpVeSilR3DN7U&sz=w1000"
+    },
+    "EXC-188": {
+      "Nombre": "Reina Guinevere",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1-9RP14qI9mGGiIT-z4IrFwdQeLVkEcQq&sz=w1000"
+    },
+    "EXC-189": {
+      "Nombre": "Horsa el Salvaje",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1Dg6GzmLsXaVsaI7cvYM057Von7Ee-BxX&sz=w1000"
+    },
+    "EXC-190": {
+      "Nombre": "El Poeta",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1-ckVg8fyZvZ-4nkxup9ovtvo3yZAT0q_&sz=w1000"
+    },
+    "EXC-191": {
+      "Nombre": "Belial",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1FW0-uRlq9AGR_SZVCG1_cqukuZAush1p&sz=w1000"
+    },
+    "EXC-192": {
+      "Nombre": "Dragón Demonio",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=17sOv5Qurx3mv_2am8Cshmt62cB9ngzp5&sz=w1000"
+    },
+    "EXC-193": {
+      "Nombre": "Corcel Marino",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=18jg0XUcrspVywZm2u2l4zrQLvk5JkGv6&sz=w1000"
+    },
+    "EXC-194": {
+      "Nombre": "Sir Percival",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=121KS8hf3_S5YUaKNFB1Ee4WWFJi0xV-P&sz=w1000"
+    },
+    "EXC-195": {
+      "Nombre": "Urac Piel Azul",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=14tl5fyVga7O_qvNjTGP459E8bZrpn8_j&sz=w1000"
+    },
+    "EXC-196": {
+      "Nombre": "Lleu Llaw Gyffes",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 1,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=19GuyXXSe_i-GXf2QjlVxmkZfuTGI-XEC&sz=w1000"
+    },
+    "EXC-197": {
+      "Nombre": "Dama Yochlol",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=11t1SvmBO5S3svwduY-bjfsuI3pww2n5c&sz=w1000"
+    },
+    "EXC-198": {
+      "Nombre": "Gran Wyrm",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 4,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1IFB16w2EvH2rAWz-SGeuCus2Z2CsH6UJ&sz=w1000"
+    },
+    "EXC-199": {
+      "Nombre": "Trécouche",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1EA5zrrt-Ecta-e2nEjVP6ybPfj0SnG81&sz=w1000"
+    },
+    "EXC-200": {
+      "Nombre": "Felipe II",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1B4PB6n1goXu9UW4s5IVoah6Iz8azEkIX&sz=w1000"
+    },
+    "EXC-201": {
+      "Nombre": "Ricardo Corazón de León",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1JSVzKOlxUG0opNUfdhrFnsReg2X3Lzbs&sz=w1000"
+    },
+    "EXC-202": {
+      "Nombre": "Djinn del Desierto",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Iy9zSucVFAR5CkgDaHtPhKt5v2jys1qs&sz=w1000"
+    },
+    "EXC-203": {
+      "Nombre": "Deva León",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 5,
+      "Coste": 3,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=13v2LpblL3ryU3SmLtcIrdlLH4ASXOi42&sz=w1000"
+    },
+    "EXC-204": {
+      "Nombre": "Saladino",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 1,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=1JEuQEWm__saMTksqGcw0Ogq8I3rIJ7rf&sz=w1000"
+    },
+    "EXC-205": {
+      "Nombre": "Federico Barbarroja",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Guerrero",
+      "Arte": "https://drive.google.com/thumbnail?id=13p5XIpmMx5172_wyAO911s3sM3Ld4MVq&sz=w1000"
+    },
+    "EXC-206": {
+      "Nombre": "Hombre Hiena",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=1IIZOkoQ7FlqMk-6UuvVAMR_KZz-384U7&sz=w1000"
+    },
+    "EXC-207": {
+      "Nombre": "Ichneumon",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=15sAtP9-KnS4QLjopRGpycCRZDdxlAFzT&sz=w1000"
+    },
+    "EXC-208": {
+      "Nombre": "Basoon",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1EquLRaVENaRer0mLlExbdfvx992zdash&sz=w1000"
+    },
+    "EXC-209": {
+      "Nombre": "Azi Dahaka",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 3,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=19QLeIZaot5zbwxqXXsX0HShEIaJgZlOn&sz=w1000"
+    },
+    "EXC-210": {
+      "Nombre": "Iblis",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 4,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1153CjxnCOBNSYcY1z5sPgDujtNeM36Kd&sz=w1000"
+    },
+    "EXC-211": {
+      "Nombre": "Viejo de la Montaña",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Sombra",
+      "Arte": "https://drive.google.com/thumbnail?id=1H0AkyehajWBPDEmWyWxwjKG49nz0bbaY&sz=w1000"
+    },
+    "EXC-212": {
+      "Nombre": "Caída de Jerusalén",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1CEsWaoWzSuWSWXXeCxIn8S9n2fttBNj8&sz=w1000"
+    },
+    "EXC-213": {
+      "Nombre": "Cruzada de los Reyes",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 4,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1DWUqoCe2kBMbYLJqDMHp5oJkXHiNcwQ3&sz=w1000"
+    },
+    "EXC-214": {
+      "Nombre": "Fantasmas del Desierto",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=11pV0XxX5hZGILhBdY1GzWdqw8KUJPWdN&sz=w1000"
+    },
+    "EXC-215": {
+      "Nombre": "Carga de Caballería",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1HiE_lY6OrLMinHEBtN1MUgc5cKyJkLWY&sz=w1000"
+    },
+    "EXC-216": {
+      "Nombre": "Escudo Templario",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1CWzVnTcHwRDePCLSIEzNsK54ScHsFTEP&sz=w1000"
+    },
+    "EXC-217": {
+      "Nombre": "Cimitarra Sarracena",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Arma",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=1B-LzTho_1sahr9G9Grj8M_L_VMSVl9hB&sz=w1000"
+    },
+    "EXC-218": {
+      "Nombre": "Incinerar",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 2,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=17ahhinKc3twzntRt1KdxOLUeIJdsc5CW&sz=w1000"
+    },
+    "EXC-219": {
+      "Nombre": "Rómulo y Remo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Talismán",
+      "Fuerza": null,
+      "Coste": 1,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=10Ys9e_bS8SJgosBAlB5gY0vH6ZrSlOoC&sz=w1000"
+    },
+    "EXC-220": {
+      "Nombre": "Ra",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 4,
+      "Coste": 5,
+      "Raza": "Eterno",
+      "Arte": "https://drive.google.com/thumbnail?id=1Ar0e6db5JVkeFnXzgiCpC9xBLFzHOdgJ&sz=w1000"
+    },
+    "EXC-221": {
+      "Nombre": "Cristalino Amarillo",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 2,
+      "Raza": "Dragón",
+      "Arte": "https://drive.google.com/thumbnail?id=1EHVqecWN6FOosAZIiuMnNymKnGtUeuFt&sz=w1000"
+    },
+    "EXC-222": {
+      "Nombre": "Grifo Escita",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 2,
+      "Coste": 1,
+      "Raza": "Bestia",
+      "Arte": "https://drive.google.com/thumbnail?id=10yo4ussN1Fq0oK-SCLjJ-yAsi9IuZ4ob&sz=w1000"
+    },
+    "EXC-223": {
+      "Nombre": "Aureliano",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Aliado",
+      "Fuerza": 3,
+      "Coste": 2,
+      "Raza": "Caballero",
+      "Arte": "https://drive.google.com/thumbnail?id=1IzV8V_R4R05lXoaxehqXWL3JhRBjCCAr&sz=w1000"
     }
   },
   "TRO": {
