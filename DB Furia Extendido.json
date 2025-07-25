@@ -1,7 +1,7 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.0.7",
+      "Version": "0.3.1",
       "Update": "2025-07-22T04:00:00.000Z"
     }
   },
@@ -110,7 +110,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 5,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1S5wY8w8-q-hiFLqI86kvyY8rUZ5fdAVJ&sz=w1000"
     },
     "ROM-010": {
@@ -119,7 +119,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RgsMl6sLkbyjKH4vjRhPuJv9LQ0TjqQC&sz=w1000"
     },
     "ROM-011": {
@@ -143,7 +143,7 @@
     "ROM-013": {
       "Nombre": "Victoria de Hércules",
       "Frecuencia": "UltraReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -152,7 +152,7 @@
     "ROM-014": {
       "Nombre": "Rómulo y Remo",
       "Frecuencia": "UltraReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -161,7 +161,7 @@
     "ROM-015": {
       "Nombre": "Cruzar el Rubicón",
       "Frecuencia": "UltraReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
@@ -209,7 +209,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1OR0L62OJPDChqdoWuiAA7dSvj91NgdAX&sz=w1000"
     },
     "ROM-021": {
@@ -224,7 +224,7 @@
     "ROM-022": {
       "Nombre": "Amenaza a los Reinos",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -233,7 +233,7 @@
     "ROM-023": {
       "Nombre": "Resistencia",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -242,7 +242,7 @@
     "ROM-024": {
       "Nombre": "Ataque de Scarbos",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -251,7 +251,7 @@
     "ROM-025": {
       "Nombre": "Ira Ígnea",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -260,7 +260,7 @@
     "ROM-026": {
       "Nombre": "Ataque Berserker",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -269,7 +269,7 @@
     "ROM-027": {
       "Nombre": "Alianza Imposible",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -278,7 +278,7 @@
     "ROM-028": {
       "Nombre": "Enjambre Siniestro",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -287,7 +287,7 @@
     "ROM-029": {
       "Nombre": "Doble Trueno",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -296,7 +296,7 @@
     "ROM-030": {
       "Nombre": "Abrir Portal",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -305,7 +305,7 @@
     "ROM-031": {
       "Nombre": "Caminar la Telaraña",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -314,7 +314,7 @@
     "ROM-032": {
       "Nombre": "Fuerza de Lugh",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -323,7 +323,7 @@
     "ROM-033": {
       "Nombre": "Duelo Dragón",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -332,7 +332,7 @@
     "ROM-034": {
       "Nombre": "No Más Sombras",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -341,7 +341,7 @@
     "ROM-035": {
       "Nombre": "Una Nueva Era",
       "Frecuencia": "MegaReal",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -497,7 +497,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1MNPtD71HwgYJ-kKQ1RqTqLzWPptAVimS&sz=w1000"
     },
     "ROM-053": {
@@ -506,7 +506,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 1,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1VsKSSFzBNQS-khF5TtA9RG9Sv9s02GkQ&sz=w1000"
     },
     "ROM-054": {
@@ -515,7 +515,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1PnCWMw7Zc1n-K_Y1Z2Z9U8nJDciTjzNf&sz=w1000"
     },
     "ROM-055": {
@@ -524,7 +524,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1ZCY2iRra_CsMXCCTtUqvEsYDBsKXBQks&sz=w1000"
     },
     "ROM-056": {
@@ -602,7 +602,7 @@
     "ROM-064": {
       "Nombre": "Humillar",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -611,7 +611,7 @@
     "ROM-065": {
       "Nombre": "Protogenoi",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -620,7 +620,7 @@
     "ROM-066": {
       "Nombre": "Idus de Marzo",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -629,7 +629,7 @@
     "ROM-067": {
       "Nombre": "Llamado de Venus",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -638,7 +638,7 @@
     "ROM-068": {
       "Nombre": "Venatio",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -647,7 +647,7 @@
     "ROM-069": {
       "Nombre": "Formación Tortuga",
       "Frecuencia": "Real",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -683,7 +683,7 @@
     "ROM-073": {
       "Nombre": "Coliseo",
       "Frecuencia": "Real",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -692,7 +692,7 @@
     "ROM-074": {
       "Nombre": "Foro Romano",
       "Frecuencia": "Real",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -701,7 +701,7 @@
     "ROM-075": {
       "Nombre": "Panteón de Agripa",
       "Frecuencia": "Real",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -929,7 +929,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RQO5uXsed6fSeeR-V4xB0RGVpPdFBpHo&sz=w1000"
     },
     "ROM-088F": {
@@ -938,7 +938,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1QgEkNH59ZofuYenaOkPXvuIQjiKfp5df&sz=w1000"
     },
     "ROM-089": {
@@ -947,7 +947,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1WhvU800bwtwJrk9Cq67JGTS4WgEbYd5C&sz=w1000"
     },
     "ROM-089F": {
@@ -956,7 +956,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1WiszU6eyIivkQjf6nH-uNStIJH_bvqWm&sz=w1000"
     },
     "ROM-090": {
@@ -965,7 +965,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1KrUOc0hLBhyX_i7hh8WopT9r6lXgt2yM&sz=w1000"
     },
     "ROM-090F": {
@@ -974,7 +974,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1KxahWx7Q_zvnq2bAoskP2OAL8hNSvN6z&sz=w1000"
     },
     "ROM-091": {
@@ -1088,7 +1088,7 @@
     "ROM-097": {
       "Nombre": "Erupción del Vesubio",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1097,7 +1097,7 @@
     "ROM-097F": {
       "Nombre": "Erupción del Vesubio",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1106,7 +1106,7 @@
     "ROM-098": {
       "Nombre": "Dei Inferi",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1115,7 +1115,7 @@
     "ROM-098F": {
       "Nombre": "Dei Inferi",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1124,7 +1124,7 @@
     "ROM-099": {
       "Nombre": "Incitatus",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1133,7 +1133,7 @@
     "ROM-099F": {
       "Nombre": "Incitatus",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1142,7 +1142,7 @@
     "ROM-100": {
       "Nombre": "Veni, Vidi, Vici",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1151,7 +1151,7 @@
     "ROM-100F": {
       "Nombre": "Veni, Vidi, Vici",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1160,7 +1160,7 @@
     "ROM-101": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -1169,7 +1169,7 @@
     "ROM-101F": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -1178,7 +1178,7 @@
     "ROM-102": {
       "Nombre": "Ofrenda Siniestra",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -1187,7 +1187,7 @@
     "ROM-102F": {
       "Nombre": "Ofrenda Siniestra",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -1268,7 +1268,7 @@
     "ROM-107": {
       "Nombre": "Columna de Trajano",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1277,7 +1277,7 @@
     "ROM-107F": {
       "Nombre": "Columna de Trajano",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1286,7 +1286,7 @@
     "ROM-108": {
       "Nombre": "Pórtico de Octavia",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1295,7 +1295,7 @@
     "ROM-108F": {
       "Nombre": "Pórtico de Octavia",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1304,7 +1304,7 @@
     "ROM-109": {
       "Nombre": "Hércules Victorioso",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1313,7 +1313,7 @@
     "ROM-109F": {
       "Nombre": "Hércules Victorioso",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1322,7 +1322,7 @@
     "ROM-110": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1331,7 +1331,7 @@
     "ROM-110F": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Cortezano",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1559,7 +1559,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1XbBDWNmnPD_zPDuSY6pg-f9xc1ZOoAAE&sz=w1000"
     },
     "ROM-123F": {
@@ -1568,7 +1568,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1Ww4jOt7VthDBa9CRbHkbJpJuW_GB8dBs&sz=w1000"
     },
     "ROM-124": {
@@ -1577,7 +1577,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1V8Vhzqxx7idqDO2w870iheAT89kIzUT3&sz=w1000"
     },
     "ROM-124F": {
@@ -1586,7 +1586,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1PCv1F-f2g4d_CelUHyIrGTjcG8W-u_9i&sz=w1000"
     },
     "ROM-125": {
@@ -1595,7 +1595,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1PK5WfNTFe9vcW6E4fCh53H0A-1ijIuuw&sz=w1000"
     },
     "ROM-125F": {
@@ -1604,7 +1604,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1SDtrGKjg82GvxTzV2TOjVrfBgs2HQ5I5&sz=w1000"
     },
     "ROM-126": {
@@ -1718,7 +1718,7 @@
     "ROM-132": {
       "Nombre": "Conquistador de Galia",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1727,7 +1727,7 @@
     "ROM-132F": {
       "Nombre": "Conquistador de Galia",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -1736,7 +1736,7 @@
     "ROM-133": {
       "Nombre": "Enemigo de Roma",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1745,7 +1745,7 @@
     "ROM-133F": {
       "Nombre": "Enemigo de Roma",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1754,7 +1754,7 @@
     "ROM-134": {
       "Nombre": "Manes",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1763,7 +1763,7 @@
     "ROM-134F": {
       "Nombre": "Manes",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1772,7 +1772,7 @@
     "ROM-135": {
       "Nombre": "Bacanal",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
@@ -1781,7 +1781,7 @@
     "ROM-135F": {
       "Nombre": "Bacanal",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
@@ -1790,7 +1790,7 @@
     "ROM-136": {
       "Nombre": "Masacre de Teutoburgo",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 6,
       "Raza": null,
@@ -1799,7 +1799,7 @@
     "ROM-136F": {
       "Nombre": "Masacre de Teutoburgo",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 6,
       "Raza": null,
@@ -1808,7 +1808,7 @@
     "ROM-137": {
       "Nombre": "Devotio ibérica",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1817,7 +1817,7 @@
     "ROM-137F": {
       "Nombre": "Devotio ibérica",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1898,7 +1898,7 @@
     "ROM-142": {
       "Nombre": "Thermae",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1907,7 +1907,7 @@
     "ROM-142F": {
       "Nombre": "Thermae",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1916,7 +1916,7 @@
     "ROM-143": {
       "Nombre": "Santuario de Epona",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1925,7 +1925,7 @@
     "ROM-143F": {
       "Nombre": "Santuario de Epona",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -1934,7 +1934,7 @@
     "ROM-144": {
       "Nombre": "Templo de Vesta",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1943,7 +1943,7 @@
     "ROM-144F": {
       "Nombre": "Templo de Vesta",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1952,7 +1952,7 @@
     "ROM-145": {
       "Nombre": "Pirámide Cestia",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -1961,7 +1961,7 @@
     "ROM-145F": {
       "Nombre": "Pirámide Cestia",
       "Frecuencia": "Vasallo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -2060,7 +2060,7 @@
     "ROM-151": {
       "Nombre": "Victoria de Hércules",
       "Frecuencia": "Secreta",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2069,7 +2069,7 @@
     "ROM-152": {
       "Nombre": "Rómulo y Remo",
       "Frecuencia": "Secreta",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -2078,7 +2078,7 @@
     "ROM-153": {
       "Nombre": "Cruzar el Rubicón",
       "Frecuencia": "Secreta",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
@@ -2087,7 +2087,7 @@
     "ROM-154": {
       "Nombre": "Ira Ígnea",
       "Frecuencia": "Secreta",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2096,7 +2096,7 @@
     "ROM-155": {
       "Nombre": "Abrir Portal",
       "Frecuencia": "Secreta",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2144,7 +2144,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1Sg_yCVORTAVaOFTC7NcUGAD3MREfOS2-&sz=w1000"
     },
     "ROM-161": {
@@ -2225,13 +2225,13 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RqtzgPEDNadMmuRV0zKOYlUK86FT9GK7&sz=w1000"
     },
     "ROM-170": {
       "Nombre": "Alianza Imposible",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -2240,7 +2240,7 @@
     "ROM-171": {
       "Nombre": "Carga de Elefantes",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -2249,7 +2249,7 @@
     "ROM-172": {
       "Nombre": "Venatio",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2285,7 +2285,7 @@
     "ROM-176": {
       "Nombre": "Coliseo",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2303,7 +2303,7 @@
     "ROM-178": {
       "Nombre": "Llamado de Venus",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -2312,7 +2312,7 @@
     "ROM-179": {
       "Nombre": "Una Nueva Era",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2387,7 +2387,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1cJCnVhtpsgQwP3hPXysfj8jtlNX81AlL&sz=w1000"
     },
     "ROM-188": {
@@ -2432,7 +2432,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RfU_aDriBYvR44lw2Cwfh71XShSSr9B_&sz=w1000"
     },
     "ROM-193": {
@@ -2486,7 +2486,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1_Qzkms1jbvZ02sP8MygE2iEm4hz3NB6q&sz=w1000"
     },
     "ROM-199": {
@@ -2510,7 +2510,7 @@
     "ROM-201": {
       "Nombre": "Foro Romano",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2528,7 +2528,7 @@
     "ROM-203": {
       "Nombre": "Circus Maximus",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -2585,7 +2585,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1VFtLMAyDI1JC9rEUqBwVQf2pljD8oe1G&sz=w1000"
     },
     "ROM-210": {
@@ -2600,7 +2600,7 @@
     "ROM-211": {
       "Nombre": "Armagedón",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -2609,7 +2609,7 @@
     "ROM-212": {
       "Nombre": "Frenesí de Guerra",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -2627,7 +2627,7 @@
     "ROM-214": {
       "Nombre": "Masada",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2666,7 +2666,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 2,
       "Coste": 2,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1Q_YG7uUDq1iIWNoCc1uARlwmVsfhsFWy&sz=w1000"
     },
     "ROM-219": {
@@ -2690,7 +2690,7 @@
     "ROM-221": {
       "Nombre": "Naglfar",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
@@ -2699,7 +2699,7 @@
     "ROM-222": {
       "Nombre": "Planta de la Juventud",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
@@ -2708,7 +2708,7 @@
     "ROM-223": {
       "Nombre": "Vanaheim",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 7,
       "Raza": null,
@@ -2717,7 +2717,7 @@
     "ROM-224": {
       "Nombre": "Llamar a la Manada",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -2744,7 +2744,7 @@
     "ROM-227": {
       "Nombre": "Guillatún",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -5581,7 +5581,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 5,
       "Coste": 4,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1ES06FIaL9NUXXKCGqDbwPfTpx7iJAtq1&sz=w1000"
     },
     "GUA-006": {
@@ -5590,7 +5590,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 4,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1EStAGdvnLelaQEC1yhoYyfXUGKGx6osE&sz=w1000"
     }
   },
@@ -5637,7 +5637,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 6,
       "Coste": 5,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RLdm9LvbmETpU9tXy2v7zbm4R5KjOXi9&sz=w1000"
     },
     "KIN-06": {
@@ -5646,7 +5646,7 @@
       "TipoCarta": "Aliado",
       "Fuerza": 3,
       "Coste": 3,
-      "Raza": "Dragon",
+      "Raza": "Dragón",
       "Arte": "https://drive.google.com/thumbnail?id=1RPI6c9uIxJOuRsQepvr_9gBlktpS6SpH&sz=w1000"
     },
     "KIN-07": {
@@ -5706,7 +5706,7 @@
     "KIN-13": {
       "Nombre": "Encontrar Botín",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
@@ -5724,7 +5724,7 @@
     "KIN-15": {
       "Nombre": "Altar Siniestro",
       "Frecuencia": "Promo",
-      "TipoCarta": "Totem",
+      "TipoCarta": "Tótem",
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
@@ -5769,7 +5769,7 @@
     "KIN-20": {
       "Nombre": "Entrar al Calabozo",
       "Frecuencia": "Promo",
-      "TipoCarta": "Talisman",
+      "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
