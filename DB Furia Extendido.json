@@ -1,7 +1,7 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.6.2",
+      "Version": "0.6.3",
       "Update": "2025-08-10T04:00:00.000Z"
     }
   },
@@ -8037,7 +8037,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1SP1aNjKc0jgNcj2e5KWd10qLLFbF7gBc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SP1aNjKc0jgNcj2e5KWd10qLLFbF7gBc&sz=w1000"
     },
     "GUE-002": {
       "Nombre": "Iqi Balam",
@@ -8046,7 +8046,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1SRQgpoUeJlqFqF-mRDQAIX_mjzB76KKY/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SRQgpoUeJlqFqF-mRDQAIX_mjzB76KKY&sz=w1000"
     },
     "GUE-003": {
       "Nombre": "Moctezuma",
@@ -8055,7 +8055,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1SXVmVu9HqfMKY-Pa2xCzVY9w1z7AOjO7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SXVmVu9HqfMKY-Pa2xCzVY9w1z7AOjO7&sz=w1000"
     },
     "GUE-004": {
       "Nombre": "Manco Cápac",
@@ -8064,7 +8064,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1SetnZBY1doXGPeDagQkm9PILX2EasFMh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SetnZBY1doXGPeDagQkm9PILX2EasFMh&sz=w1000"
     },
     "GUE-005": {
       "Nombre": "Inti Supremo",
@@ -8073,7 +8073,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1Srw_ZU_EPqjyn1fo-ORAwnm6DmYTninf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Srw_ZU_EPqjyn1fo-ORAwnm6DmYTninf&sz=w1000"
     },
     "GUE-006": {
       "Nombre": "Huitzilopochtli",
@@ -8082,7 +8082,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1SuTGF2qQTbdvpt2z0PnyBbGDcOIBnGXo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SuTGF2qQTbdvpt2z0PnyBbGDcOIBnGXo&sz=w1000"
     },
     "GUE-007": {
       "Nombre": "Tezcatlipoca",
@@ -8091,7 +8091,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1SvSf7ihEA2Ef_WCIsMU0iP23ZTouOBNo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SvSf7ihEA2Ef_WCIsMU0iP23ZTouOBNo&sz=w1000"
     },
     "GUE-008": {
       "Nombre": "Ah Puch",
@@ -8100,7 +8100,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Sx3SsZhNxTEixO23xk8HSUkgphBkSt_O/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Sx3SsZhNxTEixO23xk8HSUkgphBkSt_O&sz=w1000"
     },
     "GUE-009": {
       "Nombre": "Quetzalcóatl",
@@ -8109,7 +8109,7 @@
       "Fuerza": 5,
       "Coste": 5,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1Sxb-Vo-byaeLJp6r9j5we7ZQeifVEhpv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Sxb-Vo-byaeLJp6r9j5we7ZQeifVEhpv&sz=w1000"
     },
     "GUE-010": {
       "Nombre": "Kukulkán",
@@ -8118,7 +8118,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1SyhWo4ua1oR_E4OvmvWIrev4OF8WKFGN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SyhWo4ua1oR_E4OvmvWIrev4OF8WKFGN&sz=w1000"
     },
     "GUE-011": {
       "Nombre": "Camazotz",
@@ -8127,7 +8127,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1SynCQTycFxWcKLNIgNkdHOlRcCYu5gdJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SynCQTycFxWcKLNIgNkdHOlRcCYu5gdJ&sz=w1000"
     },
     "GUE-012": {
       "Nombre": "Camahueto",
@@ -8136,7 +8136,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1T-bSMcP4c6pRWzcOjlXNB1viDz3bW0Xh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T-bSMcP4c6pRWzcOjlXNB1viDz3bW0Xh&sz=w1000"
     },
     "GUE-013": {
       "Nombre": "Trem pulcahue",
@@ -8145,7 +8145,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1T1mrFptwlLS_efaLoO_K7Adq1ZJM_5nx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T1mrFptwlLS_efaLoO_K7Adq1ZJM_5nx&sz=w1000"
     },
     "GUE-014": {
       "Nombre": "Machitun",
@@ -8154,7 +8154,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1T8IS-LnkVawntHoCjEiSECwBkHSRilL1/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T8IS-LnkVawntHoCjEiSECwBkHSRilL1&sz=w1000"
     },
     "GUE-015": {
       "Nombre": "Tenochtitlan",
@@ -8163,7 +8163,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1TB9Kk8FMG_ZMUH9fUgM1SZR9UE-fzOea/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TB9Kk8FMG_ZMUH9fUgM1SZR9UE-fzOea&sz=w1000"
     },
     "GUE-016": {
       "Nombre": "Toqui Lonkomilla",
@@ -8172,7 +8172,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1TGhBq5JFw6536bMnHvYjUr8kGOxA6PmC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TGhBq5JFw6536bMnHvYjUr8kGOxA6PmC&sz=w1000"
     },
     "GUE-017": {
       "Nombre": "Túpac Yupanquí",
@@ -8181,7 +8181,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1TImSKouOKFfNCV92CNags4hZtKkl9pgA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TImSKouOKFfNCV92CNags4hZtKkl9pgA&sz=w1000"
     },
     "GUE-018": {
       "Nombre": "Antu",
@@ -8190,7 +8190,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1TO2ScjNUjel_xFrg-XnEIVqukdxpQp2p/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TO2ScjNUjel_xFrg-XnEIVqukdxpQp2p&sz=w1000"
     },
     "GUE-019": {
       "Nombre": "Peripillán",
@@ -8199,7 +8199,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1TTZWIcQknxzyDDKkCTI8wziqhDBphusy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TTZWIcQknxzyDDKkCTI8wziqhDBphusy&sz=w1000"
     },
     "GUE-020": {
       "Nombre": "Cipactli",
@@ -8208,7 +8208,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1TZ14NTXkTLzv1NUklWM8T1IpoA5_3xjw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TZ14NTXkTLzv1NUklWM8T1IpoA5_3xjw&sz=w1000"
     },
     "GUE-021": {
       "Nombre": "Xólotl el Guía",
@@ -8217,7 +8217,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1T_Uz9JSqtkMksKC3Ze10z0bOwnyiLTm0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T_Uz9JSqtkMksKC3Ze10z0bOwnyiLTm0&sz=w1000"
     },
     "GUE-022": {
       "Nombre": "Águila y Serpiente",
@@ -8226,7 +8226,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1TcbwEt3ZwaHEyKqdc6eH7dsbpeIAb8aA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TcbwEt3ZwaHEyKqdc6eH7dsbpeIAb8aA&sz=w1000"
     },
     "GUE-023": {
       "Nombre": "Anchimalén",
@@ -8235,7 +8235,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1TeKzXytZKqLKipWRnWXGwtJKOPfHOajH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TeKzXytZKqLKipWRnWXGwtJKOPfHOajH&sz=w1000"
     },
     "GUE-024": {
       "Nombre": "Nahual",
@@ -8244,7 +8244,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1TfbtedCE5_xOlBHuXWnnd2YCuyHB3ymU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TfbtedCE5_xOlBHuXWnnd2YCuyHB3ymU&sz=w1000"
     },
     "GUE-025": {
       "Nombre": "Inti Raymi",
@@ -8253,7 +8253,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1TgP3yYFDHVNZjdZcrpL381hzaN143Oeg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TgP3yYFDHVNZjdZcrpL381hzaN143Oeg&sz=w1000"
     },
     "GUE-026": {
       "Nombre": "Quinto Sol",
@@ -8262,7 +8262,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ToRJtgFRT0QnzedhM3OWEdVRHi40PIKC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ToRJtgFRT0QnzedhM3OWEdVRHi40PIKC&sz=w1000"
     },
     "GUE-027": {
       "Nombre": "Hain",
@@ -8271,7 +8271,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1U0jMXqOK6I2wXg3OkvZ93Id-BJa0tHVv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U0jMXqOK6I2wXg3OkvZ93Id-BJa0tHVv&sz=w1000"
     },
     "GUE-028": {
       "Nombre": "Castigo Lunar",
@@ -8280,7 +8280,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1U7hL7wb2qbsRLH2fdUJVir0NNLRwp52-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U7hL7wb2qbsRLH2fdUJVir0NNLRwp52-&sz=w1000"
     },
     "GUE-029": {
       "Nombre": "Cherufes",
@@ -8289,7 +8289,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UDCTcbpI_CWZ6LzoSv3WFAqT-r8yRnR1/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UDCTcbpI_CWZ6LzoSv3WFAqT-r8yRnR1&sz=w1000"
     },
     "GUE-030": {
       "Nombre": "Juego de Pelota",
@@ -8298,7 +8298,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UEN3deqNk_nyy83FthqfFu_p7zZzFbKW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UEN3deqNk_nyy83FthqfFu_p7zZzFbKW&sz=w1000"
     },
     "GUE-031": {
       "Nombre": "Cataclismo",
@@ -8307,7 +8307,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UGn-Wufee2tCiHR3LIpu5qxPTkFSXb9e/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UGn-Wufee2tCiHR3LIpu5qxPTkFSXb9e&sz=w1000"
     },
     "GUE-032": {
       "Nombre": "Ngenechén",
@@ -8316,7 +8316,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UMxNLU_2fDhVq4oYTYJW6Nx2HAvn4VlE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UMxNLU_2fDhVq4oYTYJW6Nx2HAvn4VlE&sz=w1000"
     },
     "GUE-033": {
       "Nombre": "Batalla del Maule",
@@ -8325,7 +8325,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UNfwvOleBmBKRbec2x1P5cUliI3_kBzN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UNfwvOleBmBKRbec2x1P5cUliI3_kBzN&sz=w1000"
     },
     "GUE-034": {
       "Nombre": "Vuelo de la Serpiente",
@@ -8334,7 +8334,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UUXMt1yxEulZk-96lKbLzdzOJrcelWFI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UUXMt1yxEulZk-96lKbLzdzOJrcelWFI&sz=w1000"
     },
     "GUE-035": {
       "Nombre": "Rayos de Inti",
@@ -8343,7 +8343,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UYLGloOyWbDSK8pWyTUnode-C7sPBbUN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UYLGloOyWbDSK8pWyTUnode-C7sPBbUN&sz=w1000"
     },
     "GUE-036": {
       "Nombre": "Balam Agab",
@@ -8352,7 +8352,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Ub78FcUj9D3nuUY80RGReHE1CP7DhE7j/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ub78FcUj9D3nuUY80RGReHE1CP7DhE7j&sz=w1000"
     },
     "GUE-037": {
       "Nombre": "Balam Quitze",
@@ -8361,7 +8361,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1UdpW8EtwuvqNaMNDDh3jrhAF-XNK4idw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UdpW8EtwuvqNaMNDDh3jrhAF-XNK4idw&sz=w1000"
     },
     "GUE-038": {
       "Nombre": "Guerrero Jaguar",
@@ -8370,7 +8370,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Un-4StjsrbpFi45UXlpGjW88RGdAHBBZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Un-4StjsrbpFi45UXlpGjW88RGdAHBBZ&sz=w1000"
     },
     "GUE-039": {
       "Nombre": "Shuar",
@@ -8379,7 +8379,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UttMFb8_FDYHGOv1kVU6rVmB1Xwqv6HQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UttMFb8_FDYHGOv1kVU6rVmB1Xwqv6HQ&sz=w1000"
     },
     "GUE-040": {
       "Nombre": "Caballero Águila",
@@ -8388,7 +8388,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1Uw7M08pu9Osp2Tx7XO4etEQ7FP-67j2Y/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Uw7M08pu9Osp2Tx7XO4etEQ7FP-67j2Y&sz=w1000"
     },
     "GUE-041": {
       "Nombre": "Mama Oclo",
@@ -8397,7 +8397,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1V0POhaxXmh_tE6WhretwdqIOJiNRi9jQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1V0POhaxXmh_tE6WhretwdqIOJiNRi9jQ&sz=w1000"
     },
     "GUE-042": {
       "Nombre": "Héroes Gemelos",
@@ -8406,7 +8406,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1V4Oask-wkaLrP9JWtAweyMlMK2Ez9u3u/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1V4Oask-wkaLrP9JWtAweyMlMK2Ez9u3u&sz=w1000"
     },
     "GUE-043": {
       "Nombre": "Itzcóatl",
@@ -8415,7 +8415,7 @@
       "Fuerza": 3,
       "Coste": 5,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1VEFUwv_ycIOWM_ic3nwgXI32Hp5A-UQA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VEFUwv_ycIOWM_ic3nwgXI32Hp5A-UQA&sz=w1000"
     },
     "GUE-044": {
       "Nombre": "Viracocha",
@@ -8424,7 +8424,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VIa6Ly0RBOUkSDEbNUhMRf3KwtvkCk4e/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VIa6Ly0RBOUkSDEbNUhMRf3KwtvkCk4e&sz=w1000"
     },
     "GUE-045": {
       "Nombre": "Chaac",
@@ -8433,7 +8433,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VJv92IOsigatLcgw8LZN4RvhdCcv5tv-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VJv92IOsigatLcgw8LZN4RvhdCcv5tv-&sz=w1000"
     },
     "GUE-046": {
       "Nombre": "Tláloc",
@@ -8442,7 +8442,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VKuV0jjvYhrb1LAMucMZaj-yLoJHDVvH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VKuV0jjvYhrb1LAMucMZaj-yLoJHDVvH&sz=w1000"
     },
     "GUE-047": {
       "Nombre": "Huracán",
@@ -8451,7 +8451,7 @@
       "Fuerza": 8,
       "Coste": 8,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VM70URreDym_gm8aHFQCrMznpqP9ja9A/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VM70URreDym_gm8aHFQCrMznpqP9ja9A&sz=w1000"
     },
     "GUE-048": {
       "Nombre": "Ek Chuah",
@@ -8460,7 +8460,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VRsr4qTmEanCDwtFFr7y2iKg0gdU71nF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VRsr4qTmEanCDwtFFr7y2iKg0gdU71nF&sz=w1000"
     },
     "GUE-049": {
       "Nombre": "Chashkel",
@@ -8469,7 +8469,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VSSo1Xxotu6-_CKq6i5v7lr2Pm1TzlZ7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VSSo1Xxotu6-_CKq6i5v7lr2Pm1TzlZ7&sz=w1000"
     },
     "GUE-050": {
       "Nombre": "Xalpen",
@@ -8478,7 +8478,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VScq-uerRb9gFsXauRyRkX1da2CpuvyF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VScq-uerRb9gFsXauRyRkX1da2CpuvyF&sz=w1000"
     },
     "GUE-051": {
       "Nombre": "Tau",
@@ -8487,7 +8487,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VZWfesbUFWlRNeRROSIYBoIWBYHmw0MJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VZWfesbUFWlRNeRROSIYBoIWBYHmw0MJ&sz=w1000"
     },
     "GUE-052": {
       "Nombre": "Trentren Vilu",
@@ -8496,7 +8496,7 @@
       "Fuerza": 4,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1W-Zmtt8EEEWqOBRClFNbGV2qM1PobbP-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1W-Zmtt8EEEWqOBRClFNbGV2qM1PobbP-&sz=w1000"
     },
     "GUE-053": {
       "Nombre": "Caicai Vilu",
@@ -8505,7 +8505,7 @@
       "Fuerza": 5,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1W87ks3IwdrbIbFcnw0jHuYl-JXEKqhiS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1W87ks3IwdrbIbFcnw0jHuYl-JXEKqhiS&sz=w1000"
     },
     "GUE-054": {
       "Nombre": "Huayramama",
@@ -8514,7 +8514,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1WCo_ZWJ82BPJUO2KFQDE2r3DToTMfrwX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WCo_ZWJ82BPJUO2KFQDE2r3DToTMfrwX&sz=w1000"
     },
     "GUE-055": {
       "Nombre": "Moñai",
@@ -8523,7 +8523,7 @@
       "Fuerza": 6,
       "Coste": 6,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1WHR21FE3vy6rcJZllTtZKzqVb-BEHxbY/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WHR21FE3vy6rcJZllTtZKzqVb-BEHxbY&sz=w1000"
     },
     "GUE-056": {
       "Nombre": "Huehuecótol",
@@ -8532,7 +8532,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1WIHRu5g-VQJQ7qaAB-Qnb8gF8dr83FjO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WIHRu5g-VQJQ7qaAB-Qnb8gF8dr83FjO&sz=w1000"
     },
     "GUE-057": {
       "Nombre": "Oókempán",
@@ -8541,7 +8541,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1WRHf3Vsk6J64jG2mP5-rKmw0Y8c2OkPN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WRHf3Vsk6J64jG2mP5-rKmw0Y8c2OkPN&sz=w1000"
     },
     "GUE-058": {
       "Nombre": "Ciémpies Negro",
@@ -8550,7 +8550,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1WdTL7xteCWUaKmCmqU3cAkMpi9-E2IiE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WdTL7xteCWUaKmCmqU3cAkMpi9-E2IiE&sz=w1000"
     },
     "GUE-059": {
       "Nombre": "Lakúmá",
@@ -8559,7 +8559,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1WdiYLsefzJHU6s2eeajvCs4sA9wmolL-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WdiYLsefzJHU6s2eeajvCs4sA9wmolL-&sz=w1000"
     },
     "GUE-060": {
       "Nombre": "Las Wangulén",
@@ -8568,7 +8568,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WebXFqRRIq1qi-MIHHrKuRASzmdQnM86/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WebXFqRRIq1qi-MIHHrKuRASzmdQnM86&sz=w1000"
     },
     "GUE-061": {
       "Nombre": "Ngen-winkul",
@@ -8577,7 +8577,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WiE394HArVTSsGFz1rZZV5lZqKbNJ8yr/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WiE394HArVTSsGFz1rZZV5lZqKbNJ8yr&sz=w1000"
     },
     "GUE-062": {
       "Nombre": "Popol Vuh",
@@ -8586,7 +8586,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WimmQk50OjOIZGQQ52Zn5nbNZ-lEBneW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WimmQk50OjOIZGQQ52Zn5nbNZ-lEBneW&sz=w1000"
     },
     "GUE-063": {
       "Nombre": "Ketermenen",
@@ -8595,7 +8595,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WmUOa4qxQ4uvNfJEvuqGni1turM-4wts/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WmUOa4qxQ4uvNfJEvuqGni1turM-4wts&sz=w1000"
     },
     "GUE-064": {
       "Nombre": "Tzantsa",
@@ -8604,7 +8604,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X2EugrZaFc6VGsDLTKPAJzOY3qOmSXDn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X2EugrZaFc6VGsDLTKPAJzOY3qOmSXDn&sz=w1000"
     },
     "GUE-065": {
       "Nombre": "Sacrificio",
@@ -8613,7 +8613,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X3I4LBAzWU086_s8jAN8g5JvM5lQ_NdT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X3I4LBAzWU086_s8jAN8g5JvM5lQ_NdT&sz=w1000"
     },
     "GUE-066": {
       "Nombre": "Guerra Florida",
@@ -8622,7 +8622,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X3xCi-d0HN2tiVzCbJFgT9YNiWXCNNnV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X3xCi-d0HN2tiVzCbJFgT9YNiWXCNNnV&sz=w1000"
     },
     "GUE-067": {
       "Nombre": "Chasqui",
@@ -8631,7 +8631,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X5sUIHDBqbSb5qVQSacqKI-o6lTMReWM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X5sUIHDBqbSb5qVQSacqKI-o6lTMReWM&sz=w1000"
     },
     "GUE-068": {
       "Nombre": "Abúhukü",
@@ -8640,7 +8640,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X7F1O-7ptDuMBlrq3EMsSUJ9weAc4UpO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X7F1O-7ptDuMBlrq3EMsSUJ9weAc4UpO&sz=w1000"
     },
     "GUE-069": {
       "Nombre": "Astronomía",
@@ -8649,7 +8649,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X85SUhXJowKPhBHAXR3RnzC4bn7ZeGxH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X85SUhXJowKPhBHAXR3RnzC4bn7ZeGxH&sz=w1000"
     },
     "GUE-070": {
       "Nombre": "Atlatl Maldito",
@@ -8658,7 +8658,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XIsP4l8M211sfPvhnmOcWbquwTIJkWcn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XIsP4l8M211sfPvhnmOcWbquwTIJkWcn&sz=w1000"
     },
     "GUE-071": {
       "Nombre": "Macuahuitl",
@@ -8667,7 +8667,7 @@
       "Fuerza": null,
       "Coste": 0,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XIx-vjjLL-__EFnzkGJCedzXCbdc1Tf9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XIx-vjjLL-__EFnzkGJCedzXCbdc1Tf9&sz=w1000"
     },
     "GUE-072": {
       "Nombre": "Maza de Estrella",
@@ -8676,7 +8676,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XMbWeUIQzklyRV3v5G6suuKEbURyCuny/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XMbWeUIQzklyRV3v5G6suuKEbURyCuny&sz=w1000"
     },
     "GUE-073": {
       "Nombre": "Machu Pichu",
@@ -8685,7 +8685,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XNqvY07z24gTrqJcdvjHx4MQzEwL2ScH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XNqvY07z24gTrqJcdvjHx4MQzEwL2ScH&sz=w1000"
     },
     "GUE-074": {
       "Nombre": "Pachamama",
@@ -8694,7 +8694,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XRGF1lLmMP_7-zVdDniiGVgGf-bF5XBG/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XRGF1lLmMP_7-zVdDniiGVgGf-bF5XBG&sz=w1000"
     },
     "GUE-075": {
       "Nombre": "Teotihuacán",
@@ -8703,7 +8703,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1XSXcQStlB2guJEg6LES4geYzcita2D1l/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XSXcQStlB2guJEg6LES4geYzcita2D1l&sz=w1000"
     },
     "GUE-076": {
       "Nombre": "Xiuhltzin",
@@ -8712,7 +8712,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Xf-22DFbA0EiISz_lob3A4gvewR5E1wE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Xf-22DFbA0EiISz_lob3A4gvewR5E1wE&sz=w1000"
     },
     "GUE-076F": {
       "Nombre": "Xiuhltzin",
@@ -8721,7 +8721,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/12VoV7opVNJ5cAaV60Fq5qdXQhrMI4DyA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12VoV7opVNJ5cAaV60Fq5qdXQhrMI4DyA&sz=w1000"
     },
     "GUE-077": {
       "Nombre": "Cénuke",
@@ -8730,7 +8730,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1XnM7feJ_xlMonrsiDjlAIN3nGqJjjCzE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XnM7feJ_xlMonrsiDjlAIN3nGqJjjCzE&sz=w1000"
     },
     "GUE-077F": {
       "Nombre": "Cénuke",
@@ -8739,7 +8739,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/12eME4aPPD9yNiAxcTdE5kpnBVcXGlMem/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12eME4aPPD9yNiAxcTdE5kpnBVcXGlMem&sz=w1000"
     },
     "GUE-078": {
       "Nombre": "Guerrero Mixteco",
@@ -8748,7 +8748,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1XoLbVl0fZb_OM3_Mwxw18bCoS_vFptpn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XoLbVl0fZb_OM3_Mwxw18bCoS_vFptpn&sz=w1000"
     },
     "GUE-078F": {
       "Nombre": "Guerrero Mixteco",
@@ -8757,7 +8757,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/12f5x3i-do4OQJEhyeQo6DpVDlbTSoUax/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12f5x3i-do4OQJEhyeQo6DpVDlbTSoUax&sz=w1000"
     },
     "GUE-079": {
       "Nombre": "Sinchi Roca",
@@ -8766,7 +8766,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1XpnFf801amhgkz8laZf4eoyNcZE0-hmK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XpnFf801amhgkz8laZf4eoyNcZE0-hmK&sz=w1000"
     },
     "GUE-079F": {
       "Nombre": "Sinchi Roca",
@@ -8775,7 +8775,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/12fjXVb0PN3mAIqrX2lzzBmepgQnPGau8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12fjXVb0PN3mAIqrX2lzzBmepgQnPGau8&sz=w1000"
     },
     "GUE-080": {
       "Nombre": "Tenoch",
@@ -8784,7 +8784,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1Xr4hHKIaWp8Lp5SmqdZiLP0BtJnlQKh_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Xr4hHKIaWp8Lp5SmqdZiLP0BtJnlQKh_&sz=w1000"
     },
     "GUE-080F": {
       "Nombre": "Tenoch",
@@ -8793,7 +8793,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/12gy3YDbBBhI7ya8qB8bbO1MdUZ-d6Srs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12gy3YDbBBhI7ya8qB8bbO1MdUZ-d6Srs&sz=w1000"
     },
     "GUE-081": {
       "Nombre": "Huayna Cápac",
@@ -8802,7 +8802,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1XtcTmHUnAHiZhlEAa7V5abhaBlhYyx03/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XtcTmHUnAHiZhlEAa7V5abhaBlhYyx03&sz=w1000"
     },
     "GUE-081F": {
       "Nombre": "Huayna Cápac",
@@ -8811,7 +8811,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/12mrfJoEaMoqwnkbq69tPSDXvz4XOVUr5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12mrfJoEaMoqwnkbq69tPSDXvz4XOVUr5&sz=w1000"
     },
     "GUE-082": {
       "Nombre": "Pachacútec",
@@ -8820,7 +8820,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1Xv2GO2HY40Rpnu5Jgx6_4YeMT-EfdmoK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Xv2GO2HY40Rpnu5Jgx6_4YeMT-EfdmoK&sz=w1000"
     },
     "GUE-082F": {
       "Nombre": "Pachacútec",
@@ -8829,7 +8829,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/12tBO_6kyMJo0RnxyAYO_5ODdCNidimcL/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12tBO_6kyMJo0RnxyAYO_5ODdCNidimcL&sz=w1000"
     },
     "GUE-083": {
       "Nombre": "Itzamná",
@@ -8838,7 +8838,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1XvD8lFKqnd9wr7g1Vz8pcRVcA172p9Qj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XvD8lFKqnd9wr7g1Vz8pcRVcA172p9Qj&sz=w1000"
     },
     "GUE-083F": {
       "Nombre": "Itzamná",
@@ -8847,7 +8847,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/12tqKI9Pdpu_qnW5FaX9TRV4Hel3QTdN2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12tqKI9Pdpu_qnW5FaX9TRV4Hel3QTdN2&sz=w1000"
     },
     "GUE-084": {
       "Nombre": "Cabrakán",
@@ -8856,7 +8856,7 @@
       "Fuerza": 5,
       "Coste": 6,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1XzElM6czMdEbW9vI8VARRZ9OnOOPQIKb/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XzElM6czMdEbW9vI8VARRZ9OnOOPQIKb&sz=w1000"
     },
     "GUE-084F": {
       "Nombre": "Cabrakán",
@@ -8865,7 +8865,7 @@
       "Fuerza": 5,
       "Coste": 6,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/13-Y70ek9tP_Vz4ZXg1JoF0ey6WQYcsCD/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13-Y70ek9tP_Vz4ZXg1JoF0ey6WQYcsCD&sz=w1000"
     },
     "GUE-085": {
       "Nombre": "Kuyén",
@@ -8874,7 +8874,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1Y2HwnWsuqKh94-Viw4wT1i-oEOGfRWCx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Y2HwnWsuqKh94-Viw4wT1i-oEOGfRWCx&sz=w1000"
     },
     "GUE-085F": {
       "Nombre": "Kuyén",
@@ -8883,7 +8883,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/134y8U7VFwOswN7XhQeUS34PsotFKZ1T6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=134y8U7VFwOswN7XhQeUS34PsotFKZ1T6&sz=w1000"
     },
     "GUE-086": {
       "Nombre": "Mama Killa",
@@ -8892,7 +8892,7 @@
       "Fuerza": 1,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1Y4dfpFaj0Zbkwnppz_04VtSdZPGTUxBj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Y4dfpFaj0Zbkwnppz_04VtSdZPGTUxBj&sz=w1000"
     },
     "GUE-086F": {
       "Nombre": "Mama Killa",
@@ -8901,7 +8901,7 @@
       "Fuerza": 1,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/138tD9o-zRbxNrqH2y8liE9Q7Cqo68UDC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=138tD9o-zRbxNrqH2y8liE9Q7Cqo68UDC&sz=w1000"
     },
     "GUE-087": {
       "Nombre": "Wekufe",
@@ -8910,7 +8910,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Y4e4dCiMA6FMGavxaCx5P1WYpQK-1Aww/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Y4e4dCiMA6FMGavxaCx5P1WYpQK-1Aww&sz=w1000"
     },
     "GUE-087F": {
       "Nombre": "Wekufe",
@@ -8919,7 +8919,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/13APRSoWtnJpQOpfwdeElwV2Sn1iNN8Hi/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13APRSoWtnJpQOpfwdeElwV2Sn1iNN8Hi&sz=w1000"
     },
     "GUE-088": {
       "Nombre": "Hun-Camé",
@@ -8928,7 +8928,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1YGBBZoFyPL3xcu0dJd0tCMw7_IrN23Hl/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YGBBZoFyPL3xcu0dJd0tCMw7_IrN23Hl&sz=w1000"
     },
     "GUE-088F": {
       "Nombre": "Hun-Camé",
@@ -8937,7 +8937,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/13BRNwsuhQ32m7u8ly1Dmrn2rcyQdGt2N/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13BRNwsuhQ32m7u8ly1Dmrn2rcyQdGt2N&sz=w1000"
     },
     "GUE-089": {
       "Nombre": "Itzpapálotl",
@@ -8946,7 +8946,7 @@
       "Fuerza": 0,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1YRSru8bEBGGjQCKeqN4QVJucY1WtkyA4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YRSru8bEBGGjQCKeqN4QVJucY1WtkyA4&sz=w1000"
     },
     "GUE-089F": {
       "Nombre": "Itzpapálotl",
@@ -8955,7 +8955,7 @@
       "Fuerza": 0,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/13CYHpVV6Dby8bVaLAm8MDyKj7zjGZVHZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13CYHpVV6Dby8bVaLAm8MDyKj7zjGZVHZ&sz=w1000"
     },
     "GUE-090": {
       "Nombre": "Boíúna",
@@ -8964,7 +8964,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1YUgZ-TktCUX1lhmZxw8rFaMfUgz9HIAv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YUgZ-TktCUX1lhmZxw8rFaMfUgz9HIAv&sz=w1000"
     },
     "GUE-090F": {
       "Nombre": "Boíúna",
@@ -8973,7 +8973,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/13FacoyGuI-vHvzBzsHBDdcQCcdHfGDY5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13FacoyGuI-vHvzBzsHBDdcQCcdHfGDY5&sz=w1000"
     },
     "GUE-091": {
       "Nombre": "Sachamama",
@@ -8982,7 +8982,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1YYWTSYkXIA-fDZuyq474rT9wy1VtP2pn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YYWTSYkXIA-fDZuyq474rT9wy1VtP2pn&sz=w1000"
     },
     "GUE-091F": {
       "Nombre": "Sachamama",
@@ -8991,7 +8991,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/13LUO48jBHKvlOOPKl5yMuHXWa4qDd1dR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13LUO48jBHKvlOOPKl5yMuHXWa4qDd1dR&sz=w1000"
     },
     "GUE-092": {
       "Nombre": "Yakumama",
@@ -9000,7 +9000,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1Ybmi3NCxTMKJr6I6Afx7N1lziAHx9Ng6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ybmi3NCxTMKJr6I6Afx7N1lziAHx9Ng6&sz=w1000"
     },
     "GUE-092F": {
       "Nombre": "Yakumama",
@@ -9009,7 +9009,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/13MLdTHCL2L2btfrwYB-t_OoYhbpJbqKU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13MLdTHCL2L2btfrwYB-t_OoYhbpJbqKU&sz=w1000"
     },
     "GUE-093": {
       "Nombre": "Zipacná",
@@ -9018,7 +9018,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1YfUL2xO1ppRtXRLdSyYYSwMndSCOJ_V8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YfUL2xO1ppRtXRLdSyYYSwMndSCOJ_V8&sz=w1000"
     },
     "GUE-093F": {
       "Nombre": "Zipacná",
@@ -9027,7 +9027,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/13NLMakcwHITdnzERi_MWGIdcsWCyl8z2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13NLMakcwHITdnzERi_MWGIdcsWCyl8z2&sz=w1000"
     },
     "GUE-094": {
       "Nombre": "Tuyango",
@@ -9036,7 +9036,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1YhCZs6AN6DXqO1DFwyVeWJPuqP3up9WE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YhCZs6AN6DXqO1DFwyVeWJPuqP3up9WE&sz=w1000"
     },
     "GUE-094F": {
       "Nombre": "Tuyango",
@@ -9045,7 +9045,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/13UfoL-rRtdJ2MdrbYLa6qc9ew1ZIQJFg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13UfoL-rRtdJ2MdrbYLa6qc9ew1ZIQJFg&sz=w1000"
     },
     "GUE-095": {
       "Nombre": "Murciélago de Fuego",
@@ -9054,7 +9054,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1YjhM4IIOUA8oW0RCm1FQ78bstcLEMyfh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YjhM4IIOUA8oW0RCm1FQ78bstcLEMyfh&sz=w1000"
     },
     "GUE-095F": {
       "Nombre": "Murciélago de Fuego",
@@ -9063,7 +9063,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/13YfhlDeoLSPkTAo8Lm_fLy5I7R5VNGJS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13YfhlDeoLSPkTAo8Lm_fLy5I7R5VNGJS&sz=w1000"
     },
     "GUE-096": {
       "Nombre": "Delfín Rosa",
@@ -9072,7 +9072,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1Yl5zHrc0QYeem2qLZl6u1h-F1uuBIz2y/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Yl5zHrc0QYeem2qLZl6u1h-F1uuBIz2y&sz=w1000"
     },
     "GUE-096F": {
       "Nombre": "Delfín Rosa",
@@ -9081,7 +9081,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/13ZhH1tNv-jZHpe0iCGYIn9FyEYV938wd/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13ZhH1tNv-jZHpe0iCGYIn9FyEYV938wd&sz=w1000"
     },
     "GUE-097": {
       "Nombre": "Travesura de Pombero",
@@ -9090,7 +9090,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Yn7rq-8vyAplLDcbCf70fGl_taNzKpVe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Yn7rq-8vyAplLDcbCf70fGl_taNzKpVe&sz=w1000"
     },
     "GUE-097F": {
       "Nombre": "Travesura de Pombero",
@@ -9099,7 +9099,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/13eGTTjsgS8bLMv9lRamb-5c5U5koXRIh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13eGTTjsgS8bLMv9lRamb-5c5U5koXRIh&sz=w1000"
     },
     "GUE-098": {
       "Nombre": "Matan",
@@ -9108,7 +9108,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1YpvmJ58ocLv3PBajjG9sqIMkT-Qc-N2H/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YpvmJ58ocLv3PBajjG9sqIMkT-Qc-N2H&sz=w1000"
     },
     "GUE-098F": {
       "Nombre": "Matan",
@@ -9117,7 +9117,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/13h2AXiIwS9sluyDoHqaFEX-LA52vmEui/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13h2AXiIwS9sluyDoHqaFEX-LA52vmEui&sz=w1000"
     },
     "GUE-099": {
       "Nombre": "Kótáix",
@@ -9126,7 +9126,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1YsQWS9KfwXcTKfF_qLoGiwzTu097eCrT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YsQWS9KfwXcTKfF_qLoGiwzTu097eCrT&sz=w1000"
     },
     "GUE-099F": {
       "Nombre": "Kótáix",
@@ -9135,7 +9135,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/13mz2X5xijOjT3hd-02ED_pAihpnYuRLI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13mz2X5xijOjT3hd-02ED_pAihpnYuRLI&sz=w1000"
     },
     "GUE-100": {
       "Nombre": "Veneno de Cazador",
@@ -9144,7 +9144,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1YsaOwcLZuHnYFNwEC3mZnarUcYL5rUOX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1YsaOwcLZuHnYFNwEC3mZnarUcYL5rUOX&sz=w1000"
     },
     "GUE-100F": {
       "Nombre": "Veneno de Cazador",
@@ -9153,7 +9153,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/13pMSb1a6tAhWelt4M2mrPaJz3TcsMEkX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13pMSb1a6tAhWelt4M2mrPaJz3TcsMEkX&sz=w1000"
     },
     "GUE-101": {
       "Nombre": "Tanu",
@@ -9162,7 +9162,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Yv4scsail9uR4AveEVafj2LdZr5Hmrd5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Yv4scsail9uR4AveEVafj2LdZr5Hmrd5&sz=w1000"
     },
     "GUE-101F": {
       "Nombre": "Tanu",
@@ -9171,7 +9171,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/13yQ1-jeTOK7GOEhROKmTYPxsCBhfErn8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=13yQ1-jeTOK7GOEhROKmTYPxsCBhfErn8&sz=w1000"
     },
     "GUE-102": {
       "Nombre": "Canto Kawésqar",
@@ -9180,7 +9180,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Yzs07gMEVidRqKckv4exfqkERWDLQ-_a/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Yzs07gMEVidRqKckv4exfqkERWDLQ-_a&sz=w1000"
     },
     "GUE-102F": {
       "Nombre": "Canto Kawésqar",
@@ -9189,7 +9189,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14AIt90Ba0AgtxWiMqaWN9YWTQyfw8nKk/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14AIt90Ba0AgtxWiMqaWN9YWTQyfw8nKk&sz=w1000"
     },
     "GUE-103": {
       "Nombre": "Huaraca Maldita",
@@ -9198,7 +9198,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Z42NrShle2jGvINOG6_qwvStAyn_m236/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Z42NrShle2jGvINOG6_qwvStAyn_m236&sz=w1000"
     },
     "GUE-103F": {
       "Nombre": "Huaraca Maldita",
@@ -9207,7 +9207,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14H9yqilhfIbI9Cl6Xl5hVq5ZWmniuyFN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14H9yqilhfIbI9Cl6Xl5hVq5ZWmniuyFN&sz=w1000"
     },
     "GUE-104": {
       "Nombre": "Yelmo de Jaguar",
@@ -9216,7 +9216,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ZGF7Pcrc5mXyEv5Z9CAQZDNR-Upo1izx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZGF7Pcrc5mXyEv5Z9CAQZDNR-Upo1izx&sz=w1000"
     },
     "GUE-104F": {
       "Nombre": "Yelmo de Jaguar",
@@ -9225,7 +9225,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14QFU7BtlYxLLY_nI6hzki1n62g49CNTn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14QFU7BtlYxLLY_nI6hzki1n62g49CNTn&sz=w1000"
     },
     "GUE-105": {
       "Nombre": "Wayki",
@@ -9234,7 +9234,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ZIpCwr5xB6XBZ_P9ryynSSt_7GlYSVgF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZIpCwr5xB6XBZ_P9ryynSSt_7GlYSVgF&sz=w1000"
     },
     "GUE-105F": {
       "Nombre": "Wayki",
@@ -9243,7 +9243,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14Rbz0H-HGWV90D51jitbCFENRByMNFAL/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14Rbz0H-HGWV90D51jitbCFENRByMNFAL&sz=w1000"
     },
     "GUE-106": {
       "Nombre": "Chimalli",
@@ -9252,7 +9252,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ZQ1XjSLFmx6xB-9GFHc4-A7oLvyXy_h9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZQ1XjSLFmx6xB-9GFHc4-A7oLvyXy_h9&sz=w1000"
     },
     "GUE-106F": {
       "Nombre": "Chimalli",
@@ -9261,7 +9261,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14UP7-M31AdH7NkGVsuWKtrJcdV5kSGG_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14UP7-M31AdH7NkGVsuWKtrJcdV5kSGG_&sz=w1000"
     },
     "GUE-107": {
       "Nombre": "Puerta del Sol",
@@ -9270,7 +9270,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ZRIuAHaUs_Nfb5gpid8_zYGoIcXIy_wl/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZRIuAHaUs_Nfb5gpid8_zYGoIcXIy_wl&sz=w1000"
     },
     "GUE-107F": {
       "Nombre": "Puerta del Sol",
@@ -9279,7 +9279,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14Z4I_vtnzTiBASNf70ZjZnlYW2dqoPt6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14Z4I_vtnzTiBASNf70ZjZnlYW2dqoPt6&sz=w1000"
     },
     "GUE-108": {
       "Nombre": "Xibalbá",
@@ -9288,7 +9288,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ZRfz9z8c6ZcCG0y9Trh6vvsqZmqjwez4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZRfz9z8c6ZcCG0y9Trh6vvsqZmqjwez4&sz=w1000"
     },
     "GUE-108F": {
       "Nombre": "Xibalbá",
@@ -9297,7 +9297,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14f8IMbbVqUwKjMsW4DL8lzwg1hJJn9um/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14f8IMbbVqUwKjMsW4DL8lzwg1hJJn9um&sz=w1000"
     },
     "GUE-109": {
       "Nombre": "Cusco",
@@ -9306,7 +9306,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Zdpp3_pdQrzNCKYvl-oByUAYn-m_-a1e/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Zdpp3_pdQrzNCKYvl-oByUAYn-m_-a1e&sz=w1000"
     },
     "GUE-109F": {
       "Nombre": "Cusco",
@@ -9315,7 +9315,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14fZ1FV5n7C7RbEtbIq_EFuZ-xv2Zn4vV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14fZ1FV5n7C7RbEtbIq_EFuZ-xv2Zn4vV&sz=w1000"
     },
     "GUE-110": {
       "Nombre": "Chichen Itza",
@@ -9324,7 +9324,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Zg68XxXaDFKgtWBT8335q0EmPssWFxId/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Zg68XxXaDFKgtWBT8335q0EmPssWFxId&sz=w1000"
     },
     "GUE-110F": {
       "Nombre": "Chichen Itza",
@@ -9333,7 +9333,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/14hoBKv0KBqYmwAmIHmJGIz_VfnKXYmvF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14hoBKv0KBqYmwAmIHmJGIz_VfnKXYmvF&sz=w1000"
     },
     "GUE-111": {
       "Nombre": "Makukutah",
@@ -9342,7 +9342,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1ZhQJkl2VLcseSlRZ5slNZR3PSAVbJTRn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ZhQJkl2VLcseSlRZ5slNZR3PSAVbJTRn&sz=w1000"
     },
     "GUE-111F": {
       "Nombre": "Makukutah",
@@ -9351,7 +9351,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/14liBkC7TSB2AItkJSvrSEsy4ua7xPcUg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14liBkC7TSB2AItkJSvrSEsy4ua7xPcUg&sz=w1000"
     },
     "GUE-112": {
       "Nombre": "Elal",
@@ -9360,7 +9360,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1MQ3_3CC2mlW9aam08O9S7thMBphnVdg4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1MQ3_3CC2mlW9aam08O9S7thMBphnVdg4&sz=w1000"
     },
     "GUE-112F": {
       "Nombre": "Elal",
@@ -9369,7 +9369,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/14qqxliDDI4LyJfe8Q-utzmlLSavmzEWE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=14qqxliDDI4LyJfe8Q-utzmlLSavmzEWE&sz=w1000"
     },
     "GUE-113": {
       "Nombre": "Nosjthej",
@@ -9378,7 +9378,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1-79Ls3EwRLS4rbJChKw71ARXsk7Xjm2e/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-79Ls3EwRLS4rbJChKw71ARXsk7Xjm2e&sz=w1000"
     },
     "GUE-113F": {
       "Nombre": "Nosjthej",
@@ -9387,7 +9387,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/158yXO1eCeRv6j1Kmv0GgAsGz6faUJDVi/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=158yXO1eCeRv6j1Kmv0GgAsGz6faUJDVi&sz=w1000"
     },
     "GUE-114": {
       "Nombre": "Ayar Cachi",
@@ -9396,7 +9396,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1-9fEWGRZDfFS4Xgso-9J8McqEZWlxwbt/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-9fEWGRZDfFS4Xgso-9J8McqEZWlxwbt&sz=w1000"
     },
     "GUE-114F": {
       "Nombre": "Ayar Cachi",
@@ -9405,7 +9405,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/15A0a7lFxQA7HBaIzus_WMeahUWkdBnxy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15A0a7lFxQA7HBaIzus_WMeahUWkdBnxy&sz=w1000"
     },
     "GUE-115": {
       "Nombre": "Axayácatl",
@@ -9414,7 +9414,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1-Dpb6sVp6HiXijBx0Oauj75DgQZfk5Vs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-Dpb6sVp6HiXijBx0Oauj75DgQZfk5Vs&sz=w1000"
     },
     "GUE-115F": {
       "Nombre": "Axayácatl",
@@ -9423,7 +9423,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/15BRl3bZpvJzquFdw2_PG_0M9QPuc1Pav/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15BRl3bZpvJzquFdw2_PG_0M9QPuc1Pav&sz=w1000"
     },
     "GUE-116": {
       "Nombre": "Porasy",
@@ -9432,7 +9432,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1-HlX9_xhVxP_HY4EzdoqSIS3MYGOxKcJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-HlX9_xhVxP_HY4EzdoqSIS3MYGOxKcJ&sz=w1000"
     },
     "GUE-116F": {
       "Nombre": "Porasy",
@@ -9441,7 +9441,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/15JFKS3ZH0-Unn9amOwrsQko1LXG7iYbO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15JFKS3ZH0-Unn9amOwrsQko1LXG7iYbO&sz=w1000"
     },
     "GUE-117": {
       "Nombre": "Kerana",
@@ -9450,7 +9450,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1-Js8f6-nh52XgcfOJpM6oCBLVZMwSP7J/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-Js8f6-nh52XgcfOJpM6oCBLVZMwSP7J&sz=w1000"
     },
     "GUE-117F": {
       "Nombre": "Kerana",
@@ -9459,7 +9459,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/15R25yI5ufBC3PyUKpfC2vN0N3ECeP1MR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15R25yI5ufBC3PyUKpfC2vN0N3ECeP1MR&sz=w1000"
     },
     "GUE-118": {
       "Nombre": "Hun-Hunahpú",
@@ -9468,7 +9468,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1-KidZoGp-DWcO1V5i1uQNrnGtXUohyu9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-KidZoGp-DWcO1V5i1uQNrnGtXUohyu9&sz=w1000"
     },
     "GUE-118F": {
       "Nombre": "Hun-Hunahpú",
@@ -9477,7 +9477,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/15UfkUMEtQXnbKOzGS9rH02cb-nSK4hFZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15UfkUMEtQXnbKOzGS9rH02cb-nSK4hFZ&sz=w1000"
     },
     "GUE-119": {
       "Nombre": "Nanahuatzin",
@@ -9486,7 +9486,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1-L81lC3RN8z143pBoxCCuW22Wru-ZZKX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-L81lC3RN8z143pBoxCCuW22Wru-ZZKX&sz=w1000"
     },
     "GUE-119F": {
       "Nombre": "Nanahuatzin",
@@ -9495,7 +9495,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/15W8keywT07NWry6K-sGXg887yfVVv83a/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15W8keywT07NWry6K-sGXg887yfVVv83a&sz=w1000"
     },
     "GUE-120": {
       "Nombre": "Jasy Jatere",
@@ -9504,7 +9504,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1-OxQ79hHNzvGUTXKc63JniWJ8S5jI6nO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-OxQ79hHNzvGUTXKc63JniWJ8S5jI6nO&sz=w1000"
     },
     "GUE-120F": {
       "Nombre": "Jasy Jatere",
@@ -9513,7 +9513,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/15bOpKd909ONn3hJiITrPGmX9RpjoDEjM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15bOpKd909ONn3hJiITrPGmX9RpjoDEjM&sz=w1000"
     },
     "GUE-121": {
       "Nombre": "Centzon Totochtin",
@@ -9522,7 +9522,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1-QVNc3-DpHuCA3bLRKNM6ewCYsHGGF3v/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-QVNc3-DpHuCA3bLRKNM6ewCYsHGGF3v&sz=w1000"
     },
     "GUE-121F": {
       "Nombre": "Centzon Totochtin",
@@ -9531,7 +9531,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/15gmsHRmpiP9R3Moy_oblYj87wuM42B5k/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15gmsHRmpiP9R3Moy_oblYj87wuM42B5k&sz=w1000"
     },
     "GUE-122": {
       "Nombre": "Xtabay",
@@ -9540,7 +9540,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1-bXljai3-4SR3AoEry7qCx8ODP5obco8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-bXljai3-4SR3AoEry7qCx8ODP5obco8&sz=w1000"
     },
     "GUE-122F": {
       "Nombre": "Xtabay",
@@ -9549,7 +9549,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/15m4O-3M5NykKDItB6P4e1r3hnQjU8VQ5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15m4O-3M5NykKDItB6P4e1r3hnQjU8VQ5&sz=w1000"
     },
     "GUE-123": {
       "Nombre": "Kakasbal",
@@ -9558,7 +9558,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1-cCCITl39tHZjw-d3Yn98gVUaQUG2ILC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-cCCITl39tHZjw-d3Yn98gVUaQUG2ILC&sz=w1000"
     },
     "GUE-123F": {
       "Nombre": "Kakasbal",
@@ -9567,7 +9567,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/15yw1bsPuC3IPFQGIfctgGBB2XhZnZlgH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=15yw1bsPuC3IPFQGIfctgGBB2XhZnZlgH&sz=w1000"
     },
     "GUE-124": {
       "Nombre": "Tecciztécatl",
@@ -9576,7 +9576,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1-iO18tSdRsXY7VntuiiKOLCqJhlV4Een/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-iO18tSdRsXY7VntuiiKOLCqJhlV4Een&sz=w1000"
     },
     "GUE-124F": {
       "Nombre": "Tecciztécatl",
@@ -9585,7 +9585,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/160ivta_zxJ-3Y1IbkWoWmRnU0lFhPmmt/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=160ivta_zxJ-3Y1IbkWoWmRnU0lFhPmmt&sz=w1000"
     },
     "GUE-125": {
       "Nombre": "Araganaq’tla’a",
@@ -9594,7 +9594,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1-kCiEeO_GcnBcBEQgsymeODFiZD-MSrb/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-kCiEeO_GcnBcBEQgsymeODFiZD-MSrb&sz=w1000"
     },
     "GUE-125F": {
       "Nombre": "Araganaq’tla’a",
@@ -9603,7 +9603,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/164japSTvVMDY7KpFCA-OzqftYK8HuQCe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=164japSTvVMDY7KpFCA-OzqftYK8HuQCe&sz=w1000"
     },
     "GUE-126": {
       "Nombre": "Mbói Tu’í",
@@ -9612,7 +9612,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1-ku64Q5OK0uIAk_U8IR8SDkXybfqKbUE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-ku64Q5OK0uIAk_U8IR8SDkXybfqKbUE&sz=w1000"
     },
     "GUE-126F": {
       "Nombre": "Mbói Tu’í",
@@ -9621,7 +9621,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/166cCL44qPBG1OtUYukBGhXGN6UG9cJ7L/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=166cCL44qPBG1OtUYukBGhXGN6UG9cJ7L&sz=w1000"
     },
     "GUE-127": {
       "Nombre": "Tlanchana",
@@ -9630,7 +9630,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1-lBobZFiUm2qfEwgbkUN7csDNdUZAlvz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-lBobZFiUm2qfEwgbkUN7csDNdUZAlvz&sz=w1000"
     },
     "GUE-127F": {
       "Nombre": "Tlanchana",
@@ -9639,7 +9639,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/166rgv4v_3VkKNn40RH3rhPo6qz-yoNxA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=166rgv4v_3VkKNn40RH3rhPo6qz-yoNxA&sz=w1000"
     },
     "GUE-128": {
       "Nombre": "Teju Jagua",
@@ -9648,7 +9648,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1-lWCV2g_TnS5JFdSHuIoJ8pA_EKQc9mm/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-lWCV2g_TnS5JFdSHuIoJ8pA_EKQc9mm&sz=w1000"
     },
     "GUE-128F": {
       "Nombre": "Teju Jagua",
@@ -9657,7 +9657,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/168w-jOJeGesXst9f5keBWzhDAujc6FZI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=168w-jOJeGesXst9f5keBWzhDAujc6FZI&sz=w1000"
     },
     "GUE-129": {
       "Nombre": "Kurupí",
@@ -9666,7 +9666,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1-mCiq2XUE3uaEoI4saZgJIyVSNHT2sMI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-mCiq2XUE3uaEoI4saZgJIyVSNHT2sMI&sz=w1000"
     },
     "GUE-129F": {
       "Nombre": "Kurupí",
@@ -9675,7 +9675,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/169Z2C0vq4ThgViM9iiD5cq03ZiW74eFI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=169Z2C0vq4ThgViM9iiD5cq03ZiW74eFI&sz=w1000"
     },
     "GUE-130": {
       "Nombre": "Ao Ao",
@@ -9684,7 +9684,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1-muB28zANVhwApxggx4TFkJx_9LWEXng/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-muB28zANVhwApxggx4TFkJx_9LWEXng&sz=w1000"
     },
     "GUE-130F": {
       "Nombre": "Ao Ao",
@@ -9693,7 +9693,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/16E75SQHMqmxAlJE_4cMskIS5nGd7BEMw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16E75SQHMqmxAlJE_4cMskIS5nGd7BEMw&sz=w1000"
     },
     "GUE-131": {
       "Nombre": "Luisón",
@@ -9702,7 +9702,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1-ph9LzEDgUoR4p2P35TeKbq-83SxKQdN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-ph9LzEDgUoR4p2P35TeKbq-83SxKQdN&sz=w1000"
     },
     "GUE-131F": {
       "Nombre": "Luisón",
@@ -9711,7 +9711,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/16EZnXytUJ6Ri8b4RksNZy42l2eq4hJX9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16EZnXytUJ6Ri8b4RksNZy42l2eq4hJX9&sz=w1000"
     },
     "GUE-132": {
       "Nombre": "Rito de los voladores",
@@ -9720,7 +9720,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1-sEwpH0ly3tvaACceFjU3FYoJ7mqOcMs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-sEwpH0ly3tvaACceFjU3FYoJ7mqOcMs&sz=w1000"
     },
     "GUE-132F": {
       "Nombre": "Rito de los voladores",
@@ -9729,7 +9729,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16HmcdHK8-rQ9xH77IDLnzKkJ0z3XXhDW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16HmcdHK8-rQ9xH77IDLnzKkJ0z3XXhDW&sz=w1000"
     },
     "GUE-133": {
       "Nombre": "Selva Viva",
@@ -9738,7 +9738,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1-tCjA21gyFNsMKFk7z_cvlBagVhMwQAg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-tCjA21gyFNsMKFk7z_cvlBagVhMwQAg&sz=w1000"
     },
     "GUE-133F": {
       "Nombre": "Selva Viva",
@@ -9747,7 +9747,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16R6SfyZP4ip-MVlv5P5jcpPcjQaAmfw7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16R6SfyZP4ip-MVlv5P5jcpPcjQaAmfw7&sz=w1000"
     },
     "GUE-134": {
       "Nombre": "Espejo Humeante",
@@ -9756,7 +9756,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1-yVRE8-FBWXNfczk5C0kfi7klfi62TDQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-yVRE8-FBWXNfczk5C0kfi7klfi62TDQ&sz=w1000"
     },
     "GUE-134F": {
       "Nombre": "Espejo Humeante",
@@ -9765,7 +9765,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16YajePnQ_sbhx32C3GrQJELoED-im9Xx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16YajePnQ_sbhx32C3GrQJELoED-im9Xx&sz=w1000"
     },
     "GUE-135": {
       "Nombre": "Golpe de Jade",
@@ -9774,7 +9774,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1-zPovcB1ilEGaNdGs5VY8gw9gTUhF-iF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1-zPovcB1ilEGaNdGs5VY8gw9gTUhF-iF&sz=w1000"
     },
     "GUE-135F": {
       "Nombre": "Golpe de Jade",
@@ -9783,7 +9783,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16Z4XQJ_qNfudqT6qDno6vc6bFVPyDGV3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16Z4XQJ_qNfudqT6qDno6vc6bFVPyDGV3&sz=w1000"
     },
     "GUE-136": {
       "Nombre": "Abrir la Tierra",
@@ -9792,7 +9792,7 @@
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/108kSaqXwbNzjG4PYUySZLbuYMfM1vCOH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=108kSaqXwbNzjG4PYUySZLbuYMfM1vCOH&sz=w1000"
     },
     "GUE-136F": {
       "Nombre": "Abrir la Tierra",
@@ -9801,7 +9801,7 @@
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16ehDIS0tqDEn8KHeltvv8Yl8_b6zXpiq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16ehDIS0tqDEn8KHeltvv8Yl8_b6zXpiq&sz=w1000"
     },
     "GUE-137": {
       "Nombre": "Furia de Cabrakán",
@@ -9810,7 +9810,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10CJLKAgd9GZ25Ptq_lKH2f6XNmV_9xIc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10CJLKAgd9GZ25Ptq_lKH2f6XNmV_9xIc&sz=w1000"
     },
     "GUE-137F": {
       "Nombre": "Furia de Cabrakán",
@@ -9819,7 +9819,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/16n20XVdU9PO3UEbPmxQ-tpPA_7PyfI4W/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=16n20XVdU9PO3UEbPmxQ-tpPA_7PyfI4W&sz=w1000"
     },
     "GUE-138": {
       "Nombre": "Tepoztopilli",
@@ -9828,7 +9828,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10CTl02di7AnOLpAYJJ_mCG45olZr4YPU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10CTl02di7AnOLpAYJJ_mCG45olZr4YPU&sz=w1000"
     },
     "GUE-138F": {
       "Nombre": "Tepoztopilli",
@@ -9837,7 +9837,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/172_IhR6d0i5d-74BT3-KSkkOK9Vw8Pt8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=172_IhR6d0i5d-74BT3-KSkkOK9Vw8Pt8&sz=w1000"
     },
     "GUE-139": {
       "Nombre": "Tecpatl",
@@ -9846,7 +9846,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10Iauc3h2J_-RaNw7B5ptUm7TfXrCDkOh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10Iauc3h2J_-RaNw7B5ptUm7TfXrCDkOh&sz=w1000"
     },
     "GUE-139F": {
       "Nombre": "Tecpatl",
@@ -9855,7 +9855,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/178ntswQtX8lW8bjCWnbO4BW4jskq7-aK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=178ntswQtX8lW8bjCWnbO4BW4jskq7-aK&sz=w1000"
     },
     "GUE-140": {
       "Nombre": "Cerbatana Maldita",
@@ -9864,7 +9864,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10VBVcgOE--_kDFczV1tF0iw_S3BpF0Q4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10VBVcgOE--_kDFczV1tF0iw_S3BpF0Q4&sz=w1000"
     },
     "GUE-140F": {
       "Nombre": "Cerbatana Maldita",
@@ -9873,7 +9873,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17CgvrMHZ7388mX4yb_8Tjd8wGzbS4nQ5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17CgvrMHZ7388mX4yb_8Tjd8wGzbS4nQ5&sz=w1000"
     },
     "GUE-141": {
       "Nombre": "Hacha Maldita",
@@ -9882,7 +9882,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10X6ukqtFdoy5FpPIxBirpNq-ciBBwkt5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10X6ukqtFdoy5FpPIxBirpNq-ciBBwkt5&sz=w1000"
     },
     "GUE-141F": {
       "Nombre": "Hacha Maldita",
@@ -9891,7 +9891,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17H6iz5baefpfwZ4s_PpYgvTdLqMsQ1xV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17H6iz5baefpfwZ4s_PpYgvTdLqMsQ1xV&sz=w1000"
     },
     "GUE-142": {
       "Nombre": "Apu",
@@ -9900,7 +9900,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10mujcHjJNXqbSA7_GgYfNMnI39dhl5Hr/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10mujcHjJNXqbSA7_GgYfNMnI39dhl5Hr&sz=w1000"
     },
     "GUE-142F": {
       "Nombre": "Apu",
@@ -9909,7 +9909,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17HAlpZSzrAOftQ8f9pf-_-w43YoVz9ER/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17HAlpZSzrAOftQ8f9pf-_-w43YoVz9ER&sz=w1000"
     },
     "GUE-143": {
       "Nombre": "Tikal",
@@ -9918,7 +9918,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10yLzHOaPOPeT5CS7zk_D4iP21etMvKfl/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10yLzHOaPOPeT5CS7zk_D4iP21etMvKfl&sz=w1000"
     },
     "GUE-143F": {
       "Nombre": "Tikal",
@@ -9927,7 +9927,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17MIxrtL2DS_pWqlvqjeVO8wrQgxLT8UN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17MIxrtL2DS_pWqlvqjeVO8wrQgxLT8UN&sz=w1000"
     },
     "GUE-144": {
       "Nombre": "Atlantes de Tollan",
@@ -9936,7 +9936,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/10wSDl247u4z_GPFJ9Hr7qYRfVQ_IN5wV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=10wSDl247u4z_GPFJ9Hr7qYRfVQ_IN5wV&sz=w1000"
     },
     "GUE-144F": {
       "Nombre": "Atlantes de Tollan",
@@ -9945,7 +9945,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17MuE7vjkWwq57V7b8nOXBmLGCT_hetvk/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17MuE7vjkWwq57V7b8nOXBmLGCT_hetvk&sz=w1000"
     },
     "GUE-145": {
       "Nombre": "Cabeza Colosal",
@@ -9954,7 +9954,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1127eRMh28QbQpyKsXHMszK9hWui-23kS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1127eRMh28QbQpyKsXHMszK9hWui-23kS&sz=w1000"
     },
     "GUE-145F": {
       "Nombre": "Cabeza Colosal",
@@ -9963,7 +9963,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17U5tVPegU43-y-orFt5jocV0TMwifniv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17U5tVPegU43-y-orFt5jocV0TMwifniv&sz=w1000"
     },
     "GUE-146": {
       "Nombre": "Serpiente Bicéfala",
@@ -9972,7 +9972,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/115Abh07jLciQfovG_BJPSK9y6hwhHKtm/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=115Abh07jLciQfovG_BJPSK9y6hwhHKtm&sz=w1000"
     },
     "GUE-146F": {
       "Nombre": "Serpiente Bicéfala",
@@ -9981,7 +9981,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17aMTrDDg5PBdSHqrmylCwxqUZihhym0W/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17aMTrDDg5PBdSHqrmylCwxqUZihhym0W&sz=w1000"
     },
     "GUE-147": {
       "Nombre": "Calendario",
@@ -9990,7 +9990,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1172CVHGLxuYTL6jnIKspC9KFtVd1-GWf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1172CVHGLxuYTL6jnIKspC9KFtVd1-GWf&sz=w1000"
     },
     "GUE-147F": {
       "Nombre": "Calendario",
@@ -9999,7 +9999,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17fV4euVsijb98OkpdtBP_aIsrUEihY9c/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17fV4euVsijb98OkpdtBP_aIsrUEihY9c&sz=w1000"
     },
     "GUE-148": {
       "Nombre": "Ocelote del Templo",
@@ -10008,7 +10008,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/117xxhX8wuxAlwhYH8uT3r7DerABfDx7E/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=117xxhX8wuxAlwhYH8uT3r7DerABfDx7E&sz=w1000"
     },
     "GUE-148F": {
       "Nombre": "Ocelote del Templo",
@@ -10017,7 +10017,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17iwR96bOCCs7plgDdR1g18t_Kb9yRJ4K/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17iwR96bOCCs7plgDdR1g18t_Kb9yRJ4K&sz=w1000"
     },
     "GUE-149": {
       "Nombre": "Quetzal",
@@ -10026,7 +10026,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/119nGE0HgfobwHkgQ95Ev52fQLdzvGjtz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=119nGE0HgfobwHkgQ95Ev52fQLdzvGjtz&sz=w1000"
     },
     "GUE-149F": {
       "Nombre": "Quetzal",
@@ -10035,7 +10035,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17melHyDRH93yPfjUVEzV2J5p_yLSE6Wf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17melHyDRH93yPfjUVEzV2J5p_yLSE6Wf&sz=w1000"
     },
     "GUE-150": {
       "Nombre": "Balsa Muisca",
@@ -10044,7 +10044,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11Di1iULP9ZYssQoAkXsAdeDRqLhPtO9w/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11Di1iULP9ZYssQoAkXsAdeDRqLhPtO9w&sz=w1000"
     },
     "GUE-150F": {
       "Nombre": "Balsa Muisca",
@@ -10053,7 +10053,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/17mequCGP9Kw9MrRBC0PkTxGLXj8SoOls/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=17mequCGP9Kw9MrRBC0PkTxGLXj8SoOls&sz=w1000"
     },
     "GUE-151": {
       "Nombre": "Tremplulcahue",
@@ -10062,7 +10062,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11KqkfBC8FSKM5c7bR5pYjxfMNs1eO2ji/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11KqkfBC8FSKM5c7bR5pYjxfMNs1eO2ji&sz=w1000"
     },
     "GUE-152": {
       "Nombre": "Anchimallén",
@@ -10071,7 +10071,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11MUjmpyZ8eZLi2uXQ1Bu-KFTYzX1m_v0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11MUjmpyZ8eZLi2uXQ1Bu-KFTYzX1m_v0&sz=w1000"
     },
     "GUE-153": {
       "Nombre": "Castigo Lunar",
@@ -10080,7 +10080,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11WfRf8Yi1fhSbBGd4wNzs80BxsKtbmfk/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11WfRf8Yi1fhSbBGd4wNzs80BxsKtbmfk&sz=w1000"
     },
     "GUE-154": {
       "Nombre": "Ngenechén",
@@ -10089,7 +10089,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11r4YtLeq7iOmZLa385o_DCLMX1kPDVl6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11r4YtLeq7iOmZLa385o_DCLMX1kPDVl6&sz=w1000"
     },
     "GUE-155": {
       "Nombre": "Batalla del Maule",
@@ -10098,7 +10098,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/11sbnvCEWenecyJDZOTCIyJcApjnS82os/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11sbnvCEWenecyJDZOTCIyJcApjnS82os&sz=w1000"
     },
     "GUE-156": {
       "Nombre": "Iqi Balam",
@@ -10107,7 +10107,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/11t3OwweCLsZI9hACFmy1Z-dZzp0TSPvQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11t3OwweCLsZI9hACFmy1Z-dZzp0TSPvQ&sz=w1000"
     },
     "GUE-157": {
       "Nombre": "Moctezuma",
@@ -10116,7 +10116,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/11ynqh9p18R1cu4Zv5vXQR5036bce9ZkV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=11ynqh9p18R1cu4Zv5vXQR5036bce9ZkV&sz=w1000"
     },
     "GUE-158": {
       "Nombre": "Inti Supremo",
@@ -10125,7 +10125,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/128d5TYXsMHPDryLSslI8LqmT4YduV1TS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=128d5TYXsMHPDryLSslI8LqmT4YduV1TS&sz=w1000"
     },
     "GUE-159": {
       "Nombre": "Tezcatlipoca",
@@ -10134,7 +10134,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/12A71SpUNLxPUEVNqH7XYrVYhzNnJPFh6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12A71SpUNLxPUEVNqH7XYrVYhzNnJPFh6&sz=w1000"
     },
     "GUE-160": {
       "Nombre": "Quetzalcóatl",
@@ -10143,7 +10143,7 @@
       "Fuerza": 5,
       "Coste": 5,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/12DYnEk8gHGhwCVGSHudg-PRJ7L_dQFxn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12DYnEk8gHGhwCVGSHudg-PRJ7L_dQFxn&sz=w1000"
     },
     "GUE-161": {
       "Nombre": "Camazotz",
@@ -10152,7 +10152,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/12HGNT5TuUFnPB44j9giAttARC9M3shGm/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12HGNT5TuUFnPB44j9giAttARC9M3shGm&sz=w1000"
     },
     "GUE-162": {
       "Nombre": "Machitun",
@@ -10161,7 +10161,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/12JoP7SiFRCmuKLal1sFO-yZP1T7n8WoN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=12JoP7SiFRCmuKLal1sFO-yZP1T7n8WoN&sz=w1000"
     },
     "GUE-163": {
       "Nombre": "Guerrero Jaguar",
@@ -10170,7 +10170,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1F1SjaSOLJZjPRWSYImkTvFMjFv4Ws0JC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1F1SjaSOLJZjPRWSYImkTvFMjFv4Ws0JC&sz=w1000"
     },
     "GUE-164": {
       "Nombre": "Viracocha",
@@ -10179,7 +10179,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1EehPN6oJ0cazMugtDxb_x2L-iNup4yKV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EehPN6oJ0cazMugtDxb_x2L-iNup4yKV&sz=w1000"
     },
     "GUE-165": {
       "Nombre": "Itzcóatl",
@@ -10188,7 +10188,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1FaVq4l5KtR9jL6esNnAO2tgeCrQkhp0t/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FaVq4l5KtR9jL6esNnAO2tgeCrQkhp0t&sz=w1000"
     },
     "GUE-166": {
       "Nombre": "Pájaro Killa",
@@ -10197,7 +10197,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1G58bnUKmXePnAUcPN0bClTChAqAuZR1r/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1G58bnUKmXePnAUcPN0bClTChAqAuZR1r&sz=w1000"
     },
     "GUE-167": {
       "Nombre": "Pájaro Intí",
@@ -10206,7 +10206,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1G2Yfd2SjQMyzs5z7LDbhhAnfEK30qsC-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1G2Yfd2SjQMyzs5z7LDbhhAnfEK30qsC-&sz=w1000"
     },
     "GUE-168": {
       "Nombre": "Chumé",
@@ -10215,7 +10215,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FKuLWOUwo4dBwnBjrauntvUjq3SxQ69E/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FKuLWOUwo4dBwnBjrauntvUjq3SxQ69E&sz=w1000"
     },
     "GUE-169": {
       "Nombre": "Daga Obsidiana",
@@ -10224,7 +10224,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DzD27DrVvXAEjDEFG6_cCrNkv0OVA3ng/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DzD27DrVvXAEjDEFG6_cCrNkv0OVA3ng&sz=w1000"
     },
     "GUE-170": {
       "Nombre": "Uxmal",
@@ -10233,7 +10233,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FFCiuQiNuc1XOHsdp0zx_CeuBzdkh2Vd/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FFCiuQiNuc1XOHsdp0zx_CeuBzdkh2Vd&sz=w1000"
     },
     "GUE-171": {
       "Nombre": "Lákuma",
@@ -10242,7 +10242,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1EA0PH7Zr9gpVwLFj2r4DpGrQ7AZICXEa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EA0PH7Zr9gpVwLFj2r4DpGrQ7AZICXEa&sz=w1000"
     },
     "GUE-172": {
       "Nombre": "Huayramama",
@@ -10251,7 +10251,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1Fu8CPTBvt2zV4wUt3vi3jjmRYRX5igf2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Fu8CPTBvt2zV4wUt3vi3jjmRYRX5igf2&sz=w1000"
     },
     "GUE-173": {
       "Nombre": "Ek Chuaḥ",
@@ -10260,7 +10260,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Dcb8A6oxLjDZYV2UdDwyHUsQkhJryqLu/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Dcb8A6oxLjDZYV2UdDwyHUsQkhJryqLu&sz=w1000"
     },
     "GUE-174": {
       "Nombre": "Machaq Mara",
@@ -10269,7 +10269,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ET-2_1yaZaWgJLbvdGgt_AhvlOqMTK-G/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ET-2_1yaZaWgJLbvdGgt_AhvlOqMTK-G&sz=w1000"
     },
     "GUE-175": {
       "Nombre": "Madre de las Arañas",
@@ -10278,7 +10278,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FSeYHCjbAcPodbsxwaGfm9uFfe-3ZWqR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FSeYHCjbAcPodbsxwaGfm9uFfe-3ZWqR&sz=w1000"
     },
     "GUE-176": {
       "Nombre": "Arco de Pesca",
@@ -10287,7 +10287,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FGlKcH-L9h4-c12NtlpqoRBZfqaNdpNH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FGlKcH-L9h4-c12NtlpqoRBZfqaNdpNH&sz=w1000"
     },
     "GUE-177": {
       "Nombre": "Arpón Yagán",
@@ -10296,7 +10296,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DrwKX1p0dU74AbjyPKcMqNyP1B9Qlfq0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DrwKX1p0dU74AbjyPKcMqNyP1B9Qlfq0&sz=w1000"
     },
     "GUE-178": {
       "Nombre": "Monte Albán",
@@ -10305,7 +10305,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Em-8VGEBgq_bWMpEcdXWfok7DBbKiO7I/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Em-8VGEBgq_bWMpEcdXWfok7DBbKiO7I&sz=w1000"
     },
     "GUE-179": {
       "Nombre": "Vuelo de la Serpiente",
@@ -10314,7 +10314,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FhDy7MSXqfOTxnvGZBfTzatAKJbvpBXG/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FhDy7MSXqfOTxnvGZBfTzatAKJbvpBXG&sz=w1000"
     },
     "GUE-180": {
       "Nombre": "Madre de las Serpientes",
@@ -10323,7 +10323,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DkdhCS0fo_o-IDfOTbt7mIkBJMNERqhp/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DkdhCS0fo_o-IDfOTbt7mIkBJMNERqhp&sz=w1000"
     },
     "GUE-181": {
       "Nombre": "Robar el Aliento",
@@ -10332,7 +10332,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1EUcx3PHNcJW61WUYVmT27zRQJjSLBV7_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EUcx3PHNcJW61WUYVmT27zRQJjSLBV7_&sz=w1000"
     },
     "GUE-182": {
       "Nombre": "Clava Mapuche",
@@ -10341,7 +10341,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ENaeBjcnTTTb6zFRglM5CzNH0nlK-Iux/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ENaeBjcnTTTb6zFRglM5CzNH0nlK-Iux&sz=w1000"
     },
     "GUE-183": {
       "Nombre": "Hacha de Silex",
@@ -10350,7 +10350,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DrCv-oCDtYAX6Vgca0n172BCq89cBRlc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DrCv-oCDtYAX6Vgca0n172BCq89cBRlc&sz=w1000"
     },
     "GUE-184": {
       "Nombre": "Chemamull",
@@ -10359,7 +10359,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DwNMOVOUFE88Akgf42Tl-PR8cOeA-Dg6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DwNMOVOUFE88Akgf42Tl-PR8cOeA-Dg6&sz=w1000"
     },
     "GUE-185": {
       "Nombre": "Rayos de Inti",
@@ -10368,7 +10368,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DzJpiaPjx8HRVzS7fThBIEzHXCJjyx0I/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DzJpiaPjx8HRVzS7fThBIEzHXCJjyx0I&sz=w1000"
     },
     "GUE-186": {
       "Nombre": "Cherufes",
@@ -10377,7 +10377,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1_xF9BtO2bOAotakoSiqtLGz8LoWEDa56/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_xF9BtO2bOAotakoSiqtLGz8LoWEDa56&sz=w1000"
     },
     "GUE-187": {
       "Nombre": "Toqui Lonkomilla",
@@ -10386,7 +10386,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1_kNAvLsowYQpRv1xmQmBM2nHsyNlcls9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_kNAvLsowYQpRv1xmQmBM2nHsyNlcls9&sz=w1000"
     },
     "GUE-188": {
       "Nombre": "Túpac Yupanqui",
@@ -10395,7 +10395,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1a6z9QyDhvZd5mZlXKkSnxBKbMGRcys3h/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1a6z9QyDhvZd5mZlXKkSnxBKbMGRcys3h&sz=w1000"
     },
     "GUE-189": {
       "Nombre": "Antu",
@@ -10404,7 +10404,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1aJ2cbDOsE36LIjJpsPRBZVyne2MLpZ1d/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1aJ2cbDOsE36LIjJpsPRBZVyne2MLpZ1d&sz=w1000"
     },
     "GUE-190": {
       "Nombre": "Peripillán",
@@ -10413,7 +10413,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1_lPcf3j_TM0Z_rpuO1NCi35tNjYt7Tzw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_lPcf3j_TM0Z_rpuO1NCi35tNjYt7Tzw&sz=w1000"
     },
     "GUE-191": {
       "Nombre": "Cipactli",
@@ -10422,7 +10422,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1_pik7xkYOZQOrHFgLyu26W_lyLlhoN_t/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_pik7xkYOZQOrHFgLyu26W_lyLlhoN_t&sz=w1000"
     },
     "GUE-192": {
       "Nombre": "Xólotl el Guía",
@@ -10431,7 +10431,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1_vd3OBn0E6Q6NMl-5ykgVNCmrYFgPZsX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_vd3OBn0E6Q6NMl-5ykgVNCmrYFgPZsX&sz=w1000"
     },
     "GUE-193": {
       "Nombre": "Pachamama",
@@ -10440,7 +10440,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1aDakcloDCJkVfm4q-BXshhMl5dAa9Yfz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1aDakcloDCJkVfm4q-BXshhMl5dAa9Yfz&sz=w1000"
     },
     "GUE-194": {
       "Nombre": "Expulsar Sombras",
@@ -10449,7 +10449,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ElAhi_Mvc28oOMbDnceiLoWZusQ2ogNu/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ElAhi_Mvc28oOMbDnceiLoWZusQ2ogNu&sz=w1000"
     },
     "GUE-195": {
       "Nombre": "Invocar Ancestro",
@@ -10458,7 +10458,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DjzE8YsQdAXs8z1w20fmWFNmrxXWLvjR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DjzE8YsQdAXs8z1w20fmWFNmrxXWLvjR&sz=w1000"
     },
     "GUE-196": {
       "Nombre": "Cataclismo",
@@ -10467,7 +10467,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FiVQicmF3sZ5uVa2TDeBQ1_sU6Vht624/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FiVQicmF3sZ5uVa2TDeBQ1_sU6Vht624&sz=w1000"
     },
     "GUE-197": {
       "Nombre": "Okpe",
@@ -10476,7 +10476,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1XN7zeIvOPU7MxxQsnrZOKWPXW5FfDEDT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XN7zeIvOPU7MxxQsnrZOKWPXW5FfDEDT&sz=w1000"
     },
     "GUE-198": {
       "Nombre": "Invocar Diablillos",
@@ -10485,7 +10485,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1_wHL2AXaqXYrQyVaYuPvYK2dv1O_uvWx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1_wHL2AXaqXYrQyVaYuPvYK2dv1O_uvWx&sz=w1000"
     },
     "GUE-199": {
       "Nombre": "Yggdrasil",
@@ -10494,7 +10494,7 @@
       "Fuerza": null,
       "Coste": 5,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Ek7Q9CsQoYQu_LAJR9D5ZV3Eq0-Wrx7P/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ek7Q9CsQoYQu_LAJR9D5ZV3Eq0-Wrx7P&sz=w1000"
     },
     "GUE-200": {
       "Nombre": "Túpac Amaru I",
@@ -10503,7 +10503,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1Wmb_qOmGrjYGVqxnv7TVA75KjgvRp84D/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Wmb_qOmGrjYGVqxnv7TVA75KjgvRp84D&sz=w1000"
     },
     "GUE-201": {
       "Nombre": "Ch’iqtana",
@@ -10512,7 +10512,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WhoF10N4VQkRpIgjFjylixAq06ih7pZ4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WhoF10N4VQkRpIgjFjylixAq06ih7pZ4&sz=w1000"
     },
     "GUE-202": {
       "Nombre": "Guillatún",
@@ -10521,7 +10521,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WrTU_-VZgeJWVe00YliUotXD6XHduuaj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WrTU_-VZgeJWVe00YliUotXD6XHduuaj&sz=w1000"
     },
     "GUE-203": {
       "Nombre": "Tlilcoatl",
@@ -10530,7 +10530,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1WrZydKKowmE-u9uJdOMYeoAntshC9M5r/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WrZydKKowmE-u9uJdOMYeoAntshC9M5r&sz=w1000"
     },
     "GUE-204": {
       "Nombre": "Tambo",
@@ -10539,7 +10539,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/18l_SwUqYUftM6zNdtI1sU1QNK1FoThgL/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18l_SwUqYUftM6zNdtI1sU1QNK1FoThgL&sz=w1000"
     },
     "GUE-205": {
       "Nombre": "Fe sin Límite",
@@ -10548,7 +10548,7 @@
       "Fuerza": null,
       "Coste": 0,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WvL9xPCs8ceTiXQ608Nu41kUkr7LUh-b/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WvL9xPCs8ceTiXQ608Nu41kUkr7LUh-b&sz=w1000"
     },
     "GUE-206": {
       "Nombre": "Xipe Totec",
@@ -10557,7 +10557,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1WwBqRRdigIYjuaWkPAhz2EODsok-5Bt5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WwBqRRdigIYjuaWkPAhz2EODsok-5Bt5&sz=w1000"
     },
     "GUE-207": {
       "Nombre": "Carrera de Chasqui",
@@ -10566,7 +10566,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1aEaM7ka4Fq1-uPC9Lge6YVDCdGJ3hkfw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1aEaM7ka4Fq1-uPC9Lge6YVDCdGJ3hkfw&sz=w1000"
     },
     "GUE-208": {
       "Nombre": "Tizoc",
@@ -10575,7 +10575,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1X6WFp6w0Cgiezc6K8yWdUWOYftcLJYoy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X6WFp6w0Cgiezc6K8yWdUWOYftcLJYoy&sz=w1000"
     },
     "GUE-209": {
       "Nombre": "Cunca Chucuna",
@@ -10584,7 +10584,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1X99PeXqmKHWLdZecEB8lU0NzzrK9N_ie/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1X99PeXqmKHWLdZecEB8lU0NzzrK9N_ie&sz=w1000"
     },
     "GUE-210": {
       "Nombre": "Supay",
@@ -10593,7 +10593,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1XJ7BuNPPrroumYW5zX1Brd1RW5JuyEO2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1XJ7BuNPPrroumYW5zX1Brd1RW5JuyEO2&sz=w1000"
     },
     "GUE-211": {
       "Nombre": "Lago Titicaca",
@@ -10602,7 +10602,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DnKvJi87ueXk5IcxbybU7kHFuAYnXuQx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DnKvJi87ueXk5IcxbybU7kHFuAYnXuQx&sz=w1000"
     },
     "GUE-212": {
       "Nombre": "Takam",
@@ -10611,7 +10611,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/18afaWHUYqAABLmwswp_OLoA62UwVfTOv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18afaWHUYqAABLmwswp_OLoA62UwVfTOv&sz=w1000"
     },
     "GUE-213": {
       "Nombre": "Marco Antonio",
@@ -10620,7 +10620,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/18nh3kspLkoIAyjl1MUjxYkgo0uFV75ec/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18nh3kspLkoIAyjl1MUjxYkgo0uFV75ec&sz=w1000"
     },
     "GUE-214": {
       "Nombre": "Ventisca",
@@ -10629,7 +10629,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/18oS385DQ_DgqQ86RVfLHCdsU4SaOQQnc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18oS385DQ_DgqQ86RVfLHCdsU4SaOQQnc&sz=w1000"
     },
     "GUE-215": {
       "Nombre": "Las Horae",
@@ -10638,7 +10638,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/18pw7d091ivbxlpS8DkpKUu21TPPBL_hc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18pw7d091ivbxlpS8DkpKUu21TPPBL_hc&sz=w1000"
     },
     "GUE-216": {
       "Nombre": "Saladino",
@@ -10647,7 +10647,7 @@
       "Fuerza": 1,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/18qCfA4r3uopMu58BxjqKBjGi-7yVhDBM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=18qCfA4r3uopMu58BxjqKBjGi-7yVhDBM&sz=w1000"
     },
     "GUE-217": {
       "Nombre": "Laverna",
@@ -10656,7 +10656,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/190lSO6qqVSmXuzRasn5RwuiLp6b0kUwZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=190lSO6qqVSmXuzRasn5RwuiLp6b0kUwZ&sz=w1000"
     },
     "GUE-218": {
       "Nombre": "Ira Ignea",
@@ -10665,7 +10665,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/192IQj-3SBmBzaKY2QCGzBAEHo_yCpt3A/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=192IQj-3SBmBzaKY2QCGzBAEHo_yCpt3A&sz=w1000"
     }
   },
   "GUA": {
