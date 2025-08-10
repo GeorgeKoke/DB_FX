@@ -1,7 +1,7 @@
 {
   "DBVER": {
     "Metadata": {
-      "Version": "0.6.1",
+      "Version": "0.6.2",
       "Update": "2025-08-10T04:00:00.000Z"
     }
   },
@@ -10676,7 +10676,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1D57q3VpUBweK0wHGuSW_KZPpqCR1am_d/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D57q3VpUBweK0wHGuSW_KZPpqCR1am_d&sz=w1000"
     },
     "GUA-002": {
       "Nombre": "Each-Uisge",
@@ -10685,7 +10685,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1D5_ltCE3W9Vzoz7yU4YjpkF1NoiKfo3h/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D5_ltCE3W9Vzoz7yU4YjpkF1NoiKfo3h&sz=w1000"
     },
     "GUA-003": {
       "Nombre": "Finn Mac Cool",
@@ -10694,7 +10694,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1DvMmEg5knfh0QCAiNCR5u48G3eX9LLcO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DvMmEg5knfh0QCAiNCR5u48G3eX9LLcO&sz=w1000"
     },
     "GUA-004": {
       "Nombre": "Reina Medb",
@@ -10703,7 +10703,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E08R13mZn9OPl5boSO1AXKzckZCXZK1z/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E08R13mZn9OPl5boSO1AXKzckZCXZK1z&sz=w1000"
     },
     "GUA-005": {
       "Nombre": "Cromm Cruach",
@@ -10712,7 +10712,7 @@
       "Fuerza": 5,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1ES06FIaL9NUXXKCGqDbwPfTpx7iJAtq1/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ES06FIaL9NUXXKCGqDbwPfTpx7iJAtq1&sz=w1000"
     },
     "GUA-006": {
       "Nombre": "Lig Na Paiste",
@@ -10721,7 +10721,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EStAGdvnLelaQEC1yhoYyfXUGKGx6osE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EStAGdvnLelaQEC1yhoYyfXUGKGx6osE&sz=w1000"
     },
     "GUA-007": {
       "Nombre": "Lugh",
@@ -10730,7 +10730,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1H1rZciojcyh0SMP_Q8Dl6oOwP-gmExHq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1H1rZciojcyh0SMP_Q8Dl6oOwP-gmExHq&sz=w1000"
     },
     "GUA-008": {
       "Nombre": "Daana",
@@ -10739,7 +10739,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1H8hzeRu2TWDHNruTWODke-N0XQI5vyYf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1H8hzeRu2TWDHNruTWODke-N0XQI5vyYf&sz=w1000"
     },
     "GUA-009": {
       "Nombre": "Cuchulain",
@@ -10748,7 +10748,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GVPoO2uifi3HvoLTGRAbYJ8XjlMYFWvx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GVPoO2uifi3HvoLTGRAbYJ8XjlMYFWvx&sz=w1000"
     },
     "GUA-010": {
       "Nombre": "Fergus Mac Róich",
@@ -10757,7 +10757,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GTe71CPRWaMZ9VCRGo-ukBHKVfjFrbJT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GTe71CPRWaMZ9VCRGo-ukBHKVfjFrbJT&sz=w1000"
     },
     "GUA-011": {
       "Nombre": "Balor",
@@ -10766,7 +10766,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1FPciDCZJbNz59zRlDofJ2WL5pVDk59O7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FPciDCZJbNz59zRlDofJ2WL5pVDk59O7&sz=w1000"
     },
     "GUA-012": {
       "Nombre": "Tethra",
@@ -10775,7 +10775,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1FT7RpGS2DZn7lZhQ8kwDaLx9hjpTZ8LU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FT7RpGS2DZn7lZhQ8kwDaLx9hjpTZ8LU&sz=w1000"
     },
     "GUA-013": {
       "Nombre": "Despertar Oscuro",
@@ -10784,7 +10784,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NAVhqi704ZBLrPZxanVxSvOSTfa5OF4w/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NAVhqi704ZBLrPZxanVxSvOSTfa5OF4w&sz=w1000"
     },
     "GUA-014": {
       "Nombre": "Morir de Pie",
@@ -10793,7 +10793,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NBFQZf5WTEcCcKdEXMgUliCv0oENj8P7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NBFQZf5WTEcCcKdEXMgUliCv0oENj8P7&sz=w1000"
     },
     "GUA-015": {
       "Nombre": "Tir Na Nóg",
@@ -10802,7 +10802,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NCBE2VH3-6G5N1p3IQUFe7Cpk2vViTfJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NCBE2VH3-6G5N1p3IQUFe7Cpk2vViTfJ&sz=w1000"
     },
     "GUA-016": {
       "Nombre": "Failinis",
@@ -10811,7 +10811,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1D8eAh4zu2IBeGpBH2rH7viaFrGRmXVRs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D8eAh4zu2IBeGpBH2rH7viaFrGRmXVRs&sz=w1000"
     },
     "GUA-017": {
       "Nombre": "Conall Cernach",
@@ -10820,7 +10820,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E0aOHK8BcMV0KtB1fKgIhNX5vpgazzy3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E0aOHK8BcMV0KtB1fKgIhNX5vpgazzy3&sz=w1000"
     },
     "GUA-018": {
       "Nombre": "Sinach",
@@ -10829,7 +10829,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EUReuCnlca01BEW712Lqre4-Ny7Ae2yy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EUReuCnlca01BEW712Lqre4-Ny7Ae2yy&sz=w1000"
     },
     "GUA-019": {
       "Nombre": "Cernunnos",
@@ -10838,7 +10838,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1HHexXVEYeXHwBwPssh3PllswCzW3wv7A/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1HHexXVEYeXHwBwPssh3PllswCzW3wv7A&sz=w1000"
     },
     "GUA-020": {
       "Nombre": "Sláine",
@@ -10847,7 +10847,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GXtWR613j7rnXuCyVI6zq0jLoVI70cOY/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GXtWR613j7rnXuCyVI6zq0jLoVI70cOY&sz=w1000"
     },
     "GUA-021": {
       "Nombre": "Conan",
@@ -10856,7 +10856,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1FZB3dlr3tvDaRez2_XQ3McgeGdRLXs3t/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FZB3dlr3tvDaRez2_XQ3McgeGdRLXs3t&sz=w1000"
     },
     "GUA-022": {
       "Nombre": "Ojo Asesino",
@@ -10865,7 +10865,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NMUU-Fn80-iMPv-3nDxsZ1TUxgETIGQ8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NMUU-Fn80-iMPv-3nDxsZ1TUxgETIGQ8&sz=w1000"
     },
     "GUA-023": {
       "Nombre": "Cuervos de Guerra",
@@ -10874,7 +10874,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NT9OsrLRepwzzWT-92Ao_yOD4CyrSWZF/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NT9OsrLRepwzzWT-92Ao_yOD4CyrSWZF&sz=w1000"
     },
     "GUA-024": {
       "Nombre": "Ríastrad",
@@ -10883,7 +10883,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NXXdYaGWfCb95Ah24YEWnVoLeI4gYwAp/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NXXdYaGWfCb95Ah24YEWnVoLeI4gYwAp&sz=w1000"
     },
     "GUA-025": {
       "Nombre": "Danza Sidhe",
@@ -10892,7 +10892,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NiCHdGWIDMBFP0rcp_FAguqirIRTfjTa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NiCHdGWIDMBFP0rcp_FAguqirIRTfjTa&sz=w1000"
     },
     "GUA-026": {
       "Nombre": "Cegar el Mal",
@@ -10901,7 +10901,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NmrrZ9Uu635WcuHCSj0Wo70S2GfyQsuy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NmrrZ9Uu635WcuHCSj0Wo70S2GfyQsuy&sz=w1000"
     },
     "GUA-027": {
       "Nombre": "Cambiar de Forma",
@@ -10910,7 +10910,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1K80mhvkhmICwWUjeWthC16JzuDKqAFQI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1K80mhvkhmICwWUjeWthC16JzuDKqAFQI&sz=w1000"
     },
     "GUA-028": {
       "Nombre": "Hijos de Lir",
@@ -10919,7 +10919,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NxujI8f-94DWqaLEaDUwkJ8me5bwoT32/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NxujI8f-94DWqaLEaDUwkJ8me5bwoT32&sz=w1000"
     },
     "GUA-029": {
       "Nombre": "Manzana Sidhe",
@@ -10928,7 +10928,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1NzrvowPRFV-lb76w0RPs0VJLZMG4LPAV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1NzrvowPRFV-lb76w0RPs0VJLZMG4LPAV&sz=w1000"
     },
     "GUA-030": {
       "Nombre": "Procesión",
@@ -10937,7 +10937,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1O-z0eOotZa5h7WWq6JOjo-UllRe5GS2r/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1O-z0eOotZa5h7WWq6JOjo-UllRe5GS2r&sz=w1000"
     },
     "GUA-031": {
       "Nombre": "Furia de Morrigan",
@@ -10946,7 +10946,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1FZL510TcW3xT8iUlwd_kZ4sTVBgeH5jJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FZL510TcW3xT8iUlwd_kZ4sTVBgeH5jJ&sz=w1000"
     },
     "GUA-032": {
       "Nombre": "Batalla de Mag Tuired",
@@ -10955,7 +10955,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1C7G3bILYk598EIWx-OmDheIvuiglwaoR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1C7G3bILYk598EIWx-OmDheIvuiglwaoR&sz=w1000"
     },
     "GUA-033": {
       "Nombre": "Dominar",
@@ -10964,7 +10964,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1E29wHAe9RdrS8XpEL_n0v9gJVOvl5XXp/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E29wHAe9RdrS8XpEL_n0v9gJVOvl5XXp&sz=w1000"
     },
     "GUA-034": {
       "Nombre": "Cait Sidhe",
@@ -10973,7 +10973,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1DB6P4K8M0L8spid5UJkJZBx1BPY4Yd1X/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DB6P4K8M0L8spid5UJkJZBx1BPY4Yd1X&sz=w1000"
     },
     "GUA-035": {
       "Nombre": "Meditación Glacial",
@@ -10982,7 +10982,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1O0ZiM5ZuQ0D6DCcwvd33bHazLLNPFhfI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1O0ZiM5ZuQ0D6DCcwvd33bHazLLNPFhfI&sz=w1000"
     },
     "GUA-036": {
       "Nombre": "Merodeador",
@@ -10991,7 +10991,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DEjNHnE1Ph2FWv4dBgUHsCqiF2cif45L/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DEjNHnE1Ph2FWv4dBgUHsCqiF2cif45L&sz=w1000"
     },
     "GUA-037": {
       "Nombre": "Cangrejo Cazador",
@@ -11000,7 +11000,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DFEOtWdXG85vIX8iDtE0UOU0dS5bBYPo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DFEOtWdXG85vIX8iDtE0UOU0dS5bBYPo&sz=w1000"
     },
     "GUA-038": {
       "Nombre": "Lobos de Ossory",
@@ -11009,7 +11009,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DRqPzhO1gH4RrONUxMT4t7v6UNByMgIz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DRqPzhO1gH4RrONUxMT4t7v6UNByMgIz&sz=w1000"
     },
     "GUA-039": {
       "Nombre": "Tarbh Uisge",
@@ -11018,7 +11018,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DSX_THKnBZ6QEhrQHd6J4O38cUJXlnWK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DSX_THKnBZ6QEhrQHd6J4O38cUJXlnWK&sz=w1000"
     },
     "GUA-040": {
       "Nombre": "Conchobar",
@@ -11027,7 +11027,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E2IA_2RZCSBha0C-HjiaKadSEq_tTW_j/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E2IA_2RZCSBha0C-HjiaKadSEq_tTW_j&sz=w1000"
     },
     "GUA-041": {
       "Nombre": "Míl Espáine",
@@ -11036,7 +11036,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E38h4Ial4gDnsJ_DVP3eQq41CbHluSwo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E38h4Ial4gDnsJ_DVP3eQq41CbHluSwo&sz=w1000"
     },
     "GUA-042": {
       "Nombre": "Amergin",
@@ -11045,7 +11045,7 @@
       "Fuerza": 3,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E7tiQjm8wKL2TW0u-zaOY3lo6PmcBi3c/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E7tiQjm8wKL2TW0u-zaOY3lo6PmcBi3c&sz=w1000"
     },
     "GUA-043": {
       "Nombre": "Oisín",
@@ -11054,7 +11054,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1E8Ufrf6qHgTvPa7-5qZIFppFOM469e6b/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1E8Ufrf6qHgTvPa7-5qZIFppFOM469e6b&sz=w1000"
     },
     "GUA-044": {
       "Nombre": "Caoránach",
@@ -11063,7 +11063,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EgQ7V2eTjMQyGI8_YsaoSHtmI2vpMQOP/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EgQ7V2eTjMQyGI8_YsaoSHtmI2vpMQOP&sz=w1000"
     },
     "GUA-045": {
       "Nombre": "Y Ddraig Aur",
@@ -11072,7 +11072,7 @@
       "Fuerza": 6,
       "Coste": 5,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EbTvxY_1QBrvwUieDoOS_EHroxZu-BuP/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EbTvxY_1QBrvwUieDoOS_EHroxZu-BuP&sz=w1000"
     },
     "GUA-046": {
       "Nombre": "Y Ddraig Onnen",
@@ -11081,7 +11081,7 @@
       "Fuerza": 3,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EcVjqyHH_vSe7_06TL6tNHj-lt-vK5m8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EcVjqyHH_vSe7_06TL6tNHj-lt-vK5m8&sz=w1000"
     },
     "GUA-047": {
       "Nombre": "Ollipeist",
@@ -11090,7 +11090,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EiD2FMKR_U7n5Vma7YvC1CyUdoT2g8Xj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EiD2FMKR_U7n5Vma7YvC1CyUdoT2g8Xj&sz=w1000"
     },
     "GUA-048": {
       "Nombre": "Morrigan Espectral",
@@ -11099,7 +11099,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1HaF1iKwP2WY9aLkKkvjMtTIG9ceJYhT7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1HaF1iKwP2WY9aLkKkvjMtTIG9ceJYhT7&sz=w1000"
     },
     "GUA-049": {
       "Nombre": "Nuada",
@@ -11108,7 +11108,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1HeC9zICynQEsf3YMHWEWwj9gmqTRWQ71/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1HeC9zICynQEsf3YMHWEWwj9gmqTRWQ71&sz=w1000"
     },
     "GUA-050": {
       "Nombre": "Dagda",
@@ -11117,7 +11117,7 @@
       "Fuerza": 3,
       "Coste": 5,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1HeKe3Ulh59MnrdJR_AAzS_dXHiMjmonY/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1HeKe3Ulh59MnrdJR_AAzS_dXHiMjmonY&sz=w1000"
     },
     "GUA-051": {
       "Nombre": "Brigid",
@@ -11126,7 +11126,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1Hmg-pD-ydY-nMuF0cwvtml6_XnkI5Lmf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Hmg-pD-ydY-nMuF0cwvtml6_XnkI5Lmf&sz=w1000"
     },
     "GUA-052": {
       "Nombre": "Conn",
@@ -11135,7 +11135,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1G_46ratAeXXtsH2wCWVt6rwjO4_NgzKD/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1G_46ratAeXXtsH2wCWVt6rwjO4_NgzKD&sz=w1000"
     },
     "GUA-053": {
       "Nombre": "Conna",
@@ -11144,7 +11144,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Ga2WR4USZLExWcuwXN_hj_W50mnCTkUt/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ga2WR4USZLExWcuwXN_hj_W50mnCTkUt&sz=w1000"
     },
     "GUA-054": {
       "Nombre": "Sreng",
@@ -11153,7 +11153,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GaizVPVF4BsrXHLShAQB9HHM2BFS_N2c/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GaizVPVF4BsrXHLShAQB9HHM2BFS_N2c&sz=w1000"
     },
     "GUA-055": {
       "Nombre": "Laeg",
@@ -11162,7 +11162,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GeueXRc6vbR6ZNgQePkDc8nKPsGOvp7P/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GeueXRc6vbR6ZNgQePkDc8nKPsGOvp7P&sz=w1000"
     },
     "GUA-056": {
       "Nombre": "Carman",
@@ -11171,7 +11171,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1FdXsMW2Elb2xI0Q6cEH9na30FP7dzGe9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FdXsMW2Elb2xI0Q6cEH9na30FP7dzGe9&sz=w1000"
     },
     "GUA-057": {
       "Nombre": "Elatha",
@@ -11180,7 +11180,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Ffc118Tncaq6Z3sToKsO0ioRpLg1BDSc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ffc118Tncaq6Z3sToKsO0ioRpLg1BDSc&sz=w1000"
     },
     "GUA-058": {
       "Nombre": "Crom Dubh",
@@ -11189,7 +11189,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Fm6gd_XFQ6ouibbZiwA1EdyVJ4VJxeWY/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Fm6gd_XFQ6ouibbZiwA1EdyVJ4VJxeWY&sz=w1000"
     },
     "GUA-059": {
       "Nombre": "Cichol Gricenchos",
@@ -11198,7 +11198,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1FoNGI0pDLzbDABy2KK2d0wSkxERpOStA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FoNGI0pDLzbDABy2KK2d0wSkxERpOStA&sz=w1000"
     },
     "GUA-060": {
       "Nombre": "Brazo de Plata",
@@ -11207,7 +11207,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1O2nwvc0xPsAU6M3wFmJNsEiIkEh2dHDO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1O2nwvc0xPsAU6M3wFmJNsEiIkEh2dHDO&sz=w1000"
     },
     "GUA-061": {
       "Nombre": "Matronas Sagradas",
@@ -11216,7 +11216,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1O4DQXAplLQSofCQUB-fKrfZx13pNXEe4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1O4DQXAplLQSofCQUB-fKrfZx13pNXEe4&sz=w1000"
     },
     "GUA-062": {
       "Nombre": "Olas de Irlanda",
@@ -11225,7 +11225,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OB3O91m-ww3A-C-WYZydk-aJLvN5lM80/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OB3O91m-ww3A-C-WYZydk-aJLvN5lM80&sz=w1000"
     },
     "GUA-063": {
       "Nombre": "Canción de Amergin",
@@ -11234,7 +11234,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OC_hkWM3cPuaj-AUbb6-O86uGkGHJEBx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OC_hkWM3cPuaj-AUbb6-O86uGkGHJEBx&sz=w1000"
     },
     "GUA-064": {
       "Nombre": "Humillar a los Dioses",
@@ -11243,7 +11243,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ONz8oGsVABlG_MxkmtiBGWTBOt6aW9Ld/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ONz8oGsVABlG_MxkmtiBGWTBOt6aW9Ld&sz=w1000"
     },
     "GUA-065": {
       "Nombre": "Duelo Maldito",
@@ -11252,7 +11252,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OW3g7S0focKffXaA6CoDt4nV5QECpjvv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OW3g7S0focKffXaA6CoDt4nV5QECpjvv&sz=w1000"
     },
     "GUA-066": {
       "Nombre": "Venganza de Conall",
@@ -11261,7 +11261,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OWN-dlQ_6qZY78T5EByEUwGDv3Fsdhbz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OWN-dlQ_6qZY78T5EByEUwGDv3Fsdhbz&sz=w1000"
     },
     "GUA-067": {
       "Nombre": "Salmón del Saber",
@@ -11270,7 +11270,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OYZ33rBuN1209oaGdBDS0CMeZ_BO8byZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OYZ33rBuN1209oaGdBDS0CMeZ_BO8byZ&sz=w1000"
     },
     "GUA-068": {
       "Nombre": "Caldero del Dagda",
@@ -11279,7 +11279,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OZKEHIDXa_vqkQYEkimTqXwQoUdS6in5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OZKEHIDXa_vqkQYEkimTqXwQoUdS6in5&sz=w1000"
     },
     "GUA-069": {
       "Nombre": "Renace el Monstruo",
@@ -11288,7 +11288,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1ObcvfSC7RhhYRiccgOYvUBjysj5vcGI4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ObcvfSC7RhhYRiccgOYvUBjysj5vcGI4&sz=w1000"
     },
     "GUA-070": {
       "Nombre": "Gáe Bulg",
@@ -11297,7 +11297,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1KAz8931kUmfxgA-3w79rBZboX0fLxy9h/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1KAz8931kUmfxgA-3w79rBZboX0fLxy9h&sz=w1000"
     },
     "GUA-071": {
       "Nombre": "Cláiomh Solais",
@@ -11306,7 +11306,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OeuBRPdtetqVJhX_sZOlOqctoTm2wQHH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OeuBRPdtetqVJhX_sZOlOqctoTm2wQHH&sz=w1000"
     },
     "GUA-072": {
       "Nombre": "Caladbolg",
@@ -11315,7 +11315,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OfGVs3Dm0L3w6VTWQetXLtAhGFNFc4TG/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OfGVs3Dm0L3w6VTWQetXLtAhGFNFc4TG&sz=w1000"
     },
     "GUA-073": {
       "Nombre": "Clochafarmore",
@@ -11324,7 +11324,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1C8kWqvgaz-RiD_RxnN1Co5IkiQLA_jIO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1C8kWqvgaz-RiD_RxnN1Co5IkiQLA_jIO&sz=w1000"
     },
     "GUA-074": {
       "Nombre": "Stonehenge",
@@ -11333,7 +11333,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1OmglUTSUKC3TfmRuheA_ZCElSaUsbjfD/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1OmglUTSUKC3TfmRuheA_ZCElSaUsbjfD&sz=w1000"
     },
     "GUA-075": {
       "Nombre": "Calzada del Gigante",
@@ -11342,7 +11342,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Onk3Ndh-UwqyMCTb-AchExUsgrsnOaLT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Onk3Ndh-UwqyMCTb-AchExUsgrsnOaLT&sz=w1000"
     },
     "GUA-076": {
       "Nombre": "Invocador Austral",
@@ -11351,7 +11351,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DbnVZ4gHHAYvURrkODtU-srDNwYjv4br/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DbnVZ4gHHAYvURrkODtU-srDNwYjv4br&sz=w1000"
     },
     "GUA-076F": {
       "Nombre": "Invocador Austral",
@@ -11360,7 +11360,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1SwWHoBToktE07TBHe7byLqh20Z9TRtUc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SwWHoBToktE07TBHe7byLqh20Z9TRtUc&sz=w1000"
     },
     "GUA-077": {
       "Nombre": "Jabalí de Benbulben",
@@ -11369,7 +11369,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1Di9ZQfJtUA5AZr3bu4BkM10PDpmTOy4s/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Di9ZQfJtUA5AZr3bu4BkM10PDpmTOy4s&sz=w1000"
     },
     "GUA-077F": {
       "Nombre": "Jabalí de Benbulben",
@@ -11378,7 +11378,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1Sxpxf7z3BB43wCV50cF3SFuw8KLgOgUg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Sxpxf7z3BB43wCV50cF3SFuw8KLgOgUg&sz=w1000"
     },
     "GUA-078": {
       "Nombre": "Crom Rhogog",
@@ -11387,7 +11387,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1Do8l4H21RpUfvTvBWlCqYLHC0iOedg15/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Do8l4H21RpUfvTvBWlCqYLHC0iOedg15&sz=w1000"
     },
     "GUA-078F": {
       "Nombre": "Crom Rhogog",
@@ -11396,7 +11396,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1T3C9DNUiDHyQLXYKMLqRSZWjfD4jK5TZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T3C9DNUiDHyQLXYKMLqRSZWjfD4jK5TZ&sz=w1000"
     },
     "GUA-079": {
       "Nombre": "Onchú",
@@ -11405,7 +11405,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1Du1ZWcMBS1gcgyV6_vAfJIhcCj5uA1U7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Du1ZWcMBS1gcgyV6_vAfJIhcCj5uA1U7&sz=w1000"
     },
     "GUA-079F": {
       "Nombre": "Onchú",
@@ -11414,7 +11414,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1T3vOEDzCo1i1ybI-REwH1P6B7LR1Pd5i/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T3vOEDzCo1i1ybI-REwH1P6B7LR1Pd5i&sz=w1000"
     },
     "GUA-080": {
       "Nombre": "Invocador de Tormentas",
@@ -11423,7 +11423,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EBQnw5ck22tEmycoRRYs5PnboMEBOLIz/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EBQnw5ck22tEmycoRRYs5PnboMEBOLIz&sz=w1000"
     },
     "GUA-080F": {
       "Nombre": "Invocador de Tormentas",
@@ -11432,7 +11432,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1T6ZqMZkiBRgglsFeQ6qvC_PYn1Pt_FQs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T6ZqMZkiBRgglsFeQ6qvC_PYn1Pt_FQs&sz=w1000"
     },
     "GUA-081": {
       "Nombre": "Art el Solitario",
@@ -11441,7 +11441,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1ECsM0is0iXLtZjljV4jYlLGqW8yBqddZ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ECsM0is0iXLtZjljV4jYlLGqW8yBqddZ&sz=w1000"
     },
     "GUA-081F": {
       "Nombre": "Art el Solitario",
@@ -11450,7 +11450,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1T7gc9TkTIkDbxac0lBJIDVCrZ4oWV6ZE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T7gc9TkTIkDbxac0lBJIDVCrZ4oWV6ZE&sz=w1000"
     },
     "GUA-082": {
       "Nombre": "Caílte Mac Rónáin",
@@ -11459,7 +11459,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1ED1T1X8PZFJ40Dgfrjsa3ipmvOGf9RFf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1ED1T1X8PZFJ40Dgfrjsa3ipmvOGf9RFf&sz=w1000"
     },
     "GUA-082F": {
       "Nombre": "Caílte Mac Rónáin",
@@ -11468,7 +11468,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1T8x_lNPq23bE2EzniJ7O_os5RIyEv_d7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1T8x_lNPq23bE2EzniJ7O_os5RIyEv_d7&sz=w1000"
     },
     "GUA-083": {
       "Nombre": "Diarmuid",
@@ -11477,7 +11477,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EEvi3thN9vWi-R-Wik_GdhHXvKBr8BrG/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EEvi3thN9vWi-R-Wik_GdhHXvKBr8BrG&sz=w1000"
     },
     "GUA-083F": {
       "Nombre": "Diarmuid",
@@ -11486,7 +11486,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1TAM8YadPhJeiHvhKlCghwxZIpvS46uYr/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TAM8YadPhJeiHvhKlCghwxZIpvS46uYr&sz=w1000"
     },
     "GUA-084": {
       "Nombre": "Invocador de Muerte",
@@ -11495,7 +11495,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1Et6aISY13S8apqcSFjiE0KwqrWYdIPrM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Et6aISY13S8apqcSFjiE0KwqrWYdIPrM&sz=w1000"
     },
     "GUA-084F": {
       "Nombre": "Invocador de Muerte",
@@ -11504,7 +11504,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1TQOExV7kdO-IZ996TBQURqKN4yX5Kftx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TQOExV7kdO-IZ996TBQURqKN4yX5Kftx&sz=w1000"
     },
     "GUA-085": {
       "Nombre": "Y Ddraig Las",
@@ -11513,7 +11513,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EkK61a26NvHS2skBu66onwKgxRb3dFNh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EkK61a26NvHS2skBu66onwKgxRb3dFNh&sz=w1000"
     },
     "GUA-085F": {
       "Nombre": "Y Ddraig Las",
@@ -11522,7 +11522,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1TSBE7a1wbkyla8nedPEr8lnvWHIX8c8v/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TSBE7a1wbkyla8nedPEr8lnvWHIX8c8v&sz=w1000"
     },
     "GUA-086": {
       "Nombre": "Cuach",
@@ -11531,7 +11531,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1Epm9353zfKjUDGEP0xS3CGdRNJERSM5R/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Epm9353zfKjUDGEP0xS3CGdRNJERSM5R&sz=w1000"
     },
     "GUA-086F": {
       "Nombre": "Cuach",
@@ -11540,7 +11540,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1TSJJ1kgVIwR_4eOaB_Q9PcQwVcmAZCvA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TSJJ1kgVIwR_4eOaB_Q9PcQwVcmAZCvA&sz=w1000"
     },
     "GUA-087": {
       "Nombre": "Suileach",
@@ -11549,7 +11549,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1EoCOluM92grIL4TKnibM_4IvSxdEGReO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EoCOluM92grIL4TKnibM_4IvSxdEGReO&sz=w1000"
     },
     "GUA-087F": {
       "Nombre": "Suileach",
@@ -11558,7 +11558,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1TXRLkjc6bq_PPjBK4Zdz85CJfo9jswAc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TXRLkjc6bq_PPjBK4Zdz85CJfo9jswAc&sz=w1000"
     },
     "GUA-088": {
       "Nombre": "Manannán Mac Lir",
@@ -11567,7 +11567,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1HwhJ1lTxchGjnXBqR8ypn8ItQWaE_N5V/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1HwhJ1lTxchGjnXBqR8ypn8ItQWaE_N5V&sz=w1000"
     },
     "GUA-088F": {
       "Nombre": "Manannán Mac Lir",
@@ -11576,7 +11576,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1TkdQMccKgT78hE_lFJxFD7OlYSQGDRYH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TkdQMccKgT78hE_lFJxFD7OlYSQGDRYH&sz=w1000"
     },
     "GUA-089": {
       "Nombre": "Angus Og",
@@ -11585,7 +11585,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I2yKSLrBbHEHuvbnLLdogMVKZDu4Mr-y/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I2yKSLrBbHEHuvbnLLdogMVKZDu4Mr-y&sz=w1000"
     },
     "GUA-089F": {
       "Nombre": "Angus Og",
@@ -11594,7 +11594,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1TkjH0jCEIqVE84CzKuHhQ6_nsansekCf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TkjH0jCEIqVE84CzKuHhQ6_nsansekCf&sz=w1000"
     },
     "GUA-090": {
       "Nombre": "Dian Cecht",
@@ -11603,7 +11603,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I3d158VHzjxJlydEZFaQeMzy6mpkobTe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I3d158VHzjxJlydEZFaQeMzy6mpkobTe&sz=w1000"
     },
     "GUA-090F": {
       "Nombre": "Dian Cecht",
@@ -11612,7 +11612,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1TpDppajJGZnheLQmWjsKeiOkTFLM9OeM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TpDppajJGZnheLQmWjsKeiOkTFLM9OeM&sz=w1000"
     },
     "GUA-091": {
       "Nombre": "Ogma",
@@ -11621,7 +11621,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I4eR72O-UKyYfBMibT_d_l__hRyS6KUJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I4eR72O-UKyYfBMibT_d_l__hRyS6KUJ&sz=w1000"
     },
     "GUA-091F": {
       "Nombre": "Ogma",
@@ -11630,7 +11630,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1Tq9I_aoCK8gJnjYxMW_BydXyv98OdnA3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Tq9I_aoCK8gJnjYxMW_BydXyv98OdnA3&sz=w1000"
     },
     "GUA-092": {
       "Nombre": "Lugaid Mac Con Roi",
@@ -11639,7 +11639,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GhFyjDhudUb1VZSeHrpr3HSpk9MhKh80/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GhFyjDhudUb1VZSeHrpr3HSpk9MhKh80&sz=w1000"
     },
     "GUA-092F": {
       "Nombre": "Lugaid Mac Con Roi",
@@ -11648,7 +11648,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1TuHP647oV2cx-NzN0uLkL2fh3SJHo0HJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TuHP647oV2cx-NzN0uLkL2fh3SJHo0HJ&sz=w1000"
     },
     "GUA-093": {
       "Nombre": "Ferdia",
@@ -11657,7 +11657,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Gi-fjRV2d357Hy2z-YbqgQH5cQsb1Wg3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Gi-fjRV2d357Hy2z-YbqgQH5cQsb1Wg3&sz=w1000"
     },
     "GUA-093F": {
       "Nombre": "Ferdia",
@@ -11666,7 +11666,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1TvN242-j0g2H0ilgK31VDHhDhmxTxDfM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1TvN242-j0g2H0ilgK31VDHhDhmxTxDfM&sz=w1000"
     },
     "GUA-094": {
       "Nombre": "Cormac Mac Airt",
@@ -11675,7 +11675,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GiDPGb01jgvenasOEuFBnlZjB9c3SMj-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GiDPGb01jgvenasOEuFBnlZjB9c3SMj-&sz=w1000"
     },
     "GUA-094F": {
       "Nombre": "Cormac Mac Airt",
@@ -11684,7 +11684,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Tzc0bRSp2ABOQDoskvsys2y8r9WTemfE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Tzc0bRSp2ABOQDoskvsys2y8r9WTemfE&sz=w1000"
     },
     "GUA-095": {
       "Nombre": "Scáthach",
@@ -11693,7 +11693,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GmsapxMf0k277k5Y8B183eN4Z4WjXz_r/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GmsapxMf0k277k5Y8B183eN4Z4WjXz_r&sz=w1000"
     },
     "GUA-095F": {
       "Nombre": "Scáthach",
@@ -11702,7 +11702,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1U0SJNE-0CYnyCwLFWEdq3MSbYeQLcp83/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U0SJNE-0CYnyCwLFWEdq3MSbYeQLcp83&sz=w1000"
     },
     "GUA-096": {
       "Nombre": "Invocador Oscuro",
@@ -11711,7 +11711,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Ftjr7uOqj8mvhGDDJpuXa0zDWGFtQ5Qg/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ftjr7uOqj8mvhGDDJpuXa0zDWGFtQ5Qg&sz=w1000"
     },
     "GUA-096F": {
       "Nombre": "Invocador Oscuro",
@@ -11720,7 +11720,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1U1ge0nzhMpIqITSotyTp-bCK_xfZxG_l/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U1ge0nzhMpIqITSotyTp-bCK_xfZxG_l&sz=w1000"
     },
     "GUA-097": {
       "Nombre": "Badb",
@@ -11729,7 +11729,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1CELFwIAb34gsIfllgVKCzknCcB5Yg9cn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1CELFwIAb34gsIfllgVKCzknCcB5Yg9cn&sz=w1000"
     },
     "GUA-097F": {
       "Nombre": "Badb",
@@ -11738,7 +11738,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1CGpkKgL8cl6NUAlg0SrkPIo3S7n0zhDS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1CGpkKgL8cl6NUAlg0SrkPIo3S7n0zhDS&sz=w1000"
     },
     "GUA-098": {
       "Nombre": "Bres",
@@ -11747,7 +11747,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1G363aWqryQ5YAXAiol86Yt-ceZuXFkWC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1G363aWqryQ5YAXAiol86Yt-ceZuXFkWC&sz=w1000"
     },
     "GUA-098F": {
       "Nombre": "Bres",
@@ -11756,7 +11756,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1U3Tup-j6mfjvHM9OKrF3qY63S1pOzonR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U3Tup-j6mfjvHM9OKrF3qY63S1pOzonR&sz=w1000"
     },
     "GUA-099": {
       "Nombre": "Irgoll",
@@ -11765,7 +11765,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1GEAbB0HCSKzEidt6r5AkZQYwqRnDpFP8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GEAbB0HCSKzEidt6r5AkZQYwqRnDpFP8&sz=w1000"
     },
     "GUA-099F": {
       "Nombre": "Irgoll",
@@ -11774,7 +11774,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1U7eXlLMpa5RBdWbXPhDYV28uYL6DRz8_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1U7eXlLMpa5RBdWbXPhDYV28uYL6DRz8_&sz=w1000"
     },
     "GUA-100": {
       "Nombre": "La Reina Manda",
@@ -11783,7 +11783,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Oq-q1eGCE7Sp2peBYz0sVh3laMkvoO-2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Oq-q1eGCE7Sp2peBYz0sVh3laMkvoO-2&sz=w1000"
     },
     "GUA-100F": {
       "Nombre": "La Reina Manda",
@@ -11792,7 +11792,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UCS4HCs3vhexHWIla_r2gauKkBjxh5C5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UCS4HCs3vhexHWIla_r2gauKkBjxh5C5&sz=w1000"
     },
     "GUA-101": {
       "Nombre": "El Rey Obedece",
@@ -11801,7 +11801,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Oxwv1uviumla_QGFYpH3_tsa0y8-Cu4d/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Oxwv1uviumla_QGFYpH3_tsa0y8-Cu4d&sz=w1000"
     },
     "GUA-101F": {
       "Nombre": "El Rey Obedece",
@@ -11810,7 +11810,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UCco22z3VdqVNbeLb-Wdl-6G74wQJwPh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UCco22z3VdqVNbeLb-Wdl-6G74wQJwPh&sz=w1000"
     },
     "GUA-102": {
       "Nombre": "Lucha de Toros",
@@ -11819,7 +11819,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1P4GC3pmGwSBgHVVcIL3fnF0K4vvu8ty6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1P4GC3pmGwSBgHVVcIL3fnF0K4vvu8ty6&sz=w1000"
     },
     "GUA-102F": {
       "Nombre": "Lucha de Toros",
@@ -11828,7 +11828,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UHkfgIJMh79QAixZIDuXftBKUT6jV6C_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UHkfgIJMh79QAixZIDuXftBKUT6jV6C_&sz=w1000"
     },
     "GUA-103": {
       "Nombre": "Búrla",
@@ -11837,7 +11837,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1P5D1HQqdgblZ7kFUIS4AV_JGaseV5Bcw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1P5D1HQqdgblZ7kFUIS4AV_JGaseV5Bcw&sz=w1000"
     },
     "GUA-103F": {
       "Nombre": "Búrla",
@@ -11846,7 +11846,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UM2_jHe1HLt90w-gOC3mIxDTmZLSMbHv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UM2_jHe1HLt90w-gOC3mIxDTmZLSMbHv&sz=w1000"
     },
     "GUA-104": {
       "Nombre": "Hijos de Carman",
@@ -11855,7 +11855,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1P6at_GkB8GEPWao3MWm8W6G0iL7GtwH_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1P6at_GkB8GEPWao3MWm8W6G0iL7GtwH_&sz=w1000"
     },
     "GUA-104F": {
       "Nombre": "Hijos de Carman",
@@ -11864,7 +11864,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UN09BYdG2WXwt3JGQwFqdA59k7Qwuvmr/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UN09BYdG2WXwt3JGQwFqdA59k7Qwuvmr&sz=w1000"
     },
     "GUA-105": {
       "Nombre": "Orna",
@@ -11873,7 +11873,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PAIP8wO9MbQVZh7xq1fGrdRHP7yM8DDU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PAIP8wO9MbQVZh7xq1fGrdRHP7yM8DDU&sz=w1000"
     },
     "GUA-105F": {
       "Nombre": "Orna",
@@ -11882,7 +11882,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UPJKZKKXq_k3pLFZImW-Sd6uR9j9d56l/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UPJKZKKXq_k3pLFZImW-Sd6uR9j9d56l&sz=w1000"
     },
     "GUA-106": {
       "Nombre": "Lorg Mór",
@@ -11891,7 +11891,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PLb0z1JiRE39ZDW48NRbLXXlZJuFyNXi/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PLb0z1JiRE39ZDW48NRbLXXlZJuFyNXi&sz=w1000"
     },
     "GUA-106F": {
       "Nombre": "Lorg Mór",
@@ -11900,7 +11900,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1URx8ce7rm4JtXORg-iJg4Zw0uzHYDtBR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1URx8ce7rm4JtXORg-iJg4Zw0uzHYDtBR&sz=w1000"
     },
     "GUA-107": {
       "Nombre": "Mac an Luin",
@@ -11909,7 +11909,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PPhr02vBbY0V0i09mFx1tBCkdZYqIizv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PPhr02vBbY0V0i09mFx1tBCkdZYqIizv&sz=w1000"
     },
     "GUA-107F": {
       "Nombre": "Mac an Luin",
@@ -11918,7 +11918,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UeJuozFJHgGJwzOE5teoz_4DGg1z_Xo0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UeJuozFJHgGJwzOE5teoz_4DGg1z_Xo0&sz=w1000"
     },
     "GUA-108": {
       "Nombre": "Altar de Arquería",
@@ -11927,7 +11927,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PRM2KHwShnyKO2VNIBneHK1TJjZtxoQs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PRM2KHwShnyKO2VNIBneHK1TJjZtxoQs&sz=w1000"
     },
     "GUA-108F": {
       "Nombre": "Altar de Arquería",
@@ -11936,7 +11936,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UgvZhydM820O13-jpcBa3z4k71nIIWE1/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UgvZhydM820O13-jpcBa3z4k71nIIWE1&sz=w1000"
     },
     "GUA-109": {
       "Nombre": "Tara",
@@ -11945,7 +11945,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PWAdc_u9bLgMG9BRXbCy2eAihHw8fzXx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PWAdc_u9bLgMG9BRXbCy2eAihHw8fzXx&sz=w1000"
     },
     "GUA-109F": {
       "Nombre": "Tara",
@@ -11954,7 +11954,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1UmPSsK5TWCStu2nvLxrY5IcMSQ-sv9mO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UmPSsK5TWCStu2nvLxrY5IcMSQ-sv9mO&sz=w1000"
     },
     "GUA-110": {
       "Nombre": "Oweynagat",
@@ -11963,7 +11963,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PX23EBIWl35hyP0mfVMA6mbYtce6OAyX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PX23EBIWl35hyP0mfVMA6mbYtce6OAyX&sz=w1000"
     },
     "GUA-110F": {
       "Nombre": "Oweynagat",
@@ -11972,7 +11972,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Ums9WJ9Ec0EH5y9IDsMbNRTCQz6RWjaC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ums9WJ9Ec0EH5y9IDsMbNRTCQz6RWjaC&sz=w1000"
     },
     "GUA-111": {
       "Nombre": "Donn Cuailnge",
@@ -11981,7 +11981,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1KBcUQQeL_GzvSum2hXYtw-t2d5B6UWYS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1KBcUQQeL_GzvSum2hXYtw-t2d5B6UWYS&sz=w1000"
     },
     "GUA-111F": {
       "Nombre": "Donn Cuailnge",
@@ -11990,7 +11990,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1UnKeDirYYTI9DFpvUc0cCT_3QdxP2ifI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UnKeDirYYTI9DFpvUc0cCT_3QdxP2ifI&sz=w1000"
     },
     "GUA-112": {
       "Nombre": "Tuirí Tortbuillech",
@@ -11999,7 +11999,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DuCvnlNP3vcLlhC0T7DY7Xe4_iqWDMua/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DuCvnlNP3vcLlhC0T7DY7Xe4_iqWDMua&sz=w1000"
     },
     "GUA-112F": {
       "Nombre": "Tuirí Tortbuillech",
@@ -12008,7 +12008,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1UrJ09h1eMe1oJ2sMiFhxofdca76h90rJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UrJ09h1eMe1oJ2sMiFhxofdca76h90rJ&sz=w1000"
     },
     "GUA-113": {
       "Nombre": "Finn Bhennach",
@@ -12017,7 +12017,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DuOj6Cg21kHFH60447z15cKykFcOnb4U/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DuOj6Cg21kHFH60447z15cKykFcOnb4U&sz=w1000"
     },
     "GUA-113F": {
       "Nombre": "Finn Bhennach",
@@ -12026,7 +12026,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1UsCBhYTRO7gBaGm9VIasMh5TTaVca-7m/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UsCBhYTRO7gBaGm9VIasMh5TTaVca-7m&sz=w1000"
     },
     "GUA-114": {
       "Nombre": "Cath Palug",
@@ -12035,7 +12035,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1DuxouBmaDn91GbzIDUB6RBSUGNjtWoor/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1DuxouBmaDn91GbzIDUB6RBSUGNjtWoor&sz=w1000"
     },
     "GUA-114F": {
       "Nombre": "Cath Palug",
@@ -12044,7 +12044,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1UsxKAxW8uFCnESq4Vrz4NKPpK_3SSuNM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1UsxKAxW8uFCnESq4Vrz4NKPpK_3SSuNM&sz=w1000"
     },
     "GUA-115": {
       "Nombre": "Conán Mac Morna",
@@ -12053,7 +12053,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EFl6QTy4moDX6rRiygwJfdic4fW8oqcx/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EFl6QTy4moDX6rRiygwJfdic4fW8oqcx&sz=w1000"
     },
     "GUA-115F": {
       "Nombre": "Conán Mac Morna",
@@ -12062,7 +12062,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1V4-NPLGYCRFcCxgDBgSwx6E_rgNgAISy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1V4-NPLGYCRFcCxgDBgSwx6E_rgNgAISy&sz=w1000"
     },
     "GUA-116": {
       "Nombre": "Goll Mac Morna",
@@ -12071,7 +12071,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EIAX5W67gUZB7HijsO6kuYOP0Z5RduRn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EIAX5W67gUZB7HijsO6kuYOP0Z5RduRn&sz=w1000"
     },
     "GUA-116F": {
       "Nombre": "Goll Mac Morna",
@@ -12080,7 +12080,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1V4GA2TmVPXauu3v0Pfac0Tfp99geHdUB/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1V4GA2TmVPXauu3v0Pfac0Tfp99geHdUB&sz=w1000"
     },
     "GUA-117": {
       "Nombre": "Óscar",
@@ -12089,7 +12089,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EJXAYqHfURT65HOePpGEjI_aDmKUE2CA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EJXAYqHfURT65HOePpGEjI_aDmKUE2CA&sz=w1000"
     },
     "GUA-117F": {
       "Nombre": "Óscar",
@@ -12098,7 +12098,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1V9MYXHWJR54svJuSvyezuylzh_lVZ8iq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1V9MYXHWJR54svJuSvyezuylzh_lVZ8iq&sz=w1000"
     },
     "GUA-118": {
       "Nombre": "Fiacha Sroiptine",
@@ -12107,7 +12107,7 @@
       "Fuerza": 1,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1EPAW_gfiL43aXu___H_fH-J4hKtGHQGc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1EPAW_gfiL43aXu___H_fH-J4hKtGHQGc&sz=w1000"
     },
     "GUA-118F": {
       "Nombre": "Fiacha Sroiptine",
@@ -12116,7 +12116,7 @@
       "Fuerza": 1,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1VFjuD_-AV3G65bBe8-uWEdJuI3FjALfq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VFjuD_-AV3G65bBe8-uWEdJuI3FjALfq&sz=w1000"
     },
     "GUA-119": {
       "Nombre": "Nathair Ghorm",
@@ -12125,7 +12125,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1F78PvNUvuKWEKrmBZ8KqVG1JOT28ePYn/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1F78PvNUvuKWEKrmBZ8KqVG1JOT28ePYn&sz=w1000"
     },
     "GUA-119F": {
       "Nombre": "Nathair Ghorm",
@@ -12134,7 +12134,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1VKL2u71q93yKbBQrpHqJ8LjzC65ek8Qh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VKL2u71q93yKbBQrpHqJ8LjzC65ek8Qh&sz=w1000"
     },
     "GUA-120": {
       "Nombre": "Nathair Mara",
@@ -12143,7 +12143,7 @@
       "Fuerza": 4,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1FAdZ4foOMK1x9FYW6YP1dsFgH_zKRw3F/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FAdZ4foOMK1x9FYW6YP1dsFgH_zKRw3F&sz=w1000"
     },
     "GUA-120F": {
       "Nombre": "Nathair Mara",
@@ -12152,7 +12152,7 @@
       "Fuerza": 4,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1VM6AadCXTGoWSCXF-btP8HA9IV6zfMH0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VM6AadCXTGoWSCXF-btP8HA9IV6zfMH0&sz=w1000"
     },
     "GUA-121": {
       "Nombre": "Nathair Teine",
@@ -12161,7 +12161,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1FLVZ4nNxvHlZ08SQVPXpVkpuLKcgJmGH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FLVZ4nNxvHlZ08SQVPXpVkpuLKcgJmGH&sz=w1000"
     },
     "GUA-121F": {
       "Nombre": "Nathair Teine",
@@ -12170,7 +12170,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1VNE6SPpeiQ8zdOHh4Bepkw0U7-b-kkXJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VNE6SPpeiQ8zdOHh4Bepkw0U7-b-kkXJ&sz=w1000"
     },
     "GUA-122": {
       "Nombre": "Nathair Ollmhór",
@@ -12179,7 +12179,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1FMOsEaYrmjVVwtaei8vxi1Hn760BWL-o/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1FMOsEaYrmjVVwtaei8vxi1Hn760BWL-o&sz=w1000"
     },
     "GUA-122F": {
       "Nombre": "Nathair Ollmhór",
@@ -12188,7 +12188,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1VOiv2z8EQ6E0T5ibAnfHiGWeDL6b0cru/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VOiv2z8EQ6E0T5ibAnfHiGWeDL6b0cru&sz=w1000"
     },
     "GUA-123": {
       "Nombre": "Gobniu",
@@ -12197,7 +12197,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I7ybRdZDoHlGlZPn4e-bHaOBcO2UW1Ol/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I7ybRdZDoHlGlZPn4e-bHaOBcO2UW1Ol&sz=w1000"
     },
     "GUA-123F": {
       "Nombre": "Gobniu",
@@ -12206,7 +12206,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VTGh-a7y3evX8WkZRab2qLkAW7oXl1Gm/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VTGh-a7y3evX8WkZRab2qLkAW7oXl1Gm&sz=w1000"
     },
     "GUA-124": {
       "Nombre": "Cairbre",
@@ -12215,7 +12215,7 @@
       "Fuerza": 6,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I8KaIF3MO7vUN8D-lIVicjp4sLxYsmYS/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I8KaIF3MO7vUN8D-lIVicjp4sLxYsmYS&sz=w1000"
     },
     "GUA-124F": {
       "Nombre": "Cairbre",
@@ -12224,7 +12224,7 @@
       "Fuerza": 6,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VUk4rySZkRR6K-JMNkyDQkRAHpqVRyzs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VUk4rySZkRR6K-JMNkyDQkRAHpqVRyzs&sz=w1000"
     },
     "GUA-125": {
       "Nombre": "Nemain",
@@ -12233,7 +12233,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1IDeL4HZVFAHQsomcq8dSxgQXxeTipsGK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IDeL4HZVFAHQsomcq8dSxgQXxeTipsGK&sz=w1000"
     },
     "GUA-125F": {
       "Nombre": "Nemain",
@@ -12242,7 +12242,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VXTJJYRkBVVHbLKDTbNSvlmecORsJzg8/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VXTJJYRkBVVHbLKDTbNSvlmecORsJzg8&sz=w1000"
     },
     "GUA-126": {
       "Nombre": "Cian",
@@ -12251,7 +12251,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1IOLnrDNOEGqZZyps_feHtxkCqL6VOT_m/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IOLnrDNOEGqZZyps_feHtxkCqL6VOT_m&sz=w1000"
     },
     "GUA-126F": {
       "Nombre": "Cian",
@@ -12260,7 +12260,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1VXc8QX8BES_MvJVy8jX2dcjniq3x1jIi/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VXc8QX8BES_MvJVy8jX2dcjniq3x1jIi&sz=w1000"
     },
     "GUA-127": {
       "Nombre": "Erc",
@@ -12269,7 +12269,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GyYDzdCjXwaAEjAdKOOnM4l2JPl2Gmqr/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GyYDzdCjXwaAEjAdKOOnM4l2JPl2Gmqr&sz=w1000"
     },
     "GUA-127F": {
       "Nombre": "Erc",
@@ -12278,7 +12278,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1VbWYU4jJNvGMVUgnEYajtbMygQ-8CixQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VbWYU4jJNvGMVUgnEYajtbMygQ-8CixQ&sz=w1000"
     },
     "GUA-128": {
       "Nombre": "Ailill Mac Máta",
@@ -12287,7 +12287,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GtPPxnMnBN3_P5fJbpz23G2tgfmWgzXs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GtPPxnMnBN3_P5fJbpz23G2tgfmWgzXs&sz=w1000"
     },
     "GUA-128F": {
       "Nombre": "Ailill Mac Máta",
@@ -12296,7 +12296,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Ve2LFsmL2HLpReFuPBuSxvyUopqwJ2q3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ve2LFsmL2HLpReFuPBuSxvyUopqwJ2q3&sz=w1000"
     },
     "GUA-129": {
       "Nombre": "Cúscraid",
@@ -12305,7 +12305,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1GsRXPGYl31yha33iyiXXlYK8BUQv0-ce/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GsRXPGYl31yha33iyiXXlYK8BUQv0-ce&sz=w1000"
     },
     "GUA-129F": {
       "Nombre": "Cúscraid",
@@ -12314,7 +12314,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1VetVW1pyf01jtDqnjmPif3WYlchEXgeP/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VetVW1pyf01jtDqnjmPif3WYlchEXgeP&sz=w1000"
     },
     "GUA-130": {
       "Nombre": "Áife",
@@ -12323,7 +12323,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Gnb_vaoidlvkgKvQ0GvJAvaBzVMISuJj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Gnb_vaoidlvkgKvQ0GvJAvaBzVMISuJj&sz=w1000"
     },
     "GUA-130F": {
       "Nombre": "Áife",
@@ -12332,7 +12332,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Vgslv0wKe-MFNz6xijWCOOzHv-qa8dyG/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Vgslv0wKe-MFNz6xijWCOOzHv-qa8dyG&sz=w1000"
     },
     "GUA-131": {
       "Nombre": "Caorthannach",
@@ -12341,7 +12341,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1GGhLnORzLk09EtTS2fcD_L1yUZ0leStI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GGhLnORzLk09EtTS2fcD_L1yUZ0leStI&sz=w1000"
     },
     "GUA-131F": {
       "Nombre": "Caorthannach",
@@ -12350,7 +12350,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Vl0qQ9d7pri3MVQ3_UgQ_NAWY6I1YN3k/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Vl0qQ9d7pri3MVQ3_UgQ_NAWY6I1YN3k&sz=w1000"
     },
     "GUA-132": {
       "Nombre": "Banshee Oscura",
@@ -12359,7 +12359,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1GHWZ32B5JhDIFG6xKUlm9lSuSlYnf94l/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GHWZ32B5JhDIFG6xKUlm9lSuSlYnf94l&sz=w1000"
     },
     "GUA-132F": {
       "Nombre": "Banshee Oscura",
@@ -12368,7 +12368,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VlxDKR-osJNjSltMqGBaeA85G7s9yeze/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VlxDKR-osJNjSltMqGBaeA85G7s9yeze&sz=w1000"
     },
     "GUA-133": {
       "Nombre": "Cethlenn",
@@ -12377,7 +12377,7 @@
       "Fuerza": 5,
       "Coste": 5,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1GHrj1TrRvpb8nAnsPm-t72J_7OQucvQX/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GHrj1TrRvpb8nAnsPm-t72J_7OQucvQX&sz=w1000"
     },
     "GUA-133F": {
       "Nombre": "Cethlenn",
@@ -12386,7 +12386,7 @@
       "Fuerza": 5,
       "Coste": 5,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1VmoazrS6vNq12NI16uxxx1qdZRfO0It0/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VmoazrS6vNq12NI16uxxx1qdZRfO0It0&sz=w1000"
     },
     "GUA-134": {
       "Nombre": "Las Serpientes Atacan",
@@ -12395,7 +12395,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1P_5COHsjxWgTxg7gObrBvak0oDH5TSw6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1P_5COHsjxWgTxg7gObrBvak0oDH5TSw6&sz=w1000"
     },
     "GUA-134F": {
       "Nombre": "Las Serpientes Atacan",
@@ -12404,7 +12404,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1VqchdtGZ-ltyF3UCbu_eNlGU5pbOhSGE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VqchdtGZ-ltyF3UCbu_eNlGU5pbOhSGE&sz=w1000"
     },
     "GUA-135": {
       "Nombre": "No Más Serpientes",
@@ -12413,7 +12413,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PcegplIYvH4lf2PSbk5WQC4rxW9WWfJH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PcegplIYvH4lf2PSbk5WQC4rxW9WWfJH&sz=w1000"
     },
     "GUA-135F": {
       "Nombre": "No Más Serpientes",
@@ -12422,7 +12422,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Vs9L-IXFIMOdsyTIkvCXzqsZI6vAY-Xj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Vs9L-IXFIMOdsyTIkvCXzqsZI6vAY-Xj&sz=w1000"
     },
     "GUA-136": {
       "Nombre": "Vuelo Druida",
@@ -12431,7 +12431,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Phd-GTenNIoPpk3_PReqA3SueQ-mDkN-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Phd-GTenNIoPpk3_PReqA3SueQ-mDkN-&sz=w1000"
     },
     "GUA-136F": {
       "Nombre": "Vuelo Druida",
@@ -12440,7 +12440,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1VwQFtcr1a1q0p_uobpVg4ElJoNehU_Iv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VwQFtcr1a1q0p_uobpVg4ElJoNehU_Iv&sz=w1000"
     },
     "GUA-137": {
       "Nombre": "Crear Talismán",
@@ -12449,7 +12449,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PjBA27WdUgyESIV2u_ZE1NEf3TWPk2Iy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PjBA27WdUgyESIV2u_ZE1NEf3TWPk2Iy&sz=w1000"
     },
     "GUA-137F": {
       "Nombre": "Crear Talismán",
@@ -12458,7 +12458,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1VzA9wx3ainzYUmCJPnzs_ods8z6hDn8g/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1VzA9wx3ainzYUmCJPnzs_ods8z6hDn8g&sz=w1000"
     },
     "GUA-138": {
       "Nombre": "Enbarr",
@@ -12467,7 +12467,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1GQCfsIKLuAGP2DHZ4c9XlJjM2vR_x3zf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1GQCfsIKLuAGP2DHZ4c9XlJjM2vR_x3zf&sz=w1000"
     },
     "GUA-138F": {
       "Nombre": "Enbarr",
@@ -12476,7 +12476,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1W8ThBLRKNXZlTE4JJU5YwuLjFNULhpav/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1W8ThBLRKNXZlTE4JJU5YwuLjFNULhpav&sz=w1000"
     },
     "GUA-139": {
       "Nombre": "Entrar en la Torre",
@@ -12485,7 +12485,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Pq2IubQVMa0U5h-YxnD3QdTBNXobbhAW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Pq2IubQVMa0U5h-YxnD3QdTBNXobbhAW&sz=w1000"
     },
     "GUA-139F": {
       "Nombre": "Entrar en la Torre",
@@ -12494,7 +12494,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WC1HzjPKQ04REL3mjQokJaYYEFSG0r8o/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WC1HzjPKQ04REL3mjQokJaYYEFSG0r8o&sz=w1000"
     },
     "GUA-140": {
       "Nombre": "Hoz de Druida",
@@ -12503,7 +12503,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PqIZc1at7-5yQQ1gUSzo6ROaGcvFfdJj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PqIZc1at7-5yQQ1gUSzo6ROaGcvFfdJj&sz=w1000"
     },
     "GUA-140F": {
       "Nombre": "Hoz de Druida",
@@ -12512,7 +12512,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WKQSyb0KbytdxRtStroBUgOAY0uln-Eh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WKQSyb0KbytdxRtStroBUgOAY0uln-Eh&sz=w1000"
     },
     "GUA-141": {
       "Nombre": "Escudo Largo",
@@ -12521,7 +12521,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PwEuFHSa-ja1kjK0bWfhXnIw-psjKCuI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PwEuFHSa-ja1kjK0bWfhXnIw-psjKCuI&sz=w1000"
     },
     "GUA-141F": {
       "Nombre": "Escudo Largo",
@@ -12530,7 +12530,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WN4FrTTNF26t0BPBvf9_CkQ5386ADsZ6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WN4FrTTNF26t0BPBvf9_CkQ5386ADsZ6&sz=w1000"
     },
     "GUA-142": {
       "Nombre": "Birgha",
@@ -12539,7 +12539,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1PwNKoBwjhoV1vnb5j0E9YMvBa9EL7fka/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1PwNKoBwjhoV1vnb5j0E9YMvBa9EL7fka&sz=w1000"
     },
     "GUA-142F": {
       "Nombre": "Birgha",
@@ -12548,7 +12548,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1WT01NAHj0SdMUcslQVe4FlTJufiq5xy7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1WT01NAHj0SdMUcslQVe4FlTJufiq5xy7&sz=w1000"
     },
     "GUA-143": {
       "Nombre": "Grianán de Ailech",
@@ -12557,7 +12557,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Px-ro3xRVWzDOD0XyBM_WQua80vLomBe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Px-ro3xRVWzDOD0XyBM_WQua80vLomBe&sz=w1000"
     },
     "GUA-143F": {
       "Nombre": "Grianán de Ailech",
@@ -12566,7 +12566,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Weo7zw8DsyqxcAQCl53Leb5xaYpT5gZR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Weo7zw8DsyqxcAQCl53Leb5xaYpT5gZR&sz=w1000"
     },
     "GUA-144": {
       "Nombre": "Lia Fáil",
@@ -12575,7 +12575,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Q1WbqI7_ZdtR9XTVPynkRLms-E_ZGqOI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Q1WbqI7_ZdtR9XTVPynkRLms-E_ZGqOI&sz=w1000"
     },
     "GUA-144F": {
       "Nombre": "Lia Fáil",
@@ -12584,7 +12584,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Wg9i4zeXXJbuxY7j9DldH4jBZb_YFKRf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Wg9i4zeXXJbuxY7j9DldH4jBZb_YFKRf&sz=w1000"
     },
     "GUA-145": {
       "Nombre": "Poll na Brón",
@@ -12593,7 +12593,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QAX0x378kq0q-64u4CAiKYCeMyW0409G/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QAX0x378kq0q-64u4CAiKYCeMyW0409G&sz=w1000"
     },
     "GUA-145F": {
       "Nombre": "Poll na Brón",
@@ -12602,7 +12602,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Wh-IjBFOCbuSTgrinyUdAjVZ-gfMOeJR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Wh-IjBFOCbuSTgrinyUdAjVZ-gfMOeJR&sz=w1000"
     },
     "GUA-146": {
       "Nombre": "Uathne",
@@ -12611,7 +12611,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QBsyae1lFQw3B7ZqLIHWX1qJ9PqrcLQv/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QBsyae1lFQw3B7ZqLIHWX1qJ9PqrcLQv&sz=w1000"
     },
     "GUA-147": {
       "Nombre": "Torc",
@@ -12620,7 +12620,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QDyEoizYQs3rHtQa40ojym2zbvhUveqo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QDyEoizYQs3rHtQa40ojym2zbvhUveqo&sz=w1000"
     },
     "GUA-148": {
       "Nombre": "Feileadh Mor",
@@ -12629,7 +12629,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QF6y5Gr9zi0UOoUQqMkGmQmTyGlQtFfU/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QF6y5Gr9zi0UOoUQqMkGmQmTyGlQtFfU&sz=w1000"
     },
     "GUA-149": {
       "Nombre": "Broche de Tara",
@@ -12638,7 +12638,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QFYQ8s-kHmSMbwXezu2FnLCxeim8vgH6/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QFYQ8s-kHmSMbwXezu2FnLCxeim8vgH6&sz=w1000"
     },
     "GUA-150": {
       "Nombre": "Trisquel",
@@ -12647,7 +12647,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QI4ZbGyHMR10ItO-3cFuC6Ol_0keFm_M/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QI4ZbGyHMR10ItO-3cFuC6Ol_0keFm_M&sz=w1000"
     },
     "GUA-151": {
       "Nombre": "Bestia de Tara",
@@ -12656,7 +12656,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1QNoY1122wBY6ysFVlws94019R633Wmez/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QNoY1122wBY6ysFVlws94019R633Wmez&sz=w1000"
     },
     "GUA-152": {
       "Nombre": "Reina Medb",
@@ -12665,7 +12665,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1QQCyiKLQ8tpRdJoDBbBKgTeXcULme2VH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QQCyiKLQ8tpRdJoDBbBKgTeXcULme2VH&sz=w1000"
     },
     "GUA-153": {
       "Nombre": "Lig na Paiste",
@@ -12674,7 +12674,7 @@
       "Fuerza": 4,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1CK-UmjqX7uyNXIVq3hTA7OQC8wQOFjdy/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1CK-UmjqX7uyNXIVq3hTA7OQC8wQOFjdy&sz=w1000"
     },
     "GUA-154": {
       "Nombre": "Daana",
@@ -12683,7 +12683,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1IWmo_ajxpKfyoGszavw0UOZwUDXTLiLq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IWmo_ajxpKfyoGszavw0UOZwUDXTLiLq&sz=w1000"
     },
     "GUA-155": {
       "Nombre": "Fergus Mac Róich",
@@ -12692,7 +12692,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1QQEMIo2nDrF6YnqsSRxEPa6ylD0L7FYK/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QQEMIo2nDrF6YnqsSRxEPa6ylD0L7FYK&sz=w1000"
     },
     "GUA-156": {
       "Nombre": "Balor",
@@ -12701,7 +12701,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1QXYkKHLL-tqy8QmxSEI_kTt_U01zxiTc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QXYkKHLL-tqy8QmxSEI_kTt_U01zxiTc&sz=w1000"
     },
     "GUA-157": {
       "Nombre": "Morir de Pie",
@@ -12710,7 +12710,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QbyYCTNtrjuyGa9VPxKEu8vKpac3cFiT/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QbyYCTNtrjuyGa9VPxKEu8vKpac3cFiT&sz=w1000"
     },
     "GUA-158": {
       "Nombre": "Fe Sin Límite",
@@ -12719,7 +12719,7 @@
       "Fuerza": null,
       "Coste": 0,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Qd03YzMcQCqhu8E4mKlbOLz_jszQ2iZe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Qd03YzMcQCqhu8E4mKlbOLz_jszQ2iZe&sz=w1000"
     },
     "GUA-159": {
       "Nombre": "Ira Ignea",
@@ -12728,7 +12728,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QipIhb_0cRJULHcEWN7ML7TbslEVtfhb/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QipIhb_0cRJULHcEWN7ML7TbslEVtfhb&sz=w1000"
     },
     "GUA-160": {
       "Nombre": "Incinerar",
@@ -12737,7 +12737,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Qm6kzO7_U8ye1HEvYoy-qDOgbs6DzSyL/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Qm6kzO7_U8ye1HEvYoy-qDOgbs6DzSyL&sz=w1000"
     },
     "GUA-161": {
       "Nombre": "Don de Gaia",
@@ -12746,7 +12746,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QmO4bSH8px4FbAmZXjeIoUVHGlxXAOHo/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QmO4bSH8px4FbAmZXjeIoUVHGlxXAOHo&sz=w1000"
     },
     "GUA-162": {
       "Nombre": "Trempulcahue",
@@ -12755,7 +12755,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QmrRILJ6qiXd8LLXlashgflD-9_yDk1k/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QmrRILJ6qiXd8LLXlashgflD-9_yDk1k&sz=w1000"
     },
     "GUA-163": {
       "Nombre": "Despertar Oscuro",
@@ -12764,7 +12764,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QnK6cVp_4uWNkRq6rmz1GcfkHU_dp9LO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QnK6cVp_4uWNkRq6rmz1GcfkHU_dp9LO&sz=w1000"
     },
     "GUA-164": {
       "Nombre": "Tír na Nóg",
@@ -12773,7 +12773,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QrsKjEG9j9Bt0BlPjBr3kEFkS2yUIzHh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QrsKjEG9j9Bt0BlPjBr3kEFkS2yUIzHh&sz=w1000"
     },
     "GUA-165": {
       "Nombre": "Danza Sidhe",
@@ -12782,7 +12782,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QtBr8BNLu-YoTBwi99qKWq_n_PNbq3Iq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QtBr8BNLu-YoTBwi99qKWq_n_PNbq3Iq&sz=w1000"
     },
     "GUA-166": {
       "Nombre": "Manzana Sidhe",
@@ -12791,7 +12791,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Qtb3fKGfHiEiPEt7JC8i7rxuMMw6HtyR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Qtb3fKGfHiEiPEt7JC8i7rxuMMw6HtyR&sz=w1000"
     },
     "GUA-167": {
       "Nombre": "Batalla de Mag Tuired",
@@ -12800,7 +12800,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1QyxnQ117pkt5pPQQ4T37gn_xhHNLXC0E/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1QyxnQ117pkt5pPQQ4T37gn_xhHNLXC0E&sz=w1000"
     },
     "GUA-168": {
       "Nombre": "Guardianes de Daana 2024",
@@ -12809,7 +12809,7 @@
       "Fuerza": null,
       "Coste": null,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1IxpSDeMK63rLbM_tTZ0SIubO5b5uTAJh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IxpSDeMK63rLbM_tTZ0SIubO5b5uTAJh&sz=w1000"
     },
     "GUA-169": {
       "Nombre": "Niall",
@@ -12818,7 +12818,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1I_o3sNg7lDmKyoV_glJuCmNJ0xVBdk8M/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I_o3sNg7lDmKyoV_glJuCmNJ0xVBdk8M&sz=w1000"
     },
     "GUA-170": {
       "Nombre": "Midir",
@@ -12827,7 +12827,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1I_z7uGIIMGMSRPuLLVO2RQdn13QQ_0WV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1I_z7uGIIMGMSRPuLLVO2RQdn13QQ_0WV&sz=w1000"
     },
     "GUA-171": {
       "Nombre": "Cú Roi",
@@ -12836,7 +12836,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Idkxv-8l7zqHaEu9S30Ro1R0xADPcEl3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Idkxv-8l7zqHaEu9S30Ro1R0xADPcEl3&sz=w1000"
     },
     "GUA-172": {
       "Nombre": "Rescate",
@@ -12845,7 +12845,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1IeCjzQqthLRMjXGz7kiHx7WjAZOELPzj/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IeCjzQqthLRMjXGz7kiHx7WjAZOELPzj&sz=w1000"
     },
     "GUA-173": {
       "Nombre": "Asalto Marino",
@@ -12854,7 +12854,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1IhpzXV9xoOo6PGlSoB9B2yhGjhTrPF9n/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IhpzXV9xoOo6PGlSoB9B2yhGjhTrPF9n&sz=w1000"
     },
     "GUA-174": {
       "Nombre": "Loscenn-Lomm",
@@ -12863,7 +12863,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1IjswdVuBJlM2RqRE-vhi6oXzjLLGniXJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IjswdVuBJlM2RqRE-vhi6oXzjLLGniXJ&sz=w1000"
     },
     "GUA-175": {
       "Nombre": "Dragón Fomoriano",
@@ -12872,7 +12872,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1IqqvFba2ZLxRmqLMQZKjqeEp7eDN7VZ5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IqqvFba2ZLxRmqLMQZKjqeEp7eDN7VZ5&sz=w1000"
     },
     "GUA-176": {
       "Nombre": "Regan",
@@ -12881,7 +12881,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1Iveg8qnUD6XVWCFKSAzo96B4XEedXF0w/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Iveg8qnUD6XVWCFKSAzo96B4XEedXF0w&sz=w1000"
     },
     "GUA-177": {
       "Nombre": "Porta Dolores",
@@ -12890,7 +12890,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1IwTkTMjrE52_3CJQ3wmVjFHKqJmxeqOh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IwTkTMjrE52_3CJQ3wmVjFHKqJmxeqOh&sz=w1000"
     },
     "GUA-178": {
       "Nombre": "Crear Dragón",
@@ -12899,7 +12899,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1IwYKelzFrbgU84FQn0GWAEv6tFL4qTBe/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IwYKelzFrbgU84FQn0GWAEv6tFL4qTBe&sz=w1000"
     },
     "GUA-179": {
       "Nombre": "Rayo",
@@ -12908,7 +12908,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1R7IExqdkK7AGEII6LjQshaUHYJ3dZdew/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1R7IExqdkK7AGEII6LjQshaUHYJ3dZdew&sz=w1000"
     },
     "GUA-180": {
       "Nombre": "Boia de Fuego",
@@ -12917,7 +12917,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1R9RAbiym5mD1VjczEFk1wyjzMyEZjNWR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1R9RAbiym5mD1VjczEFk1wyjzMyEZjNWR&sz=w1000"
     },
     "GUA-181": {
       "Nombre": "Humbaba",
@@ -12926,7 +12926,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1RGfg8Y_5zInnlWblDtGYtLnsY0SA_3Gw/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RGfg8Y_5zInnlWblDtGYtLnsY0SA_3Gw&sz=w1000"
     },
     "GUA-182": {
       "Nombre": "Pitón",
@@ -12935,7 +12935,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1RIlYBjDl-xJj88Pm86lnkr2f1bcFpNbs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RIlYBjDl-xJj88Pm86lnkr2f1bcFpNbs&sz=w1000"
     },
     "GUA-183": {
       "Nombre": "Arturo Pendragón",
@@ -12944,7 +12944,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1RKuaeN4fisnFDLwaBPryFrmIpyYl5R8y/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RKuaeN4fisnFDLwaBPryFrmIpyYl5R8y&sz=w1000"
     },
     "GUA-184": {
       "Nombre": "Ares Androfontes",
@@ -12953,7 +12953,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1RMthqcks6TksVT3hmD_yTIPQCsCyuJRH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RMthqcks6TksVT3hmD_yTIPQCsCyuJRH&sz=w1000"
     },
     "GUA-185": {
       "Nombre": "Helena",
@@ -12962,7 +12962,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1RR1C_atFwec5M9HamgvsDnuYGWfCuVJI/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RR1C_atFwec5M9HamgvsDnuYGWfCuVJI&sz=w1000"
     },
     "GUA-186": {
       "Nombre": "Morgause",
@@ -12971,7 +12971,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1RT-4AyPMWUUaX6Baom_IsENFMimog3co/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RT-4AyPMWUUaX6Baom_IsENFMimog3co&sz=w1000"
     },
     "GUA-187": {
       "Nombre": "Sarras",
@@ -12980,7 +12980,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RY1YnQYfdhdoKMwnHRAmMZtVZilllXcN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RY1YnQYfdhdoKMwnHRAmMZtVZilllXcN&sz=w1000"
     },
     "UA-188": {
       "Nombre": "Sanar al Rey",
@@ -12989,7 +12989,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RY2hBhJuFF6tPgmKzF82lanUDStL33h7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RY2hBhJuFF6tPgmKzF82lanUDStL33h7&sz=w1000"
     },
     "GUA-189": {
       "Nombre": "Immrama",
@@ -12998,7 +12998,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Cpwek1G2mNPDlS3Olta6_-GF5005QQ6x/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Cpwek1G2mNPDlS3Olta6_-GF5005QQ6x&sz=w1000"
     },
     "GUA-190": {
       "Nombre": "Sidhe Gaoithe",
@@ -13007,7 +13007,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1CsewNkmRFS2Ow5ivtDN69iutSoVLXwM_/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1CsewNkmRFS2Ow5ivtDN69iutSoVLXwM_&sz=w1000"
     },
     "GUA-191": {
       "Nombre": "Dominios de Daana",
@@ -13016,7 +13016,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RbncFrA73tF4n8DfSnNTlfX4rrHz6PKW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RbncFrA73tF4n8DfSnNTlfX4rrHz6PKW&sz=w1000"
     },
     "GUA-192": {
       "Nombre": "Red de Plata",
@@ -13025,7 +13025,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RchrMr4kTS2b92D9E_PRFVIuPaaFcTrQ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RchrMr4kTS2b92D9E_PRFVIuPaaFcTrQ&sz=w1000"
     },
     "GUA-193": {
       "Nombre": "Tuatha de Daanán",
@@ -13034,7 +13034,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RevmwoOdTm7RFLEX8xlyUEehIn4M9WGP/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RevmwoOdTm7RFLEX8xlyUEehIn4M9WGP&sz=w1000"
     },
     "GUA-194": {
       "Nombre": "Caldero de la Abundancia",
@@ -13043,7 +13043,7 @@
       "Fuerza": null,
       "Coste": 0,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Ri4BTBaGq9FdoBRmPcdUw8-daF9w29bq/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Ri4BTBaGq9FdoBRmPcdUw8-daF9w29bq&sz=w1000"
     },
     "GUA-195": {
       "Nombre": "Lanza de Lugh",
@@ -13052,7 +13052,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RrJY5yUEeeGHPEDRdeJGxbHXMC_7OoUa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RrJY5yUEeeGHPEDRdeJGxbHXMC_7OoUa&sz=w1000"
     },
     "GUA-196": {
       "Nombre": "Minas de Cruach",
@@ -13061,7 +13061,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RsOoQYY6SIoPcTnALlSExl8eJfopLY5R/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RsOoQYY6SIoPcTnALlSExl8eJfopLY5R&sz=w1000"
     },
     "GUA-197": {
       "Nombre": "Meditación Glacial",
@@ -13070,7 +13070,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Cedjy-9UV1VKtAxUDauso9WdecGPFuY5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Cedjy-9UV1VKtAxUDauso9WdecGPFuY5&sz=w1000"
     },
     "GUA-198": {
       "Nombre": "Conjurar Lobos",
@@ -13079,7 +13079,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1K4E9DMblhUk6JUFRRi0SqVb8ZQL0MvS9/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1K4E9DMblhUk6JUFRRi0SqVb8ZQL0MvS9&sz=w1000"
     },
     "GUA-199": {
       "Nombre": "Hacha de Donegal",
@@ -13088,7 +13088,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1JfqX-Tdz1fhBIOB-x09KVfkZN2XE20FD/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JfqX-Tdz1fhBIOB-x09KVfkZN2XE20FD&sz=w1000"
     },
     "GUA-200": {
       "Nombre": "Asesino de Druidas",
@@ -13097,7 +13097,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1K65adQOf5KxKjdnb5OFbVNKJhJZrMbEJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1K65adQOf5KxKjdnb5OFbVNKJhJZrMbEJ&sz=w1000"
     },
     "GUA-201": {
       "Nombre": "Dientes Afilados",
@@ -13106,7 +13106,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Jk-lmotGlkVRhHMerG7aNKPcM9WyUlBa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Jk-lmotGlkVRhHMerG7aNKPcM9WyUlBa&sz=w1000"
     },
     "GUA-202": {
       "Nombre": "Samhain",
@@ -13115,7 +13115,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1JkznxugstbMMdoknrMq9DKxneI4L52CE/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JkznxugstbMMdoknrMq9DKxneI4L52CE&sz=w1000"
     },
     "GUA-203": {
       "Nombre": "Beltaine",
@@ -13124,7 +13124,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1Jvor42XB7JDKkCNtUxdVnYqRnaDsnull/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Jvor42XB7JDKkCNtUxdVnYqRnaDsnull&sz=w1000"
     },
     "GUA-204": {
       "Nombre": "Shillelagh",
@@ -13133,7 +13133,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1JxaM5xXIYl04KFiZg4S7j5Saan7311rJ/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JxaM5xXIYl04KFiZg4S7j5Saan7311rJ&sz=w1000"
     },
     "GUA-205": {
       "Nombre": "Bosque de las Mentiras",
@@ -13142,7 +13142,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1K1DLurLGL7zJOApfwmOivk--YJVRpY40/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1K1DLurLGL7zJOApfwmOivk--YJVRpY40&sz=w1000"
     },
     "GUA-206": {
       "Nombre": "Airitech",
@@ -13151,7 +13151,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1JCOi9XR26Ghz0RFHbuC5GLDHF3S10_T-/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JCOi9XR26Ghz0RFHbuC5GLDHF3S10_T-&sz=w1000"
     },
     "GUA-207": {
       "Nombre": "Diarmait",
@@ -13160,7 +13160,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1JEeHVQOz_acwqbjPPUmWvGybNJujfjsh/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JEeHVQOz_acwqbjPPUmWvGybNJujfjsh&sz=w1000"
     },
     "GUA-208": {
       "Nombre": "Cata",
@@ -13169,7 +13169,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1JMAiuln6QixKj0fdTmu9LY5LENvbYObW/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JMAiuln6QixKj0fdTmu9LY5LENvbYObW&sz=w1000"
     },
     "GUA-209": {
       "Nombre": "Caer Iborneith",
@@ -13178,7 +13178,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1JRjt1thV_qcw2brOXTE-bAd-X5GB1-R7/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JRjt1thV_qcw2brOXTE-bAd-X5GB1-R7&sz=w1000"
     },
     "GUA-210": {
       "Nombre": "Art Mac Guinn",
@@ -13187,7 +13187,7 @@
       "Fuerza": 1,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1JV13YKhYx3gnZQQ2gu4JTkyaM7c8ESpH/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JV13YKhYx3gnZQQ2gu4JTkyaM7c8ESpH&sz=w1000"
     },
     "GUA-211": {
       "Nombre": "Octrialach",
@@ -13196,7 +13196,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1JZmeJjj3PYK0g-0bil5kgoN8wAmafkyf/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JZmeJjj3PYK0g-0bil5kgoN8wAmafkyf&sz=w1000"
     },
     "GUA-212": {
       "Nombre": "Tarbh Uisge",
@@ -13205,7 +13205,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1IzPla3GwPxGgJ8aBzu4GnQNOZ5O_qGBB/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IzPla3GwPxGgJ8aBzu4GnQNOZ5O_qGBB&sz=w1000"
     },
     "GUA-213": {
       "Nombre": "Oisín",
@@ -13214,7 +13214,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1IzepsDENqfh-iHR4ZF2WgL2iuciQ9g5W/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1IzepsDENqfh-iHR4ZF2WgL2iuciQ9g5W&sz=w1000"
     },
     "GUA-214": {
       "Nombre": "Caoránach",
@@ -13223,7 +13223,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1J1_Ka3uTvfMBsy77AOLyOqFEZev1sKJR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1J1_Ka3uTvfMBsy77AOLyOqFEZev1sKJR&sz=w1000"
     },
     "GUA-215": {
       "Nombre": "Brigid",
@@ -13232,7 +13232,7 @@
       "Fuerza": 2,
       "Coste": 2,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1J4pJr-qRXh8UmRg1x22CrKeQiq3Ideqa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1J4pJr-qRXh8UmRg1x22CrKeQiq3Ideqa&sz=w1000"
     },
     "GUA-216": {
       "Nombre": "Connla",
@@ -13241,7 +13241,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1J7CB_VjC6GUJMGSfwbQhxP1oTlelTCNN/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1J7CB_VjC6GUJMGSfwbQhxP1oTlelTCNN&sz=w1000"
     },
     "GUA-217": {
       "Nombre": "Cichol Grícenchos",
@@ -13250,7 +13250,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1JCMGd2cIo9tcDOxezLCXr-L_oAuhPiv2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1JCMGd2cIo9tcDOxezLCXr-L_oAuhPiv2&sz=w1000"
     },
     "GUA-218": {
       "Nombre": "Hijos de Lir",
@@ -13259,7 +13259,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1D-Je4u3QoSXPqwwTgVEYaP91Ci_LJECV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D-Je4u3QoSXPqwwTgVEYaP91Ci_LJECV&sz=w1000"
     },
     "GUA-219": {
       "Nombre": "An Torc Diabhalta",
@@ -13268,7 +13268,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Bestia",
-      "Arte": "https://drive.google.com/file/d/1RsVrrYl2SClvFuF7ykHSwWQV07GFzPBc/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RsVrrYl2SClvFuF7ykHSwWQV07GFzPBc&sz=w1000"
     },
     "GUA-220": {
       "Nombre": "Mag Mell",
@@ -13277,7 +13277,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RzNLIEVqlUrCDJh9_qDOJSeZiQKLD6kR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RzNLIEVqlUrCDJh9_qDOJSeZiQKLD6kR&sz=w1000"
     },
     "GUA-221": {
       "Nombre": "Mac Da Thó",
@@ -13286,7 +13286,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1S-r5VmhK_AqEsxoU4yqJyyfuDOT2nbTA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1S-r5VmhK_AqEsxoU4yqJyyfuDOT2nbTA&sz=w1000"
     },
     "GUA-222": {
       "Nombre": "Fraoch Mór",
@@ -13295,7 +13295,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1S6Z5DZXw52fCJMBh2YklvSDwz4PeoMC5/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1S6Z5DZXw52fCJMBh2YklvSDwz4PeoMC5&sz=w1000"
     },
     "GUA-223": {
       "Nombre": "Ellén Trechend",
@@ -13304,7 +13304,7 @@
       "Fuerza": 4,
       "Coste": 4,
       "Raza": "Dragón",
-      "Arte": "https://drive.google.com/file/d/1SBch-rHcRA56aqtfgCOkH6S7IW4ZQxNA/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SBch-rHcRA56aqtfgCOkH6S7IW4ZQxNA&sz=w1000"
     },
     "GUA-224": {
       "Nombre": "Ojo Espía",
@@ -13313,7 +13313,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1SOakgXSgKtjpqG9rlVjPv2IaYTOSlcp3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SOakgXSgKtjpqG9rlVjPv2IaYTOSlcp3&sz=w1000"
     },
     "GUA-225": {
       "Nombre": "Macha",
@@ -13322,7 +13322,7 @@
       "Fuerza": 2,
       "Coste": 3,
       "Raza": "Eterno",
-      "Arte": "https://drive.google.com/file/d/1SRX5bSkuwBDZCRAXMtDkZ2NGO-1Vl8t4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SRX5bSkuwBDZCRAXMtDkZ2NGO-1Vl8t4&sz=w1000"
     },
     "GUA-226": {
       "Nombre": "Lángo de Espinas",
@@ -13331,7 +13331,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1CtYnj0bOjO7JgPiDjm97Mutq9E_7mfyt/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1CtYnj0bOjO7JgPiDjm97Mutq9E_7mfyt&sz=w1000"
     },
     "GUA-227": {
       "Nombre": "Cet",
@@ -13340,7 +13340,7 @@
       "Fuerza": 2,
       "Coste": 1,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1STekQFaqXmlBDKtfgbiBMtOZVDTe4RtC/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1STekQFaqXmlBDKtfgbiBMtOZVDTe4RtC&sz=w1000"
     },
     "GUA-228": {
       "Nombre": "Abhartach",
@@ -13349,7 +13349,7 @@
       "Fuerza": 3,
       "Coste": 3,
       "Raza": "Sombra",
-      "Arte": "https://drive.google.com/file/d/1SZBK1Lr5o85MWa3JANH8KxaseeRMa7o2/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SZBK1Lr5o85MWa3JANH8KxaseeRMa7o2&sz=w1000"
     },
     "GUA-229": {
       "Nombre": "Danza Sidhe Regional",
@@ -13358,7 +13358,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1SglyU7yx4hBCSoCqhTnjRxq-WDqInsKO/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SglyU7yx4hBCSoCqhTnjRxq-WDqInsKO&sz=w1000"
     },
     "GUA-230": {
       "Nombre": "Anchimallén",
@@ -13367,7 +13367,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1SjJU3KC7181-uEbXeHa0NTtZvHknG-S3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SjJU3KC7181-uEbXeHa0NTtZvHknG-S3&sz=w1000"
     },
     "GUA-231": {
       "Nombre": "Derribar Montañas",
@@ -13376,7 +13376,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1D1C45cdDK__ciwaAK7GxYpM67I38344s/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D1C45cdDK__ciwaAK7GxYpM67I38344s&sz=w1000"
     },
     "GUA-232": {
       "Nombre": "Incinerar",
@@ -13385,7 +13385,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1SkmbgNQmwBEbd49sHoemNBpPyGLAQu9c/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SkmbgNQmwBEbd49sHoemNBpPyGLAQu9c&sz=w1000"
     },
     "GUA-233": {
       "Nombre": "Don de Gaia",
@@ -13394,7 +13394,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1BuPQjYFc49s6kLNyK4UgYtx_ePruzRaM/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1BuPQjYFc49s6kLNyK4UgYtx_ePruzRaM&sz=w1000"
     },
     "GUA-234": {
       "Nombre": "Trempulcahue",
@@ -13403,7 +13403,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1D1HuYpX1GC7DlofK_J6vOTpGzhtyzZyV/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1D1HuYpX1GC7DlofK_J6vOTpGzhtyzZyV&sz=w1000"
     },
     "GUA-235": {
       "Nombre": "Morir de Pie",
@@ -13412,7 +13412,7 @@
       "Fuerza": null,
       "Coste": 1,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1SpjVq3Q0k3yhayzCQtkos0FwFI4nOkfa/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1SpjVq3Q0k3yhayzCQtkos0FwFI4nOkfa&sz=w1000"
     },
     "GUA-236": {
       "Nombre": null,
@@ -13439,7 +13439,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1brqE74j7GphiGj7pwJ4hnTgU19vk8BkL/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1brqE74j7GphiGj7pwJ4hnTgU19vk8BkL&sz=w1000"
     },
     "GUA-239": {
       "Nombre": "Monolito Celta",
@@ -13448,7 +13448,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1brzqFMCVhMBJsnWMnCrVVAnpldriPG2X/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1brzqFMCVhMBJsnWMnCrVVAnpldriPG2X&sz=w1000"
     },
     "GUA-240": {
       "Nombre": "Reanimar",
@@ -13457,7 +13457,7 @@
       "Fuerza": null,
       "Coste": 4,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1zHpsTZdSLTbDaLS45fZiDhJi8ioO-OSs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1zHpsTZdSLTbDaLS45fZiDhJi8ioO-OSs&sz=w1000"
     },
     "GUA-241": {
       "Nombre": "Amuleto de Luperca",
@@ -13466,7 +13466,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1dJEBkmxgiyJVBElgiKJLMONCjtRwbszl/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1dJEBkmxgiyJVBElgiKJLMONCjtRwbszl&sz=w1000"
     },
     "GUA-242": {
       "Nombre": "Amuleto de Titania",
@@ -13475,7 +13475,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1d-RSnnGiawvSGNzja0tQ1_x54acosk_4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1d-RSnnGiawvSGNzja0tQ1_x54acosk_4&sz=w1000"
     },
     "GUA-243": {
       "Nombre": "Amuleto de Invidia",
@@ -13484,7 +13484,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1cfjVfgxsjXz1g8PCNXgG2EKh3AXNODQs/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1cfjVfgxsjXz1g8PCNXgG2EKh3AXNODQs&sz=w1000"
     },
     "GUA-244": {
       "Nombre": "Amuleto de Lancelot",
@@ -13493,7 +13493,7 @@
       "Fuerza": null,
       "Coste": 3,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1d9wmNbw6hto6K6G8GMFzqKVkrXAijZT3/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1d9wmNbw6hto6K6G8GMFzqKVkrXAijZT3&sz=w1000"
     },
     "GUA-245": {
       "Nombre": "Amuleto de Aquiles",
@@ -13502,7 +13502,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1d8zY0qWbdhCOoE8116yKBX4ymQe2q-XR/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1d8zY0qWbdhCOoE8116yKBX4ymQe2q-XR&sz=w1000"
     },
     "GUA-246": {
       "Nombre": "Amuleto de Quetzalcóatl",
@@ -13511,7 +13511,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1cllgSKR62dAG_WQqXuGQ0J2Pc_BzY1lP/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1cllgSKR62dAG_WQqXuGQ0J2Pc_BzY1lP&sz=w1000"
     },
     "GUA-247": {
       "Nombre": null,
@@ -13538,7 +13538,7 @@
       "Fuerza": null,
       "Coste": 2,
       "Raza": null,
-      "Arte": "https://drive.google.com/file/d/1RLVYDdKcuOuTprQ4FDX--q9j54zBtdd4/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1RLVYDdKcuOuTprQ4FDX--q9j54zBtdd4&sz=w1000"
     },
     "GUA-250": {
       "Nombre": "Hong Bao",
@@ -13547,7 +13547,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Caballero",
-      "Arte": "https://drive.google.com/file/d/1fMq0bu-UbaO_qSA7X7JaqaNFtjUel210/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1fMq0bu-UbaO_qSA7X7JaqaNFtjUel210&sz=w1000"
     },
     "GUA-253": {
       "Nombre": "Chagatai Kan",
@@ -13556,7 +13556,7 @@
       "Fuerza": 3,
       "Coste": 2,
       "Raza": "Guerrero",
-      "Arte": "https://drive.google.com/file/d/1Wn3MafphZ3duH3b0Q1R75Aivl3ARtf1l/view?usp=drivesdk"
+      "Arte": "https://drive.google.com/thumbnail?id=1Wn3MafphZ3duH3b0Q1R75Aivl3ARtf1l&sz=w1000"
     }
   },
   "KIN": {
