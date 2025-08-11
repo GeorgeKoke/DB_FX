@@ -10318,7 +10318,7 @@
     },
     "GUE-180": {
       "Nombre": "Madre de las Serpientes",
-      "Frecuencia": "Ancestral",
+      "Frecuencia": "Promo",
       "TipoCarta": "Talismán",
       "Fuerza": null,
       "Coste": 2,
@@ -10603,6 +10603,15 @@
       "Coste": 3,
       "Raza": null,
       "Arte": "https://drive.google.com/thumbnail?id=1DnKvJi87ueXk5IcxbybU7kHFuAYnXuQx&sz=w1000"
+    },
+    "GUE-212O": {
+      "Nombre": "Guerreros del Sol 2024",
+      "Frecuencia": "Promo",
+      "TipoCarta": "Oro",
+      "Fuerza": null,
+      "Coste": null,
+      "Raza": null,
+      "Arte": "https://drive.google.com/thumbnail?id=18mRpN7IJ9Ho4Ah9S14fZNPiT0GS11kKX&sz=w1000"
     },
     "GUE-212": {
       "Nombre": "Takam",
